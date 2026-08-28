@@ -1,0 +1,4315 @@
+Customer ID,Customer_Segment,Order_Count,Customer_Type
+12346.0,Potential Loyalists,11,Repeat Customer
+12347.0,Loyal Customers,2,Repeat Customer
+12348.0,Lost / Hibernating,1,One-Time Customer
+12349.0,Loyal Customers,3,Repeat Customer
+12351.0,Potential Loyalists,1,One-Time Customer
+12352.0,Potential Loyalists,2,Repeat Customer
+12353.0,At Risk,1,One-Time Customer
+12355.0,Lost / Hibernating,1,One-Time Customer
+12356.0,Loyal Customers,3,Repeat Customer
+12357.0,Loyal Customers,2,Repeat Customer
+12358.0,VIP / Champions,3,Repeat Customer
+12359.0,Loyal Customers,6,Repeat Customer
+12360.0,VIP / Champions,5,Repeat Customer
+12361.0,Potential Loyalists,3,Repeat Customer
+12362.0,Lost / Hibernating,1,One-Time Customer
+12366.0,At Risk,1,One-Time Customer
+12368.0,At Risk,1,One-Time Customer
+12369.0,Loyal Customers,3,Repeat Customer
+12370.0,Potential Loyalists,3,Repeat Customer
+12371.0,Loyal Customers,3,Repeat Customer
+12373.0,At Risk,2,Repeat Customer
+12374.0,Loyal Customers,3,Repeat Customer
+12376.0,Potential Loyalists,2,Repeat Customer
+12377.0,Loyal Customers,2,Repeat Customer
+12378.0,At Risk,1,One-Time Customer
+12379.0,Potential Loyalists,2,Repeat Customer
+12380.0,Loyal Customers,7,Repeat Customer
+12385.0,Loyal Customers,1,One-Time Customer
+12386.0,Potential Loyalists,1,One-Time Customer
+12387.0,At Risk,1,One-Time Customer
+12388.0,Potential Loyalists,2,Repeat Customer
+12389.0,Loyal Customers,3,Repeat Customer
+12391.0,Loyal Customers,5,Repeat Customer
+12392.0,Lost / Hibernating,1,One-Time Customer
+12393.0,Potential Loyalists,2,Repeat Customer
+12395.0,VIP / Champions,4,Repeat Customer
+12396.0,At Risk,1,One-Time Customer
+12399.0,Loyal Customers,3,Repeat Customer
+12400.0,At Risk,1,One-Time Customer
+12402.0,Loyal Customers,5,Repeat Customer
+12403.0,At Risk,1,One-Time Customer
+12404.0,Lost / Hibernating,1,One-Time Customer
+12406.0,Loyal Customers,3,Repeat Customer
+12408.0,Loyal Customers,3,Repeat Customer
+12409.0,Loyal Customers,4,Repeat Customer
+12410.0,At Risk,1,One-Time Customer
+12411.0,At Risk,1,One-Time Customer
+12412.0,Loyal Customers,3,Repeat Customer
+12413.0,At Risk,1,One-Time Customer
+12414.0,Potential Loyalists,3,Repeat Customer
+12415.0,VIP / Champions,7,Repeat Customer
+12416.0,Lost / Hibernating,1,One-Time Customer
+12417.0,VIP / Champions,11,Repeat Customer
+12418.0,Loyal Customers,3,Repeat Customer
+12419.0,Potential Loyalists,2,Repeat Customer
+12421.0,Potential Loyalists,2,Repeat Customer
+12422.0,VIP / Champions,14,Repeat Customer
+12423.0,Potential Loyalists,2,Repeat Customer
+12424.0,Potential Loyalists,2,Repeat Customer
+12425.0,At Risk,1,One-Time Customer
+12426.0,At Risk,1,One-Time Customer
+12427.0,Potential Loyalists,1,One-Time Customer
+12429.0,VIP / Champions,5,Repeat Customer
+12431.0,VIP / Champions,13,Repeat Customer
+12433.0,VIP / Champions,5,Repeat Customer
+12434.0,Potential Loyalists,1,One-Time Customer
+12435.0,VIP / Champions,4,Repeat Customer
+12437.0,VIP / Champions,21,Repeat Customer
+12439.0,Potential Loyalists,2,Repeat Customer
+12440.0,Potential Loyalists,2,Repeat Customer
+12441.0,Potential Loyalists,1,One-Time Customer
+12443.0,Lost / Hibernating,1,One-Time Customer
+12445.0,At Risk,1,One-Time Customer
+12449.0,Potential Loyalists,2,Repeat Customer
+12450.0,Potential Loyalists,3,Repeat Customer
+12451.0,Loyal Customers,3,Repeat Customer
+12454.0,VIP / Champions,4,Repeat Customer
+12455.0,Loyal Customers,4,Repeat Customer
+12457.0,Potential Loyalists,1,One-Time Customer
+12458.0,Potential Loyalists,2,Repeat Customer
+12459.0,Lost / Hibernating,1,One-Time Customer
+12460.0,At Risk,1,One-Time Customer
+12466.0,Lost / Hibernating,1,One-Time Customer
+12467.0,At Risk,1,One-Time Customer
+12468.0,Loyal Customers,3,Repeat Customer
+12469.0,Potential Loyalists,2,Repeat Customer
+12470.0,Lost / Hibernating,1,One-Time Customer
+12471.0,VIP / Champions,49,Repeat Customer
+12472.0,VIP / Champions,13,Repeat Customer
+12474.0,VIP / Champions,13,Repeat Customer
+12475.0,At Risk,1,One-Time Customer
+12476.0,VIP / Champions,12,Repeat Customer
+12477.0,Loyal Customers,3,Repeat Customer
+12480.0,Loyal Customers,3,Repeat Customer
+12481.0,VIP / Champions,6,Repeat Customer
+12482.0,Loyal Customers,29,Repeat Customer
+12483.0,VIP / Champions,11,Repeat Customer
+12484.0,Loyal Customers,6,Repeat Customer
+12485.0,At Risk,1,One-Time Customer
+12486.0,Potential Loyalists,1,One-Time Customer
+12487.0,Lost / Hibernating,1,One-Time Customer
+12490.0,VIP / Champions,11,Repeat Customer
+12492.0,At Risk,1,One-Time Customer
+12494.0,Loyal Customers,3,Repeat Customer
+12495.0,Lost / Hibernating,1,One-Time Customer
+12496.0,Lost / Hibernating,2,Repeat Customer
+12497.0,Loyal Customers,2,Repeat Customer
+12499.0,Lost / Hibernating,1,One-Time Customer
+12500.0,Loyal Customers,8,Repeat Customer
+12503.0,At Risk,1,One-Time Customer
+12504.0,Potential Loyalists,2,Repeat Customer
+12505.0,Potential Loyalists,1,One-Time Customer
+12507.0,At Risk,1,One-Time Customer
+12510.0,Loyal Customers,7,Repeat Customer
+12511.0,Potential Loyalists,1,One-Time Customer
+12514.0,At Risk,1,One-Time Customer
+12516.0,Potential Loyalists,2,Repeat Customer
+12519.0,At Risk,1,One-Time Customer
+12523.0,VIP / Champions,12,Repeat Customer
+12524.0,VIP / Champions,9,Repeat Customer
+12525.0,Potential Loyalists,3,Repeat Customer
+12527.0,At Risk,2,Repeat Customer
+12529.0,At Risk,1,One-Time Customer
+12530.0,Loyal Customers,5,Repeat Customer
+12531.0,At Risk,1,One-Time Customer
+12533.0,Potential Loyalists,2,Repeat Customer
+12537.0,Potential Loyalists,1,One-Time Customer
+12538.0,Potential Loyalists,1,One-Time Customer
+12539.0,Loyal Customers,3,Repeat Customer
+12540.0,VIP / Champions,16,Repeat Customer
+12542.0,At Risk,2,Repeat Customer
+12543.0,At Risk,1,One-Time Customer
+12547.0,Lost / Hibernating,1,One-Time Customer
+12549.0,Potential Loyalists,6,Repeat Customer
+12553.0,Potential Loyalists,2,Repeat Customer
+12554.0,At Risk,1,One-Time Customer
+12555.0,Lost / Hibernating,1,One-Time Customer
+12557.0,VIP / Champions,4,Repeat Customer
+12562.0,Loyal Customers,2,Repeat Customer
+12563.0,At Risk,1,One-Time Customer
+12567.0,VIP / Champions,7,Repeat Customer
+12568.0,Lost / Hibernating,1,One-Time Customer
+12570.0,Lost / Hibernating,1,One-Time Customer
+12573.0,Loyal Customers,4,Repeat Customer
+12575.0,Potential Loyalists,2,Repeat Customer
+12576.0,Loyal Customers,3,Repeat Customer
+12577.0,Loyal Customers,5,Repeat Customer
+12578.0,Loyal Customers,2,Repeat Customer
+12580.0,At Risk,1,One-Time Customer
+12582.0,Potential Loyalists,2,Repeat Customer
+12583.0,VIP / Champions,13,Repeat Customer
+12586.0,Loyal Customers,3,Repeat Customer
+12588.0,Loyal Customers,3,Repeat Customer
+12589.0,Loyal Customers,6,Repeat Customer
+12591.0,Potential Loyalists,2,Repeat Customer
+12592.0,Loyal Customers,3,Repeat Customer
+12594.0,VIP / Champions,5,Repeat Customer
+12595.0,At Risk,1,One-Time Customer
+12598.0,Potential Loyalists,3,Repeat Customer
+12599.0,Loyal Customers,6,Repeat Customer
+12600.0,VIP / Champions,12,Repeat Customer
+12601.0,At Risk,1,One-Time Customer
+12605.0,VIP / Champions,4,Repeat Customer
+12606.0,Lost / Hibernating,1,One-Time Customer
+12608.0,At Risk,1,One-Time Customer
+12609.0,VIP / Champions,6,Repeat Customer
+12613.0,VIP / Champions,5,Repeat Customer
+12615.0,Loyal Customers,4,Repeat Customer
+12616.0,Potential Loyalists,1,One-Time Customer
+12619.0,Lost / Hibernating,1,One-Time Customer
+12621.0,VIP / Champions,16,Repeat Customer
+12623.0,Loyal Customers,6,Repeat Customer
+12625.0,Potential Loyalists,2,Repeat Customer
+12629.0,Loyal Customers,2,Repeat Customer
+12631.0,Loyal Customers,5,Repeat Customer
+12632.0,Potential Loyalists,2,Repeat Customer
+12633.0,Loyal Customers,3,Repeat Customer
+12634.0,At Risk,2,Repeat Customer
+12635.0,Loyal Customers,2,Repeat Customer
+12636.0,Lost / Hibernating,1,One-Time Customer
+12637.0,VIP / Champions,4,Repeat Customer
+12638.0,Lost / Hibernating,1,One-Time Customer
+12639.0,Potential Loyalists,2,Repeat Customer
+12643.0,VIP / Champions,6,Repeat Customer
+12644.0,Loyal Customers,3,Repeat Customer
+12645.0,Loyal Customers,4,Repeat Customer
+12647.0,VIP / Champions,27,Repeat Customer
+12648.0,Potential Loyalists,3,Repeat Customer
+12649.0,Loyal Customers,5,Repeat Customer
+12651.0,Loyal Customers,3,Repeat Customer
+12652.0,At Risk,1,One-Time Customer
+12653.0,Potential Loyalists,1,One-Time Customer
+12655.0,At Risk,1,One-Time Customer
+12656.0,Loyal Customers,3,Repeat Customer
+12661.0,Lost / Hibernating,1,One-Time Customer
+12662.0,VIP / Champions,10,Repeat Customer
+12663.0,Lost / Hibernating,2,Repeat Customer
+12664.0,Potential Loyalists,2,Repeat Customer
+12665.0,Potential Loyalists,2,Repeat Customer
+12666.0,Potential Loyalists,1,One-Time Customer
+12668.0,VIP / Champions,6,Repeat Customer
+12670.0,Potential Loyalists,2,Repeat Customer
+12671.0,Potential Loyalists,1,One-Time Customer
+12672.0,Lost / Hibernating,1,One-Time Customer
+12673.0,Potential Loyalists,1,One-Time Customer
+12675.0,At Risk,2,Repeat Customer
+12676.0,Loyal Customers,5,Repeat Customer
+12677.0,At Risk,2,Repeat Customer
+12678.0,VIP / Champions,9,Repeat Customer
+12681.0,VIP / Champions,24,Repeat Customer
+12682.0,VIP / Champions,23,Repeat Customer
+12683.0,VIP / Champions,8,Repeat Customer
+12686.0,Potential Loyalists,1,One-Time Customer
+12687.0,Potential Loyalists,2,Repeat Customer
+12691.0,At Risk,1,One-Time Customer
+12692.0,Lost / Hibernating,1,One-Time Customer
+12693.0,Loyal Customers,3,Repeat Customer
+12694.0,Potential Loyalists,1,One-Time Customer
+12695.0,Potential Loyalists,3,Repeat Customer
+12696.0,Potential Loyalists,2,Repeat Customer
+12698.0,Lost / Hibernating,1,One-Time Customer
+12699.0,Potential Loyalists,1,One-Time Customer
+12701.0,Loyal Customers,4,Repeat Customer
+12703.0,Potential Loyalists,3,Repeat Customer
+12705.0,VIP / Champions,5,Repeat Customer
+12708.0,VIP / Champions,9,Repeat Customer
+12709.0,VIP / Champions,20,Repeat Customer
+12711.0,Potential Loyalists,2,Repeat Customer
+12712.0,VIP / Champions,10,Repeat Customer
+12714.0,VIP / Champions,7,Repeat Customer
+12717.0,Lost / Hibernating,1,One-Time Customer
+12720.0,VIP / Champions,6,Repeat Customer
+12721.0,Loyal Customers,2,Repeat Customer
+12724.0,Loyal Customers,3,Repeat Customer
+12725.0,VIP / Champions,4,Repeat Customer
+12726.0,Loyal Customers,4,Repeat Customer
+12727.0,Potential Loyalists,3,Repeat Customer
+12728.0,At Risk,1,One-Time Customer
+12730.0,At Risk,1,One-Time Customer
+12731.0,Loyal Customers,5,Repeat Customer
+12733.0,Loyal Customers,3,Repeat Customer
+12734.0,Loyal Customers,2,Repeat Customer
+12737.0,Potential Loyalists,2,Repeat Customer
+12738.0,Potential Loyalists,1,One-Time Customer
+12739.0,Loyal Customers,2,Repeat Customer
+12741.0,At Risk,2,Repeat Customer
+12742.0,At Risk,1,One-Time Customer
+12744.0,Loyal Customers,4,Repeat Customer
+12745.0,Potential Loyalists,3,Repeat Customer
+12746.0,At Risk,1,One-Time Customer
+12747.0,VIP / Champions,16,Repeat Customer
+12748.0,VIP / Champions,144,Repeat Customer
+12749.0,VIP / Champions,4,Repeat Customer
+12751.0,At Risk,1,One-Time Customer
+12755.0,VIP / Champions,10,Repeat Customer
+12758.0,Loyal Customers,5,Repeat Customer
+12759.0,VIP / Champions,5,Repeat Customer
+12760.0,At Risk,1,One-Time Customer
+12761.0,Potential Loyalists,2,Repeat Customer
+12763.0,Potential Loyalists,1,One-Time Customer
+12765.0,Loyal Customers,6,Repeat Customer
+12766.0,VIP / Champions,3,Repeat Customer
+12767.0,Potential Loyalists,1,One-Time Customer
+12768.0,Lost / Hibernating,1,One-Time Customer
+12770.0,Potential Loyalists,1,One-Time Customer
+12771.0,At Risk,1,One-Time Customer
+12773.0,Lost / Hibernating,1,One-Time Customer
+12774.0,Lost / Hibernating,1,One-Time Customer
+12775.0,Potential Loyalists,2,Repeat Customer
+12776.0,Lost / Hibernating,1,One-Time Customer
+12777.0,At Risk,1,One-Time Customer
+12778.0,Loyal Customers,3,Repeat Customer
+12779.0,VIP / Champions,7,Repeat Customer
+12780.0,Lost / Hibernating,1,One-Time Customer
+12782.0,VIP / Champions,6,Repeat Customer
+12784.0,Potential Loyalists,1,One-Time Customer
+12785.0,Potential Loyalists,2,Repeat Customer
+12786.0,At Risk,1,One-Time Customer
+12787.0,At Risk,1,One-Time Customer
+12788.0,Potential Loyalists,4,Repeat Customer
+12789.0,At Risk,2,Repeat Customer
+12790.0,At Risk,1,One-Time Customer
+12791.0,Loyal Customers,6,Repeat Customer
+12792.0,At Risk,1,One-Time Customer
+12793.0,Potential Loyalists,2,Repeat Customer
+12796.0,Lost / Hibernating,1,One-Time Customer
+12797.0,Loyal Customers,2,Repeat Customer
+12798.0,Potential Loyalists,1,One-Time Customer
+12799.0,Lost / Hibernating,1,One-Time Customer
+12800.0,Potential Loyalists,3,Repeat Customer
+12801.0,Potential Loyalists,1,One-Time Customer
+12802.0,Loyal Customers,6,Repeat Customer
+12803.0,Potential Loyalists,1,One-Time Customer
+12804.0,At Risk,2,Repeat Customer
+12805.0,Loyal Customers,4,Repeat Customer
+12806.0,Loyal Customers,4,Repeat Customer
+12807.0,Potential Loyalists,1,One-Time Customer
+12808.0,Loyal Customers,3,Repeat Customer
+12809.0,Potential Loyalists,2,Repeat Customer
+12810.0,Potential Loyalists,2,Repeat Customer
+12811.0,Loyal Customers,2,Repeat Customer
+12813.0,Potential Loyalists,3,Repeat Customer
+12817.0,Potential Loyalists,2,Repeat Customer
+12819.0,At Risk,1,One-Time Customer
+12820.0,VIP / Champions,7,Repeat Customer
+12821.0,Lost / Hibernating,1,One-Time Customer
+12823.0,VIP / Champions,13,Repeat Customer
+12825.0,Potential Loyalists,2,Repeat Customer
+12826.0,VIP / Champions,6,Repeat Customer
+12829.0,Lost / Hibernating,1,One-Time Customer
+12831.0,At Risk,2,Repeat Customer
+12835.0,VIP / Champions,41,Repeat Customer
+12836.0,VIP / Champions,11,Repeat Customer
+12837.0,At Risk,1,One-Time Customer
+12838.0,VIP / Champions,9,Repeat Customer
+12839.0,VIP / Champions,13,Repeat Customer
+12840.0,Potential Loyalists,3,Repeat Customer
+12841.0,VIP / Champions,17,Repeat Customer
+12842.0,Potential Loyalists,2,Repeat Customer
+12843.0,VIP / Champions,22,Repeat Customer
+12844.0,At Risk,2,Repeat Customer
+12846.0,Lost / Hibernating,1,One-Time Customer
+12847.0,Potential Loyalists,1,One-Time Customer
+12848.0,Lost / Hibernating,1,One-Time Customer
+12849.0,Loyal Customers,4,Repeat Customer
+12850.0,At Risk,1,One-Time Customer
+12851.0,Lost / Hibernating,1,One-Time Customer
+12853.0,Loyal Customers,5,Repeat Customer
+12854.0,Potential Loyalists,4,Repeat Customer
+12855.0,Loyal Customers,4,Repeat Customer
+12857.0,Loyal Customers,4,Repeat Customer
+12858.0,At Risk,1,One-Time Customer
+12859.0,At Risk,1,One-Time Customer
+12860.0,Lost / Hibernating,1,One-Time Customer
+12861.0,Lost / Hibernating,1,One-Time Customer
+12862.0,Potential Loyalists,2,Repeat Customer
+12863.0,VIP / Champions,5,Repeat Customer
+12864.0,Lost / Hibernating,1,One-Time Customer
+12865.0,Loyal Customers,2,Repeat Customer
+12866.0,Potential Loyalists,2,Repeat Customer
+12867.0,VIP / Champions,6,Repeat Customer
+12868.0,Loyal Customers,3,Repeat Customer
+12869.0,Lost / Hibernating,1,One-Time Customer
+12870.0,Loyal Customers,3,Repeat Customer
+12871.0,At Risk,1,One-Time Customer
+12872.0,VIP / Champions,11,Repeat Customer
+12873.0,Loyal Customers,2,Repeat Customer
+12874.0,Potential Loyalists,2,Repeat Customer
+12875.0,Potential Loyalists,3,Repeat Customer
+12876.0,Loyal Customers,2,Repeat Customer
+12877.0,Loyal Customers,8,Repeat Customer
+12880.0,Potential Loyalists,2,Repeat Customer
+12887.0,At Risk,1,One-Time Customer
+12889.0,Loyal Customers,4,Repeat Customer
+12890.0,Potential Loyalists,1,One-Time Customer
+12891.0,Loyal Customers,8,Repeat Customer
+12892.0,Potential Loyalists,1,One-Time Customer
+12894.0,Lost / Hibernating,1,One-Time Customer
+12897.0,Potential Loyalists,2,Repeat Customer
+12898.0,At Risk,2,Repeat Customer
+12899.0,At Risk,1,One-Time Customer
+12900.0,At Risk,1,One-Time Customer
+12903.0,Potential Loyalists,1,One-Time Customer
+12905.0,Potential Loyalists,2,Repeat Customer
+12907.0,Potential Loyalists,2,Repeat Customer
+12908.0,Loyal Customers,3,Repeat Customer
+12909.0,Potential Loyalists,3,Repeat Customer
+12910.0,VIP / Champions,5,Repeat Customer
+12911.0,At Risk,1,One-Time Customer
+12913.0,VIP / Champions,9,Repeat Customer
+12914.0,At Risk,1,One-Time Customer
+12915.0,Loyal Customers,3,Repeat Customer
+12916.0,Potential Loyalists,3,Repeat Customer
+12917.0,VIP / Champions,5,Repeat Customer
+12918.0,Potential Loyalists,1,One-Time Customer
+12920.0,At Risk,3,Repeat Customer
+12921.0,VIP / Champions,39,Repeat Customer
+12923.0,Potential Loyalists,2,Repeat Customer
+12924.0,VIP / Champions,8,Repeat Customer
+12925.0,Lost / Hibernating,1,One-Time Customer
+12926.0,Loyal Customers,4,Repeat Customer
+12927.0,At Risk,1,One-Time Customer
+12928.0,VIP / Champions,7,Repeat Customer
+12931.0,VIP / Champions,42,Repeat Customer
+12932.0,Loyal Customers,8,Repeat Customer
+12933.0,Loyal Customers,5,Repeat Customer
+12934.0,Lost / Hibernating,1,One-Time Customer
+12935.0,VIP / Champions,8,Repeat Customer
+12937.0,Loyal Customers,5,Repeat Customer
+12939.0,VIP / Champions,12,Repeat Customer
+12941.0,Lost / Hibernating,1,One-Time Customer
+12942.0,Potential Loyalists,1,One-Time Customer
+12943.0,At Risk,2,Repeat Customer
+12945.0,Lost / Hibernating,1,One-Time Customer
+12946.0,At Risk,1,One-Time Customer
+12947.0,Potential Loyalists,1,One-Time Customer
+12948.0,At Risk,2,Repeat Customer
+12949.0,VIP / Champions,14,Repeat Customer
+12951.0,VIP / Champions,9,Repeat Customer
+12953.0,At Risk,1,One-Time Customer
+12954.0,Lost / Hibernating,1,One-Time Customer
+12956.0,At Risk,3,Repeat Customer
+12957.0,Loyal Customers,5,Repeat Customer
+12958.0,Potential Loyalists,2,Repeat Customer
+12959.0,Lost / Hibernating,1,One-Time Customer
+12960.0,Loyal Customers,4,Repeat Customer
+12961.0,Potential Loyalists,1,One-Time Customer
+12963.0,VIP / Champions,5,Repeat Customer
+12964.0,Lost / Hibernating,1,One-Time Customer
+12967.0,Loyal Customers,2,Repeat Customer
+12969.0,Lost / Hibernating,1,One-Time Customer
+12970.0,Loyal Customers,6,Repeat Customer
+12971.0,VIP / Champions,33,Repeat Customer
+12972.0,Loyal Customers,4,Repeat Customer
+12973.0,At Risk,1,One-Time Customer
+12974.0,Lost / Hibernating,1,One-Time Customer
+12975.0,Loyal Customers,6,Repeat Customer
+12976.0,VIP / Champions,7,Repeat Customer
+12977.0,Potential Loyalists,3,Repeat Customer
+12978.0,VIP / Champions,5,Repeat Customer
+12979.0,At Risk,1,One-Time Customer
+12980.0,VIP / Champions,12,Repeat Customer
+12982.0,VIP / Champions,7,Repeat Customer
+12983.0,Lost / Hibernating,1,One-Time Customer
+12986.0,VIP / Champions,10,Repeat Customer
+12987.0,Potential Loyalists,3,Repeat Customer
+12989.0,VIP / Champions,18,Repeat Customer
+12990.0,Loyal Customers,4,Repeat Customer
+12991.0,Potential Loyalists,1,One-Time Customer
+12992.0,Lost / Hibernating,1,One-Time Customer
+12993.0,Potential Loyalists,4,Repeat Customer
+12996.0,Potential Loyalists,1,One-Time Customer
+12997.0,Loyal Customers,4,Repeat Customer
+12998.0,Potential Loyalists,3,Repeat Customer
+13000.0,Lost / Hibernating,1,One-Time Customer
+13001.0,VIP / Champions,20,Repeat Customer
+13002.0,Potential Loyalists,2,Repeat Customer
+13004.0,VIP / Champions,18,Repeat Customer
+13005.0,Potential Loyalists,2,Repeat Customer
+13007.0,Lost / Hibernating,1,One-Time Customer
+13008.0,Potential Loyalists,2,Repeat Customer
+13009.0,Lost / Hibernating,1,One-Time Customer
+13010.0,Potential Loyalists,2,Repeat Customer
+13011.0,Potential Loyalists,1,One-Time Customer
+13012.0,Loyal Customers,3,Repeat Customer
+13013.0,VIP / Champions,18,Repeat Customer
+13014.0,Potential Loyalists,1,One-Time Customer
+13015.0,Loyal Customers,6,Repeat Customer
+13018.0,VIP / Champions,7,Repeat Customer
+13019.0,VIP / Champions,6,Repeat Customer
+13020.0,At Risk,2,Repeat Customer
+13021.0,VIP / Champions,8,Repeat Customer
+13022.0,At Risk,1,One-Time Customer
+13023.0,At Risk,1,One-Time Customer
+13024.0,Potential Loyalists,2,Repeat Customer
+13025.0,Lost / Hibernating,1,One-Time Customer
+13026.0,Potential Loyalists,4,Repeat Customer
+13027.0,VIP / Champions,13,Repeat Customer
+13029.0,Loyal Customers,2,Repeat Customer
+13030.0,Potential Loyalists,1,One-Time Customer
+13031.0,Loyal Customers,5,Repeat Customer
+13032.0,VIP / Champions,7,Repeat Customer
+13033.0,At Risk,1,One-Time Customer
+13034.0,Potential Loyalists,2,Repeat Customer
+13035.0,At Risk,1,One-Time Customer
+13036.0,Lost / Hibernating,1,One-Time Customer
+13037.0,VIP / Champions,9,Repeat Customer
+13039.0,Potential Loyalists,4,Repeat Customer
+13041.0,Potential Loyalists,4,Repeat Customer
+13042.0,Potential Loyalists,3,Repeat Customer
+13044.0,Loyal Customers,10,Repeat Customer
+13045.0,Potential Loyalists,2,Repeat Customer
+13046.0,At Risk,1,One-Time Customer
+13047.0,VIP / Champions,17,Repeat Customer
+13048.0,Loyal Customers,5,Repeat Customer
+13049.0,Potential Loyalists,2,Repeat Customer
+13050.0,VIP / Champions,19,Repeat Customer
+13051.0,Lost / Hibernating,2,Repeat Customer
+13052.0,Loyal Customers,6,Repeat Customer
+13053.0,Lost / Hibernating,1,One-Time Customer
+13055.0,Potential Loyalists,1,One-Time Customer
+13056.0,Lost / Hibernating,1,One-Time Customer
+13057.0,Potential Loyalists,3,Repeat Customer
+13059.0,Loyal Customers,9,Repeat Customer
+13063.0,Lost / Hibernating,1,One-Time Customer
+13064.0,At Risk,2,Repeat Customer
+13065.0,VIP / Champions,5,Repeat Customer
+13067.0,Potential Loyalists,2,Repeat Customer
+13069.0,VIP / Champions,16,Repeat Customer
+13070.0,Potential Loyalists,3,Repeat Customer
+13071.0,Lost / Hibernating,1,One-Time Customer
+13073.0,Potential Loyalists,2,Repeat Customer
+13074.0,Loyal Customers,4,Repeat Customer
+13076.0,Lost / Hibernating,1,One-Time Customer
+13077.0,VIP / Champions,8,Repeat Customer
+13078.0,VIP / Champions,32,Repeat Customer
+13079.0,At Risk,1,One-Time Customer
+13080.0,Potential Loyalists,3,Repeat Customer
+13081.0,VIP / Champions,19,Repeat Customer
+13082.0,VIP / Champions,12,Repeat Customer
+13083.0,At Risk,1,One-Time Customer
+13084.0,Lost / Hibernating,1,One-Time Customer
+13085.0,Potential Loyalists,6,Repeat Customer
+13086.0,Potential Loyalists,1,One-Time Customer
+13087.0,Lost / Hibernating,1,One-Time Customer
+13088.0,At Risk,1,One-Time Customer
+13089.0,VIP / Champions,109,Repeat Customer
+13090.0,VIP / Champions,13,Repeat Customer
+13091.0,Potential Loyalists,2,Repeat Customer
+13092.0,Loyal Customers,7,Repeat Customer
+13093.0,VIP / Champions,48,Repeat Customer
+13094.0,Loyal Customers,2,Repeat Customer
+13096.0,Potential Loyalists,1,One-Time Customer
+13097.0,VIP / Champions,18,Repeat Customer
+13101.0,Potential Loyalists,3,Repeat Customer
+13102.0,VIP / Champions,14,Repeat Customer
+13103.0,At Risk,2,Repeat Customer
+13104.0,Potential Loyalists,3,Repeat Customer
+13105.0,Lost / Hibernating,1,One-Time Customer
+13106.0,Potential Loyalists,1,One-Time Customer
+13107.0,Loyal Customers,5,Repeat Customer
+13108.0,Loyal Customers,2,Repeat Customer
+13109.0,Lost / Hibernating,1,One-Time Customer
+13110.0,Loyal Customers,5,Repeat Customer
+13111.0,Lost / Hibernating,1,One-Time Customer
+13112.0,Lost / Hibernating,1,One-Time Customer
+13113.0,VIP / Champions,14,Repeat Customer
+13114.0,Lost / Hibernating,1,One-Time Customer
+13115.0,VIP / Champions,6,Repeat Customer
+13117.0,VIP / Champions,12,Repeat Customer
+13118.0,VIP / Champions,4,Repeat Customer
+13119.0,Lost / Hibernating,1,One-Time Customer
+13123.0,Potential Loyalists,2,Repeat Customer
+13124.0,Potential Loyalists,1,One-Time Customer
+13125.0,Lost / Hibernating,1,One-Time Customer
+13126.0,VIP / Champions,7,Repeat Customer
+13128.0,Lost / Hibernating,1,One-Time Customer
+13129.0,At Risk,2,Repeat Customer
+13131.0,Loyal Customers,4,Repeat Customer
+13133.0,Lost / Hibernating,1,One-Time Customer
+13134.0,Potential Loyalists,2,Repeat Customer
+13135.0,At Risk,1,One-Time Customer
+13136.0,VIP / Champions,8,Repeat Customer
+13137.0,VIP / Champions,8,Repeat Customer
+13138.0,Loyal Customers,2,Repeat Customer
+13139.0,Potential Loyalists,1,One-Time Customer
+13140.0,Loyal Customers,3,Repeat Customer
+13141.0,VIP / Champions,12,Repeat Customer
+13143.0,Lost / Hibernating,1,One-Time Customer
+13144.0,At Risk,1,One-Time Customer
+13145.0,Loyal Customers,4,Repeat Customer
+13148.0,VIP / Champions,14,Repeat Customer
+13150.0,Potential Loyalists,3,Repeat Customer
+13151.0,Potential Loyalists,2,Repeat Customer
+13152.0,VIP / Champions,7,Repeat Customer
+13154.0,Loyal Customers,3,Repeat Customer
+13155.0,Loyal Customers,3,Repeat Customer
+13156.0,Loyal Customers,3,Repeat Customer
+13157.0,Loyal Customers,5,Repeat Customer
+13158.0,Potential Loyalists,1,One-Time Customer
+13161.0,At Risk,1,One-Time Customer
+13162.0,VIP / Champions,12,Repeat Customer
+13163.0,Lost / Hibernating,1,One-Time Customer
+13164.0,At Risk,2,Repeat Customer
+13165.0,At Risk,1,One-Time Customer
+13166.0,At Risk,1,One-Time Customer
+13167.0,Potential Loyalists,1,One-Time Customer
+13168.0,At Risk,1,One-Time Customer
+13169.0,Lost / Hibernating,1,One-Time Customer
+13172.0,At Risk,1,One-Time Customer
+13173.0,VIP / Champions,10,Repeat Customer
+13174.0,VIP / Champions,10,Repeat Customer
+13175.0,At Risk,2,Repeat Customer
+13177.0,At Risk,1,One-Time Customer
+13178.0,VIP / Champions,10,Repeat Customer
+13179.0,At Risk,1,One-Time Customer
+13180.0,Lost / Hibernating,1,One-Time Customer
+13181.0,Potential Loyalists,1,One-Time Customer
+13183.0,VIP / Champions,6,Repeat Customer
+13187.0,At Risk,3,Repeat Customer
+13190.0,Potential Loyalists,3,Repeat Customer
+13191.0,Lost / Hibernating,1,One-Time Customer
+13192.0,Loyal Customers,4,Repeat Customer
+13194.0,At Risk,1,One-Time Customer
+13195.0,At Risk,1,One-Time Customer
+13196.0,Potential Loyalists,3,Repeat Customer
+13197.0,Lost / Hibernating,1,One-Time Customer
+13198.0,Loyal Customers,2,Repeat Customer
+13199.0,VIP / Champions,30,Repeat Customer
+13201.0,Loyal Customers,4,Repeat Customer
+13202.0,VIP / Champions,7,Repeat Customer
+13203.0,Loyal Customers,6,Repeat Customer
+13204.0,At Risk,1,One-Time Customer
+13205.0,Potential Loyalists,1,One-Time Customer
+13206.0,VIP / Champions,13,Repeat Customer
+13207.0,At Risk,2,Repeat Customer
+13208.0,Potential Loyalists,3,Repeat Customer
+13209.0,Loyal Customers,5,Repeat Customer
+13211.0,VIP / Champions,7,Repeat Customer
+13213.0,VIP / Champions,6,Repeat Customer
+13214.0,VIP / Champions,7,Repeat Customer
+13215.0,At Risk,1,One-Time Customer
+13217.0,Lost / Hibernating,1,One-Time Customer
+13219.0,Lost / Hibernating,1,One-Time Customer
+13220.0,At Risk,1,One-Time Customer
+13222.0,Lost / Hibernating,1,One-Time Customer
+13223.0,Loyal Customers,4,Repeat Customer
+13225.0,VIP / Champions,9,Repeat Customer
+13226.0,At Risk,1,One-Time Customer
+13230.0,VIP / Champions,17,Repeat Customer
+13233.0,Potential Loyalists,2,Repeat Customer
+13234.0,At Risk,2,Repeat Customer
+13237.0,Potential Loyalists,1,One-Time Customer
+13238.0,Potential Loyalists,2,Repeat Customer
+13239.0,Loyal Customers,4,Repeat Customer
+13240.0,VIP / Champions,5,Repeat Customer
+13241.0,At Risk,1,One-Time Customer
+13242.0,Potential Loyalists,4,Repeat Customer
+13243.0,Potential Loyalists,4,Repeat Customer
+13245.0,Potential Loyalists,1,One-Time Customer
+13246.0,Loyal Customers,5,Repeat Customer
+13249.0,Loyal Customers,6,Repeat Customer
+13250.0,At Risk,2,Repeat Customer
+13251.0,At Risk,1,One-Time Customer
+13252.0,Potential Loyalists,2,Repeat Customer
+13253.0,Potential Loyalists,2,Repeat Customer
+13254.0,Potential Loyalists,1,One-Time Customer
+13255.0,Loyal Customers,2,Repeat Customer
+13257.0,Lost / Hibernating,1,One-Time Customer
+13258.0,Potential Loyalists,2,Repeat Customer
+13259.0,VIP / Champions,8,Repeat Customer
+13262.0,Potential Loyalists,2,Repeat Customer
+13263.0,Loyal Customers,4,Repeat Customer
+13264.0,At Risk,1,One-Time Customer
+13266.0,VIP / Champions,7,Repeat Customer
+13267.0,VIP / Champions,18,Repeat Customer
+13269.0,VIP / Champions,14,Repeat Customer
+13270.0,Potential Loyalists,1,One-Time Customer
+13274.0,At Risk,1,One-Time Customer
+13275.0,Potential Loyalists,2,Repeat Customer
+13276.0,Loyal Customers,3,Repeat Customer
+13277.0,Potential Loyalists,3,Repeat Customer
+13278.0,Loyal Customers,3,Repeat Customer
+13280.0,VIP / Champions,4,Repeat Customer
+13281.0,At Risk,1,One-Time Customer
+13282.0,At Risk,1,One-Time Customer
+13283.0,At Risk,2,Repeat Customer
+13285.0,At Risk,2,Repeat Customer
+13286.0,At Risk,1,One-Time Customer
+13287.0,Potential Loyalists,3,Repeat Customer
+13288.0,Potential Loyalists,5,Repeat Customer
+13289.0,Lost / Hibernating,1,One-Time Customer
+13290.0,Lost / Hibernating,1,One-Time Customer
+13291.0,VIP / Champions,10,Repeat Customer
+13292.0,Potential Loyalists,3,Repeat Customer
+13293.0,Loyal Customers,6,Repeat Customer
+13294.0,At Risk,1,One-Time Customer
+13295.0,Loyal Customers,3,Repeat Customer
+13296.0,Loyal Customers,5,Repeat Customer
+13297.0,Loyal Customers,3,Repeat Customer
+13299.0,Potential Loyalists,2,Repeat Customer
+13300.0,Potential Loyalists,2,Repeat Customer
+13302.0,Lost / Hibernating,1,One-Time Customer
+13303.0,At Risk,1,One-Time Customer
+13304.0,Potential Loyalists,3,Repeat Customer
+13305.0,VIP / Champions,7,Repeat Customer
+13306.0,At Risk,1,One-Time Customer
+13307.0,At Risk,2,Repeat Customer
+13308.0,Lost / Hibernating,1,One-Time Customer
+13309.0,At Risk,1,One-Time Customer
+13310.0,Potential Loyalists,2,Repeat Customer
+13312.0,Lost / Hibernating,1,One-Time Customer
+13313.0,Loyal Customers,7,Repeat Customer
+13315.0,Lost / Hibernating,1,One-Time Customer
+13316.0,VIP / Champions,6,Repeat Customer
+13317.0,VIP / Champions,13,Repeat Customer
+13319.0,VIP / Champions,34,Repeat Customer
+13320.0,Potential Loyalists,2,Repeat Customer
+13324.0,VIP / Champions,8,Repeat Customer
+13326.0,At Risk,1,One-Time Customer
+13327.0,VIP / Champions,14,Repeat Customer
+13329.0,VIP / Champions,7,Repeat Customer
+13330.0,Potential Loyalists,3,Repeat Customer
+13331.0,At Risk,1,One-Time Customer
+13333.0,Loyal Customers,3,Repeat Customer
+13334.0,Potential Loyalists,2,Repeat Customer
+13337.0,At Risk,1,One-Time Customer
+13338.0,Potential Loyalists,3,Repeat Customer
+13340.0,Loyal Customers,5,Repeat Customer
+13346.0,Potential Loyalists,6,Repeat Customer
+13357.0,Loyal Customers,4,Repeat Customer
+13359.0,Potential Loyalists,1,One-Time Customer
+13360.0,Loyal Customers,4,Repeat Customer
+13361.0,Potential Loyalists,2,Repeat Customer
+13362.0,VIP / Champions,3,Repeat Customer
+13363.0,Potential Loyalists,1,One-Time Customer
+13367.0,Potential Loyalists,1,One-Time Customer
+13368.0,Potential Loyalists,2,Repeat Customer
+13369.0,Potential Loyalists,1,One-Time Customer
+13370.0,Potential Loyalists,1,One-Time Customer
+13371.0,Potential Loyalists,2,Repeat Customer
+13373.0,Loyal Customers,3,Repeat Customer
+13374.0,Potential Loyalists,2,Repeat Customer
+13375.0,Potential Loyalists,1,One-Time Customer
+13377.0,Loyal Customers,2,Repeat Customer
+13380.0,At Risk,1,One-Time Customer
+13381.0,VIP / Champions,6,Repeat Customer
+13382.0,Loyal Customers,4,Repeat Customer
+13383.0,Lost / Hibernating,1,One-Time Customer
+13384.0,VIP / Champions,4,Repeat Customer
+13386.0,Potential Loyalists,2,Repeat Customer
+13387.0,At Risk,1,One-Time Customer
+13388.0,At Risk,1,One-Time Customer
+13392.0,Lost / Hibernating,1,One-Time Customer
+13393.0,Potential Loyalists,4,Repeat Customer
+13394.0,VIP / Champions,11,Repeat Customer
+13395.0,Potential Loyalists,2,Repeat Customer
+13397.0,Loyal Customers,5,Repeat Customer
+13398.0,Lost / Hibernating,1,One-Time Customer
+13399.0,Potential Loyalists,3,Repeat Customer
+13400.0,Lost / Hibernating,1,One-Time Customer
+13402.0,Loyal Customers,3,Repeat Customer
+13403.0,Potential Loyalists,2,Repeat Customer
+13405.0,Potential Loyalists,3,Repeat Customer
+13406.0,Potential Loyalists,2,Repeat Customer
+13407.0,Potential Loyalists,3,Repeat Customer
+13408.0,VIP / Champions,46,Repeat Customer
+13410.0,Loyal Customers,4,Repeat Customer
+13412.0,Lost / Hibernating,1,One-Time Customer
+13413.0,Potential Loyalists,6,Repeat Customer
+13414.0,Potential Loyalists,3,Repeat Customer
+13415.0,Potential Loyalists,4,Repeat Customer
+13416.0,Lost / Hibernating,1,One-Time Customer
+13417.0,Potential Loyalists,4,Repeat Customer
+13418.0,VIP / Champions,15,Repeat Customer
+13421.0,Loyal Customers,6,Repeat Customer
+13423.0,At Risk,1,One-Time Customer
+13424.0,At Risk,1,One-Time Customer
+13425.0,Potential Loyalists,2,Repeat Customer
+13426.0,VIP / Champions,12,Repeat Customer
+13427.0,Potential Loyalists,3,Repeat Customer
+13428.0,At Risk,2,Repeat Customer
+13431.0,Loyal Customers,6,Repeat Customer
+13432.0,At Risk,2,Repeat Customer
+13433.0,Potential Loyalists,4,Repeat Customer
+13434.0,Loyal Customers,3,Repeat Customer
+13435.0,Loyal Customers,2,Repeat Customer
+13438.0,Lost / Hibernating,1,One-Time Customer
+13439.0,Potential Loyalists,2,Repeat Customer
+13440.0,Loyal Customers,7,Repeat Customer
+13441.0,At Risk,1,One-Time Customer
+13442.0,At Risk,3,Repeat Customer
+13443.0,Loyal Customers,6,Repeat Customer
+13444.0,Loyal Customers,2,Repeat Customer
+13445.0,Lost / Hibernating,1,One-Time Customer
+13446.0,VIP / Champions,11,Repeat Customer
+13448.0,VIP / Champions,9,Repeat Customer
+13450.0,VIP / Champions,7,Repeat Customer
+13451.0,VIP / Champions,6,Repeat Customer
+13452.0,Lost / Hibernating,1,One-Time Customer
+13453.0,At Risk,1,One-Time Customer
+13454.0,Lost / Hibernating,1,One-Time Customer
+13455.0,VIP / Champions,5,Repeat Customer
+13457.0,Lost / Hibernating,2,Repeat Customer
+13458.0,Loyal Customers,2,Repeat Customer
+13459.0,Potential Loyalists,2,Repeat Customer
+13461.0,Loyal Customers,3,Repeat Customer
+13462.0,Loyal Customers,4,Repeat Customer
+13464.0,VIP / Champions,5,Repeat Customer
+13465.0,Potential Loyalists,2,Repeat Customer
+13466.0,Loyal Customers,4,Repeat Customer
+13468.0,VIP / Champions,38,Repeat Customer
+13469.0,Lost / Hibernating,1,One-Time Customer
+13472.0,Potential Loyalists,2,Repeat Customer
+13473.0,Loyal Customers,6,Repeat Customer
+13474.0,At Risk,2,Repeat Customer
+13476.0,Potential Loyalists,3,Repeat Customer
+13477.0,Loyal Customers,5,Repeat Customer
+13478.0,Loyal Customers,5,Repeat Customer
+13479.0,Potential Loyalists,2,Repeat Customer
+13480.0,Potential Loyalists,2,Repeat Customer
+13481.0,VIP / Champions,6,Repeat Customer
+13482.0,Lost / Hibernating,1,One-Time Customer
+13484.0,Potential Loyalists,2,Repeat Customer
+13485.0,VIP / Champions,10,Repeat Customer
+13487.0,At Risk,2,Repeat Customer
+13488.0,VIP / Champions,11,Repeat Customer
+13490.0,Lost / Hibernating,1,One-Time Customer
+13491.0,VIP / Champions,18,Repeat Customer
+13495.0,VIP / Champions,6,Repeat Customer
+13497.0,Loyal Customers,5,Repeat Customer
+13498.0,Lost / Hibernating,1,One-Time Customer
+13500.0,At Risk,1,One-Time Customer
+13501.0,Potential Loyalists,2,Repeat Customer
+13502.0,Potential Loyalists,2,Repeat Customer
+13503.0,Loyal Customers,5,Repeat Customer
+13506.0,VIP / Champions,4,Repeat Customer
+13508.0,Lost / Hibernating,1,One-Time Customer
+13509.0,Lost / Hibernating,1,One-Time Customer
+13510.0,VIP / Champions,7,Repeat Customer
+13511.0,Lost / Hibernating,1,One-Time Customer
+13512.0,Potential Loyalists,3,Repeat Customer
+13513.0,Potential Loyalists,2,Repeat Customer
+13514.0,Potential Loyalists,3,Repeat Customer
+13515.0,At Risk,2,Repeat Customer
+13516.0,At Risk,1,One-Time Customer
+13519.0,Lost / Hibernating,1,One-Time Customer
+13520.0,VIP / Champions,6,Repeat Customer
+13523.0,Loyal Customers,2,Repeat Customer
+13526.0,Potential Loyalists,2,Repeat Customer
+13527.0,Loyal Customers,5,Repeat Customer
+13530.0,Lost / Hibernating,1,One-Time Customer
+13531.0,VIP / Champions,5,Repeat Customer
+13534.0,VIP / Champions,10,Repeat Customer
+13535.0,At Risk,1,One-Time Customer
+13537.0,Potential Loyalists,2,Repeat Customer
+13538.0,Loyal Customers,5,Repeat Customer
+13539.0,Loyal Customers,4,Repeat Customer
+13540.0,Potential Loyalists,3,Repeat Customer
+13541.0,Potential Loyalists,2,Repeat Customer
+13542.0,VIP / Champions,17,Repeat Customer
+13543.0,Potential Loyalists,2,Repeat Customer
+13544.0,Loyal Customers,4,Repeat Customer
+13545.0,Potential Loyalists,2,Repeat Customer
+13546.0,Potential Loyalists,2,Repeat Customer
+13547.0,At Risk,1,One-Time Customer
+13548.0,Lost / Hibernating,1,One-Time Customer
+13549.0,At Risk,1,One-Time Customer
+13550.0,Potential Loyalists,1,One-Time Customer
+13551.0,Lost / Hibernating,1,One-Time Customer
+13552.0,VIP / Champions,10,Repeat Customer
+13553.0,At Risk,1,One-Time Customer
+13554.0,VIP / Champions,7,Repeat Customer
+13555.0,VIP / Champions,9,Repeat Customer
+13556.0,At Risk,2,Repeat Customer
+13557.0,VIP / Champions,11,Repeat Customer
+13559.0,Potential Loyalists,2,Repeat Customer
+13561.0,VIP / Champions,10,Repeat Customer
+13562.0,Loyal Customers,5,Repeat Customer
+13564.0,VIP / Champions,35,Repeat Customer
+13565.0,At Risk,1,One-Time Customer
+13566.0,Potential Loyalists,3,Repeat Customer
+13567.0,Loyal Customers,4,Repeat Customer
+13569.0,Loyal Customers,3,Repeat Customer
+13571.0,VIP / Champions,14,Repeat Customer
+13573.0,Loyal Customers,4,Repeat Customer
+13574.0,At Risk,1,One-Time Customer
+13576.0,VIP / Champions,11,Repeat Customer
+13577.0,VIP / Champions,7,Repeat Customer
+13578.0,At Risk,1,One-Time Customer
+13579.0,VIP / Champions,4,Repeat Customer
+13580.0,At Risk,1,One-Time Customer
+13581.0,At Risk,1,One-Time Customer
+13582.0,Potential Loyalists,2,Repeat Customer
+13583.0,At Risk,1,One-Time Customer
+13584.0,At Risk,2,Repeat Customer
+13585.0,Potential Loyalists,3,Repeat Customer
+13586.0,Lost / Hibernating,1,One-Time Customer
+13587.0,Potential Loyalists,3,Repeat Customer
+13589.0,Potential Loyalists,4,Repeat Customer
+13590.0,VIP / Champions,12,Repeat Customer
+13591.0,Loyal Customers,4,Repeat Customer
+13593.0,VIP / Champions,9,Repeat Customer
+13594.0,Lost / Hibernating,1,One-Time Customer
+13595.0,Potential Loyalists,3,Repeat Customer
+13597.0,Potential Loyalists,2,Repeat Customer
+13598.0,Potential Loyalists,4,Repeat Customer
+13599.0,VIP / Champions,14,Repeat Customer
+13600.0,Lost / Hibernating,1,One-Time Customer
+13601.0,Potential Loyalists,2,Repeat Customer
+13602.0,Loyal Customers,3,Repeat Customer
+13604.0,At Risk,1,One-Time Customer
+13605.0,Potential Loyalists,2,Repeat Customer
+13607.0,At Risk,1,One-Time Customer
+13608.0,Lost / Hibernating,1,One-Time Customer
+13609.0,Lost / Hibernating,1,One-Time Customer
+13610.0,VIP / Champions,7,Repeat Customer
+13611.0,VIP / Champions,7,Repeat Customer
+13612.0,At Risk,1,One-Time Customer
+13613.0,Loyal Customers,5,Repeat Customer
+13614.0,Potential Loyalists,2,Repeat Customer
+13615.0,VIP / Champions,7,Repeat Customer
+13616.0,At Risk,2,Repeat Customer
+13617.0,Loyal Customers,5,Repeat Customer
+13619.0,Lost / Hibernating,2,Repeat Customer
+13620.0,Lost / Hibernating,1,One-Time Customer
+13622.0,At Risk,1,One-Time Customer
+13623.0,Loyal Customers,5,Repeat Customer
+13624.0,Potential Loyalists,1,One-Time Customer
+13625.0,Lost / Hibernating,1,One-Time Customer
+13626.0,Potential Loyalists,1,One-Time Customer
+13627.0,Potential Loyalists,2,Repeat Customer
+13628.0,Lost / Hibernating,1,One-Time Customer
+13629.0,VIP / Champions,8,Repeat Customer
+13632.0,Loyal Customers,3,Repeat Customer
+13634.0,VIP / Champions,11,Repeat Customer
+13635.0,Potential Loyalists,3,Repeat Customer
+13639.0,At Risk,1,One-Time Customer
+13640.0,Lost / Hibernating,1,One-Time Customer
+13641.0,Potential Loyalists,5,Repeat Customer
+13642.0,Potential Loyalists,3,Repeat Customer
+13643.0,VIP / Champions,7,Repeat Customer
+13646.0,Potential Loyalists,2,Repeat Customer
+13647.0,Loyal Customers,4,Repeat Customer
+13648.0,VIP / Champions,8,Repeat Customer
+13649.0,VIP / Champions,5,Repeat Customer
+13650.0,VIP / Champions,4,Repeat Customer
+13651.0,At Risk,1,One-Time Customer
+13652.0,Loyal Customers,3,Repeat Customer
+13653.0,Lost / Hibernating,1,One-Time Customer
+13654.0,VIP / Champions,5,Repeat Customer
+13655.0,VIP / Champions,4,Repeat Customer
+13656.0,Potential Loyalists,2,Repeat Customer
+13658.0,VIP / Champions,4,Repeat Customer
+13659.0,VIP / Champions,10,Repeat Customer
+13660.0,Potential Loyalists,1,One-Time Customer
+13661.0,Lost / Hibernating,1,One-Time Customer
+13662.0,VIP / Champions,8,Repeat Customer
+13663.0,Loyal Customers,4,Repeat Customer
+13665.0,Loyal Customers,3,Repeat Customer
+13666.0,At Risk,2,Repeat Customer
+13668.0,VIP / Champions,14,Repeat Customer
+13669.0,At Risk,1,One-Time Customer
+13671.0,At Risk,1,One-Time Customer
+13672.0,Lost / Hibernating,1,One-Time Customer
+13674.0,At Risk,1,One-Time Customer
+13676.0,At Risk,2,Repeat Customer
+13677.0,Potential Loyalists,2,Repeat Customer
+13679.0,Potential Loyalists,3,Repeat Customer
+13680.0,Loyal Customers,8,Repeat Customer
+13683.0,At Risk,1,One-Time Customer
+13684.0,Loyal Customers,3,Repeat Customer
+13686.0,Potential Loyalists,2,Repeat Customer
+13687.0,Potential Loyalists,1,One-Time Customer
+13688.0,Lost / Hibernating,1,One-Time Customer
+13689.0,At Risk,1,One-Time Customer
+13691.0,At Risk,1,One-Time Customer
+13692.0,Potential Loyalists,2,Repeat Customer
+13693.0,VIP / Champions,9,Repeat Customer
+13694.0,VIP / Champions,94,Repeat Customer
+13695.0,Lost / Hibernating,1,One-Time Customer
+13696.0,Loyal Customers,3,Repeat Customer
+13698.0,At Risk,2,Repeat Customer
+13699.0,Lost / Hibernating,1,One-Time Customer
+13700.0,Potential Loyalists,3,Repeat Customer
+13701.0,Lost / Hibernating,1,One-Time Customer
+13702.0,Lost / Hibernating,1,One-Time Customer
+13703.0,At Risk,1,One-Time Customer
+13705.0,VIP / Champions,5,Repeat Customer
+13706.0,Lost / Hibernating,1,One-Time Customer
+13707.0,Loyal Customers,3,Repeat Customer
+13709.0,Loyal Customers,5,Repeat Customer
+13710.0,Potential Loyalists,2,Repeat Customer
+13711.0,Loyal Customers,7,Repeat Customer
+13712.0,At Risk,1,One-Time Customer
+13713.0,Potential Loyalists,3,Repeat Customer
+13714.0,Lost / Hibernating,1,One-Time Customer
+13715.0,VIP / Champions,13,Repeat Customer
+13717.0,At Risk,2,Repeat Customer
+13719.0,Loyal Customers,6,Repeat Customer
+13721.0,At Risk,1,One-Time Customer
+13722.0,VIP / Champions,7,Repeat Customer
+13723.0,Loyal Customers,5,Repeat Customer
+13724.0,Lost / Hibernating,1,One-Time Customer
+13727.0,Potential Loyalists,6,Repeat Customer
+13728.0,VIP / Champions,10,Repeat Customer
+13729.0,Potential Loyalists,3,Repeat Customer
+13733.0,Potential Loyalists,2,Repeat Customer
+13734.0,Loyal Customers,4,Repeat Customer
+13735.0,VIP / Champions,9,Repeat Customer
+13736.0,Loyal Customers,5,Repeat Customer
+13738.0,Potential Loyalists,1,One-Time Customer
+13739.0,Lost / Hibernating,1,One-Time Customer
+13740.0,Loyal Customers,4,Repeat Customer
+13745.0,Lost / Hibernating,1,One-Time Customer
+13746.0,At Risk,1,One-Time Customer
+13747.0,Potential Loyalists,2,Repeat Customer
+13748.0,VIP / Champions,5,Repeat Customer
+13750.0,Loyal Customers,6,Repeat Customer
+13752.0,At Risk,1,One-Time Customer
+13753.0,Potential Loyalists,3,Repeat Customer
+13754.0,Lost / Hibernating,1,One-Time Customer
+13756.0,VIP / Champions,10,Repeat Customer
+13757.0,Lost / Hibernating,1,One-Time Customer
+13758.0,VIP / Champions,10,Repeat Customer
+13760.0,Loyal Customers,3,Repeat Customer
+13761.0,Potential Loyalists,4,Repeat Customer
+13762.0,Loyal Customers,4,Repeat Customer
+13763.0,Loyal Customers,2,Repeat Customer
+13764.0,Potential Loyalists,3,Repeat Customer
+13765.0,Lost / Hibernating,1,One-Time Customer
+13766.0,Lost / Hibernating,1,One-Time Customer
+13767.0,VIP / Champions,39,Repeat Customer
+13768.0,At Risk,2,Repeat Customer
+13769.0,VIP / Champions,11,Repeat Customer
+13770.0,Loyal Customers,4,Repeat Customer
+13771.0,Loyal Customers,5,Repeat Customer
+13772.0,Loyal Customers,5,Repeat Customer
+13773.0,Potential Loyalists,2,Repeat Customer
+13775.0,At Risk,1,One-Time Customer
+13776.0,Potential Loyalists,2,Repeat Customer
+13777.0,VIP / Champions,37,Repeat Customer
+13778.0,Potential Loyalists,3,Repeat Customer
+13779.0,Lost / Hibernating,1,One-Time Customer
+13780.0,At Risk,1,One-Time Customer
+13781.0,At Risk,2,Repeat Customer
+13782.0,Loyal Customers,7,Repeat Customer
+13783.0,Loyal Customers,4,Repeat Customer
+13784.0,Potential Loyalists,3,Repeat Customer
+13785.0,Loyal Customers,4,Repeat Customer
+13786.0,VIP / Champions,6,Repeat Customer
+13787.0,Potential Loyalists,4,Repeat Customer
+13788.0,Lost / Hibernating,1,One-Time Customer
+13789.0,At Risk,1,One-Time Customer
+13792.0,At Risk,1,One-Time Customer
+13793.0,Lost / Hibernating,1,One-Time Customer
+13794.0,Lost / Hibernating,1,One-Time Customer
+13795.0,Loyal Customers,4,Repeat Customer
+13796.0,At Risk,1,One-Time Customer
+13797.0,Potential Loyalists,3,Repeat Customer
+13798.0,VIP / Champions,54,Repeat Customer
+13799.0,Loyal Customers,7,Repeat Customer
+13800.0,Potential Loyalists,2,Repeat Customer
+13802.0,VIP / Champions,16,Repeat Customer
+13803.0,Potential Loyalists,2,Repeat Customer
+13804.0,Potential Loyalists,2,Repeat Customer
+13807.0,Loyal Customers,3,Repeat Customer
+13809.0,Potential Loyalists,2,Repeat Customer
+13813.0,Loyal Customers,4,Repeat Customer
+13814.0,At Risk,1,One-Time Customer
+13815.0,Loyal Customers,4,Repeat Customer
+13818.0,At Risk,1,One-Time Customer
+13819.0,Potential Loyalists,3,Repeat Customer
+13820.0,Potential Loyalists,3,Repeat Customer
+13821.0,Loyal Customers,4,Repeat Customer
+13823.0,VIP / Champions,5,Repeat Customer
+13824.0,VIP / Champions,7,Repeat Customer
+13825.0,At Risk,2,Repeat Customer
+13829.0,At Risk,1,One-Time Customer
+13830.0,Lost / Hibernating,1,One-Time Customer
+13831.0,VIP / Champions,13,Repeat Customer
+13832.0,Potential Loyalists,1,One-Time Customer
+13833.0,At Risk,1,One-Time Customer
+13834.0,At Risk,2,Repeat Customer
+13835.0,Potential Loyalists,3,Repeat Customer
+13836.0,Potential Loyalists,2,Repeat Customer
+13838.0,VIP / Champions,7,Repeat Customer
+13839.0,Lost / Hibernating,1,One-Time Customer
+13840.0,Potential Loyalists,1,One-Time Customer
+13842.0,VIP / Champions,10,Repeat Customer
+13843.0,Potential Loyalists,1,One-Time Customer
+13846.0,Potential Loyalists,1,One-Time Customer
+13847.0,Lost / Hibernating,1,One-Time Customer
+13848.0,VIP / Champions,6,Repeat Customer
+13849.0,Loyal Customers,3,Repeat Customer
+13851.0,VIP / Champions,5,Repeat Customer
+13852.0,Lost / Hibernating,1,One-Time Customer
+13854.0,VIP / Champions,15,Repeat Customer
+13855.0,Loyal Customers,4,Repeat Customer
+13856.0,Loyal Customers,8,Repeat Customer
+13857.0,Loyal Customers,6,Repeat Customer
+13859.0,At Risk,1,One-Time Customer
+13861.0,Potential Loyalists,2,Repeat Customer
+13862.0,Potential Loyalists,1,One-Time Customer
+13863.0,Potential Loyalists,3,Repeat Customer
+13864.0,Potential Loyalists,1,One-Time Customer
+13869.0,VIP / Champions,6,Repeat Customer
+13870.0,VIP / Champions,7,Repeat Customer
+13871.0,Loyal Customers,4,Repeat Customer
+13872.0,Potential Loyalists,3,Repeat Customer
+13873.0,Loyal Customers,5,Repeat Customer
+13874.0,Loyal Customers,6,Repeat Customer
+13875.0,VIP / Champions,9,Repeat Customer
+13877.0,At Risk,2,Repeat Customer
+13878.0,Potential Loyalists,3,Repeat Customer
+13879.0,Lost / Hibernating,1,One-Time Customer
+13880.0,VIP / Champions,5,Repeat Customer
+13881.0,VIP / Champions,23,Repeat Customer
+13883.0,VIP / Champions,10,Repeat Customer
+13884.0,VIP / Champions,5,Repeat Customer
+13888.0,Loyal Customers,5,Repeat Customer
+13889.0,Loyal Customers,5,Repeat Customer
+13890.0,VIP / Champions,4,Repeat Customer
+13891.0,Loyal Customers,3,Repeat Customer
+13892.0,Potential Loyalists,2,Repeat Customer
+13895.0,Potential Loyalists,2,Repeat Customer
+13896.0,Lost / Hibernating,1,One-Time Customer
+13897.0,Potential Loyalists,2,Repeat Customer
+13898.0,Potential Loyalists,1,One-Time Customer
+13900.0,Loyal Customers,3,Repeat Customer
+13901.0,VIP / Champions,10,Repeat Customer
+13902.0,Loyal Customers,5,Repeat Customer
+13903.0,At Risk,1,One-Time Customer
+13905.0,Lost / Hibernating,1,One-Time Customer
+13906.0,At Risk,1,One-Time Customer
+13907.0,Lost / Hibernating,1,One-Time Customer
+13909.0,Potential Loyalists,2,Repeat Customer
+13911.0,VIP / Champions,11,Repeat Customer
+13912.0,At Risk,1,One-Time Customer
+13913.0,Lost / Hibernating,1,One-Time Customer
+13915.0,At Risk,1,One-Time Customer
+13916.0,Loyal Customers,4,Repeat Customer
+13919.0,Potential Loyalists,2,Repeat Customer
+13920.0,Loyal Customers,4,Repeat Customer
+13921.0,Loyal Customers,4,Repeat Customer
+13922.0,Potential Loyalists,2,Repeat Customer
+13927.0,At Risk,1,One-Time Customer
+13929.0,VIP / Champions,9,Repeat Customer
+13931.0,VIP / Champions,9,Repeat Customer
+13935.0,Potential Loyalists,3,Repeat Customer
+13936.0,Potential Loyalists,2,Repeat Customer
+13937.0,Potential Loyalists,1,One-Time Customer
+13939.0,Loyal Customers,4,Repeat Customer
+13941.0,VIP / Champions,11,Repeat Customer
+13942.0,At Risk,1,One-Time Customer
+13943.0,Lost / Hibernating,1,One-Time Customer
+13944.0,Lost / Hibernating,1,One-Time Customer
+13945.0,Potential Loyalists,2,Repeat Customer
+13946.0,Loyal Customers,3,Repeat Customer
+13948.0,Potential Loyalists,3,Repeat Customer
+13952.0,VIP / Champions,12,Repeat Customer
+13953.0,Loyal Customers,5,Repeat Customer
+13955.0,Potential Loyalists,1,One-Time Customer
+13957.0,Potential Loyalists,3,Repeat Customer
+13958.0,VIP / Champions,8,Repeat Customer
+13959.0,Potential Loyalists,3,Repeat Customer
+13961.0,Potential Loyalists,1,One-Time Customer
+13962.0,At Risk,1,One-Time Customer
+13963.0,VIP / Champions,14,Repeat Customer
+13964.0,Potential Loyalists,2,Repeat Customer
+13965.0,Potential Loyalists,3,Repeat Customer
+13966.0,At Risk,1,One-Time Customer
+13967.0,At Risk,1,One-Time Customer
+13968.0,At Risk,1,One-Time Customer
+13969.0,VIP / Champions,18,Repeat Customer
+13970.0,Potential Loyalists,2,Repeat Customer
+13971.0,Loyal Customers,6,Repeat Customer
+13974.0,Lost / Hibernating,1,One-Time Customer
+13975.0,VIP / Champions,6,Repeat Customer
+13976.0,Potential Loyalists,3,Repeat Customer
+13977.0,Potential Loyalists,1,One-Time Customer
+13979.0,VIP / Champions,6,Repeat Customer
+13980.0,Potential Loyalists,4,Repeat Customer
+13981.0,At Risk,1,One-Time Customer
+13982.0,VIP / Champions,6,Repeat Customer
+13983.0,VIP / Champions,10,Repeat Customer
+13984.0,VIP / Champions,8,Repeat Customer
+13985.0,VIP / Champions,7,Repeat Customer
+13987.0,Loyal Customers,2,Repeat Customer
+13988.0,Potential Loyalists,2,Repeat Customer
+13989.0,Potential Loyalists,3,Repeat Customer
+13992.0,Potential Loyalists,2,Repeat Customer
+13993.0,VIP / Champions,10,Repeat Customer
+13995.0,VIP / Champions,9,Repeat Customer
+13996.0,Potential Loyalists,2,Repeat Customer
+13997.0,Potential Loyalists,3,Repeat Customer
+13998.0,Potential Loyalists,3,Repeat Customer
+13999.0,VIP / Champions,17,Repeat Customer
+14000.0,Loyal Customers,4,Repeat Customer
+14001.0,VIP / Champions,7,Repeat Customer
+14003.0,Lost / Hibernating,1,One-Time Customer
+14004.0,Loyal Customers,4,Repeat Customer
+14006.0,Loyal Customers,4,Repeat Customer
+14007.0,Lost / Hibernating,1,One-Time Customer
+14008.0,Potential Loyalists,1,One-Time Customer
+14009.0,At Risk,1,One-Time Customer
+14010.0,At Risk,2,Repeat Customer
+14011.0,At Risk,2,Repeat Customer
+14013.0,Potential Loyalists,2,Repeat Customer
+14014.0,Loyal Customers,2,Repeat Customer
+14016.0,VIP / Champions,7,Repeat Customer
+14017.0,Lost / Hibernating,1,One-Time Customer
+14018.0,Lost / Hibernating,1,One-Time Customer
+14020.0,Potential Loyalists,2,Repeat Customer
+14021.0,VIP / Champions,4,Repeat Customer
+14022.0,At Risk,1,One-Time Customer
+14024.0,Potential Loyalists,1,One-Time Customer
+14025.0,Loyal Customers,8,Repeat Customer
+14026.0,Potential Loyalists,2,Repeat Customer
+14028.0,Potential Loyalists,3,Repeat Customer
+14030.0,VIP / Champions,14,Repeat Customer
+14031.0,VIP / Champions,27,Repeat Customer
+14032.0,VIP / Champions,6,Repeat Customer
+14033.0,Lost / Hibernating,1,One-Time Customer
+14035.0,Loyal Customers,4,Repeat Customer
+14037.0,Potential Loyalists,4,Repeat Customer
+14038.0,Loyal Customers,2,Repeat Customer
+14039.0,Lost / Hibernating,1,One-Time Customer
+14040.0,VIP / Champions,23,Repeat Customer
+14042.0,Lost / Hibernating,1,One-Time Customer
+14043.0,At Risk,2,Repeat Customer
+14044.0,Loyal Customers,6,Repeat Customer
+14045.0,VIP / Champions,13,Repeat Customer
+14047.0,VIP / Champions,10,Repeat Customer
+14048.0,Potential Loyalists,2,Repeat Customer
+14049.0,VIP / Champions,9,Repeat Customer
+14051.0,VIP / Champions,15,Repeat Customer
+14052.0,At Risk,1,One-Time Customer
+14053.0,Potential Loyalists,2,Repeat Customer
+14055.0,At Risk,2,Repeat Customer
+14057.0,Loyal Customers,5,Repeat Customer
+14058.0,At Risk,2,Repeat Customer
+14060.0,VIP / Champions,13,Repeat Customer
+14061.0,Potential Loyalists,3,Repeat Customer
+14062.0,VIP / Champions,12,Repeat Customer
+14063.0,Loyal Customers,9,Repeat Customer
+14064.0,Loyal Customers,10,Repeat Customer
+14065.0,Loyal Customers,3,Repeat Customer
+14068.0,Potential Loyalists,3,Repeat Customer
+14069.0,At Risk,2,Repeat Customer
+14070.0,Lost / Hibernating,1,One-Time Customer
+14072.0,Lost / Hibernating,1,One-Time Customer
+14074.0,Lost / Hibernating,1,One-Time Customer
+14075.0,Potential Loyalists,3,Repeat Customer
+14077.0,At Risk,1,One-Time Customer
+14078.0,Loyal Customers,4,Repeat Customer
+14079.0,Lost / Hibernating,1,One-Time Customer
+14080.0,Loyal Customers,4,Repeat Customer
+14081.0,VIP / Champions,9,Repeat Customer
+14082.0,At Risk,1,One-Time Customer
+14083.0,Loyal Customers,3,Repeat Customer
+14084.0,Lost / Hibernating,1,One-Time Customer
+14085.0,VIP / Champions,16,Repeat Customer
+14086.0,Lost / Hibernating,1,One-Time Customer
+14087.0,Potential Loyalists,2,Repeat Customer
+14088.0,Loyal Customers,3,Repeat Customer
+14091.0,Potential Loyalists,2,Repeat Customer
+14092.0,VIP / Champions,10,Repeat Customer
+14094.0,At Risk,1,One-Time Customer
+14095.0,Lost / Hibernating,1,One-Time Customer
+14097.0,At Risk,2,Repeat Customer
+14099.0,VIP / Champions,9,Repeat Customer
+14101.0,VIP / Champions,7,Repeat Customer
+14103.0,Lost / Hibernating,1,One-Time Customer
+14104.0,Loyal Customers,3,Repeat Customer
+14105.0,Loyal Customers,4,Repeat Customer
+14106.0,Lost / Hibernating,1,One-Time Customer
+14107.0,Loyal Customers,4,Repeat Customer
+14108.0,At Risk,2,Repeat Customer
+14110.0,VIP / Champions,21,Repeat Customer
+14112.0,Loyal Customers,6,Repeat Customer
+14113.0,VIP / Champions,12,Repeat Customer
+14114.0,Loyal Customers,5,Repeat Customer
+14115.0,Potential Loyalists,2,Repeat Customer
+14118.0,At Risk,1,One-Time Customer
+14119.0,Potential Loyalists,2,Repeat Customer
+14122.0,Potential Loyalists,3,Repeat Customer
+14123.0,Lost / Hibernating,1,One-Time Customer
+14126.0,At Risk,1,One-Time Customer
+14127.0,Loyal Customers,3,Repeat Customer
+14128.0,Lost / Hibernating,1,One-Time Customer
+14129.0,Loyal Customers,4,Repeat Customer
+14130.0,Loyal Customers,3,Repeat Customer
+14131.0,Lost / Hibernating,1,One-Time Customer
+14133.0,Lost / Hibernating,1,One-Time Customer
+14134.0,VIP / Champions,15,Repeat Customer
+14135.0,VIP / Champions,11,Repeat Customer
+14136.0,Loyal Customers,5,Repeat Customer
+14137.0,Lost / Hibernating,1,One-Time Customer
+14139.0,Potential Loyalists,3,Repeat Customer
+14142.0,Loyal Customers,2,Repeat Customer
+14144.0,Lost / Hibernating,1,One-Time Customer
+14145.0,Loyal Customers,3,Repeat Customer
+14146.0,VIP / Champions,7,Repeat Customer
+14147.0,VIP / Champions,7,Repeat Customer
+14148.0,At Risk,1,One-Time Customer
+14151.0,At Risk,2,Repeat Customer
+14152.0,Loyal Customers,5,Repeat Customer
+14153.0,Lost / Hibernating,1,One-Time Customer
+14154.0,VIP / Champions,6,Repeat Customer
+14156.0,VIP / Champions,102,Repeat Customer
+14157.0,Loyal Customers,3,Repeat Customer
+14159.0,VIP / Champions,9,Repeat Customer
+14160.0,Loyal Customers,7,Repeat Customer
+14161.0,VIP / Champions,5,Repeat Customer
+14163.0,Lost / Hibernating,1,One-Time Customer
+14166.0,At Risk,2,Repeat Customer
+14167.0,Potential Loyalists,4,Repeat Customer
+14168.0,Potential Loyalists,2,Repeat Customer
+14169.0,Potential Loyalists,2,Repeat Customer
+14170.0,Loyal Customers,3,Repeat Customer
+14171.0,Lost / Hibernating,1,One-Time Customer
+14172.0,At Risk,3,Repeat Customer
+14173.0,Lost / Hibernating,2,Repeat Customer
+14175.0,Loyal Customers,5,Repeat Customer
+14176.0,Potential Loyalists,2,Repeat Customer
+14177.0,VIP / Champions,9,Repeat Customer
+14180.0,VIP / Champions,9,Repeat Customer
+14181.0,Potential Loyalists,2,Repeat Customer
+14182.0,Potential Loyalists,4,Repeat Customer
+14183.0,Potential Loyalists,2,Repeat Customer
+14186.0,Loyal Customers,5,Repeat Customer
+14187.0,Lost / Hibernating,1,One-Time Customer
+14189.0,Loyal Customers,2,Repeat Customer
+14190.0,Lost / Hibernating,1,One-Time Customer
+14191.0,Potential Loyalists,2,Repeat Customer
+14192.0,Potential Loyalists,1,One-Time Customer
+14193.0,Potential Loyalists,1,One-Time Customer
+14194.0,VIP / Champions,15,Repeat Customer
+14195.0,Loyal Customers,4,Repeat Customer
+14197.0,At Risk,1,One-Time Customer
+14198.0,Loyal Customers,5,Repeat Customer
+14199.0,Potential Loyalists,3,Repeat Customer
+14200.0,Lost / Hibernating,1,One-Time Customer
+14201.0,Potential Loyalists,3,Repeat Customer
+14202.0,Loyal Customers,3,Repeat Customer
+14203.0,Potential Loyalists,1,One-Time Customer
+14204.0,Potential Loyalists,3,Repeat Customer
+14205.0,VIP / Champions,7,Repeat Customer
+14206.0,Potential Loyalists,2,Repeat Customer
+14207.0,Lost / Hibernating,1,One-Time Customer
+14208.0,Lost / Hibernating,1,One-Time Customer
+14209.0,VIP / Champions,9,Repeat Customer
+14210.0,VIP / Champions,11,Repeat Customer
+14211.0,VIP / Champions,9,Repeat Customer
+14212.0,Potential Loyalists,1,One-Time Customer
+14213.0,Potential Loyalists,1,One-Time Customer
+14215.0,VIP / Champions,4,Repeat Customer
+14216.0,At Risk,1,One-Time Customer
+14217.0,VIP / Champions,7,Repeat Customer
+14219.0,Potential Loyalists,2,Repeat Customer
+14220.0,At Risk,2,Repeat Customer
+14221.0,Loyal Customers,8,Repeat Customer
+14224.0,Loyal Customers,5,Repeat Customer
+14225.0,Loyal Customers,4,Repeat Customer
+14226.0,At Risk,1,One-Time Customer
+14227.0,Loyal Customers,5,Repeat Customer
+14228.0,Potential Loyalists,3,Repeat Customer
+14229.0,Loyal Customers,4,Repeat Customer
+14230.0,Potential Loyalists,3,Repeat Customer
+14231.0,At Risk,1,One-Time Customer
+14233.0,Potential Loyalists,3,Repeat Customer
+14235.0,Loyal Customers,4,Repeat Customer
+14236.0,VIP / Champions,4,Repeat Customer
+14237.0,Potential Loyalists,2,Repeat Customer
+14238.0,At Risk,2,Repeat Customer
+14239.0,Loyal Customers,10,Repeat Customer
+14240.0,At Risk,1,One-Time Customer
+14241.0,Lost / Hibernating,1,One-Time Customer
+14243.0,VIP / Champions,8,Repeat Customer
+14244.0,Lost / Hibernating,1,One-Time Customer
+14247.0,Loyal Customers,4,Repeat Customer
+14248.0,Potential Loyalists,2,Repeat Customer
+14249.0,VIP / Champions,12,Repeat Customer
+14252.0,Potential Loyalists,1,One-Time Customer
+14253.0,At Risk,2,Repeat Customer
+14254.0,Potential Loyalists,1,One-Time Customer
+14255.0,At Risk,1,One-Time Customer
+14256.0,Potential Loyalists,3,Repeat Customer
+14257.0,VIP / Champions,4,Repeat Customer
+14258.0,VIP / Champions,16,Repeat Customer
+14260.0,Potential Loyalists,3,Repeat Customer
+14263.0,At Risk,1,One-Time Customer
+14264.0,VIP / Champions,4,Repeat Customer
+14265.0,Potential Loyalists,2,Repeat Customer
+14266.0,At Risk,1,One-Time Customer
+14268.0,At Risk,1,One-Time Customer
+14269.0,At Risk,1,One-Time Customer
+14271.0,At Risk,1,One-Time Customer
+14272.0,At Risk,2,Repeat Customer
+14274.0,Lost / Hibernating,1,One-Time Customer
+14275.0,Loyal Customers,6,Repeat Customer
+14276.0,Loyal Customers,4,Repeat Customer
+14277.0,Loyal Customers,6,Repeat Customer
+14278.0,At Risk,1,One-Time Customer
+14279.0,At Risk,2,Repeat Customer
+14281.0,At Risk,1,One-Time Customer
+14282.0,VIP / Champions,11,Repeat Customer
+14283.0,Potential Loyalists,4,Repeat Customer
+14284.0,At Risk,1,One-Time Customer
+14285.0,Loyal Customers,4,Repeat Customer
+14286.0,Loyal Customers,4,Repeat Customer
+14290.0,Loyal Customers,3,Repeat Customer
+14291.0,VIP / Champions,12,Repeat Customer
+14292.0,VIP / Champions,7,Repeat Customer
+14293.0,VIP / Champions,6,Repeat Customer
+14294.0,At Risk,1,One-Time Customer
+14295.0,Loyal Customers,4,Repeat Customer
+14296.0,Potential Loyalists,2,Repeat Customer
+14298.0,VIP / Champions,38,Repeat Customer
+14299.0,VIP / Champions,19,Repeat Customer
+14301.0,Loyal Customers,3,Repeat Customer
+14302.0,Potential Loyalists,3,Repeat Customer
+14303.0,Potential Loyalists,2,Repeat Customer
+14304.0,Loyal Customers,2,Repeat Customer
+14306.0,VIP / Champions,4,Repeat Customer
+14307.0,VIP / Champions,5,Repeat Customer
+14308.0,Potential Loyalists,2,Repeat Customer
+14309.0,Potential Loyalists,2,Repeat Customer
+14310.0,At Risk,1,One-Time Customer
+14311.0,Lost / Hibernating,1,One-Time Customer
+14312.0,VIP / Champions,5,Repeat Customer
+14314.0,At Risk,1,One-Time Customer
+14315.0,At Risk,2,Repeat Customer
+14316.0,Loyal Customers,5,Repeat Customer
+14318.0,Lost / Hibernating,1,One-Time Customer
+14319.0,At Risk,1,One-Time Customer
+14320.0,Potential Loyalists,3,Repeat Customer
+14321.0,Potential Loyalists,2,Repeat Customer
+14322.0,Potential Loyalists,4,Repeat Customer
+14324.0,Potential Loyalists,2,Repeat Customer
+14325.0,Lost / Hibernating,1,One-Time Customer
+14326.0,Potential Loyalists,2,Repeat Customer
+14327.0,Loyal Customers,5,Repeat Customer
+14328.0,At Risk,1,One-Time Customer
+14329.0,VIP / Champions,8,Repeat Customer
+14330.0,Lost / Hibernating,1,One-Time Customer
+14332.0,Loyal Customers,2,Repeat Customer
+14334.0,Loyal Customers,4,Repeat Customer
+14338.0,At Risk,1,One-Time Customer
+14339.0,At Risk,1,One-Time Customer
+14341.0,VIP / Champions,10,Repeat Customer
+14342.0,At Risk,2,Repeat Customer
+14343.0,Loyal Customers,4,Repeat Customer
+14344.0,VIP / Champions,14,Repeat Customer
+14346.0,Loyal Customers,3,Repeat Customer
+14347.0,Lost / Hibernating,1,One-Time Customer
+14350.0,Potential Loyalists,2,Repeat Customer
+14353.0,Potential Loyalists,2,Repeat Customer
+14355.0,Loyal Customers,3,Repeat Customer
+14358.0,Potential Loyalists,2,Repeat Customer
+14361.0,Lost / Hibernating,1,One-Time Customer
+14363.0,At Risk,2,Repeat Customer
+14365.0,Potential Loyalists,2,Repeat Customer
+14366.0,Lost / Hibernating,1,One-Time Customer
+14369.0,At Risk,2,Repeat Customer
+14370.0,Loyal Customers,6,Repeat Customer
+14372.0,Potential Loyalists,2,Repeat Customer
+14374.0,Lost / Hibernating,1,One-Time Customer
+14375.0,Potential Loyalists,2,Repeat Customer
+14376.0,Lost / Hibernating,1,One-Time Customer
+14378.0,Lost / Hibernating,1,One-Time Customer
+14379.0,Potential Loyalists,2,Repeat Customer
+14380.0,Lost / Hibernating,1,One-Time Customer
+14381.0,At Risk,1,One-Time Customer
+14382.0,Potential Loyalists,1,One-Time Customer
+14384.0,Lost / Hibernating,1,One-Time Customer
+14388.0,VIP / Champions,9,Repeat Customer
+14389.0,Potential Loyalists,3,Repeat Customer
+14390.0,VIP / Champions,5,Repeat Customer
+14391.0,Lost / Hibernating,1,One-Time Customer
+14392.0,At Risk,1,One-Time Customer
+14394.0,Lost / Hibernating,1,One-Time Customer
+14395.0,VIP / Champions,12,Repeat Customer
+14396.0,VIP / Champions,6,Repeat Customer
+14398.0,Potential Loyalists,2,Repeat Customer
+14399.0,VIP / Champions,8,Repeat Customer
+14400.0,Potential Loyalists,2,Repeat Customer
+14401.0,VIP / Champions,9,Repeat Customer
+14402.0,Lost / Hibernating,1,One-Time Customer
+14403.0,At Risk,2,Repeat Customer
+14404.0,VIP / Champions,8,Repeat Customer
+14405.0,At Risk,1,One-Time Customer
+14408.0,Loyal Customers,4,Repeat Customer
+14409.0,VIP / Champions,5,Repeat Customer
+14410.0,Loyal Customers,2,Repeat Customer
+14412.0,Potential Loyalists,1,One-Time Customer
+14413.0,Potential Loyalists,3,Repeat Customer
+14414.0,Potential Loyalists,1,One-Time Customer
+14415.0,VIP / Champions,10,Repeat Customer
+14417.0,Potential Loyalists,1,One-Time Customer
+14419.0,At Risk,1,One-Time Customer
+14420.0,Loyal Customers,3,Repeat Customer
+14421.0,Loyal Customers,4,Repeat Customer
+14422.0,VIP / Champions,13,Repeat Customer
+14423.0,Potential Loyalists,2,Repeat Customer
+14425.0,Potential Loyalists,3,Repeat Customer
+14426.0,VIP / Champions,7,Repeat Customer
+14427.0,Potential Loyalists,2,Repeat Customer
+14429.0,Potential Loyalists,1,One-Time Customer
+14430.0,Potential Loyalists,3,Repeat Customer
+14431.0,VIP / Champions,3,Repeat Customer
+14433.0,At Risk,1,One-Time Customer
+14435.0,Lost / Hibernating,1,One-Time Customer
+14436.0,Lost / Hibernating,1,One-Time Customer
+14437.0,Loyal Customers,5,Repeat Customer
+14439.0,Loyal Customers,4,Repeat Customer
+14440.0,VIP / Champions,9,Repeat Customer
+14441.0,VIP / Champions,7,Repeat Customer
+14442.0,Loyal Customers,5,Repeat Customer
+14443.0,Loyal Customers,2,Repeat Customer
+14444.0,Lost / Hibernating,1,One-Time Customer
+14445.0,Lost / Hibernating,1,One-Time Customer
+14446.0,At Risk,1,One-Time Customer
+14447.0,Potential Loyalists,1,One-Time Customer
+14449.0,VIP / Champions,5,Repeat Customer
+14450.0,Loyal Customers,4,Repeat Customer
+14451.0,VIP / Champions,10,Repeat Customer
+14452.0,Potential Loyalists,2,Repeat Customer
+14454.0,Loyal Customers,5,Repeat Customer
+14455.0,Loyal Customers,4,Repeat Customer
+14458.0,At Risk,1,One-Time Customer
+14459.0,Potential Loyalists,1,One-Time Customer
+14460.0,Loyal Customers,6,Repeat Customer
+14461.0,VIP / Champions,10,Repeat Customer
+14462.0,At Risk,1,One-Time Customer
+14463.0,At Risk,1,One-Time Customer
+14464.0,Lost / Hibernating,2,Repeat Customer
+14465.0,VIP / Champions,8,Repeat Customer
+14466.0,VIP / Champions,7,Repeat Customer
+14467.0,VIP / Champions,8,Repeat Customer
+14468.0,Lost / Hibernating,1,One-Time Customer
+14469.0,Loyal Customers,4,Repeat Customer
+14470.0,At Risk,1,One-Time Customer
+14471.0,At Risk,2,Repeat Customer
+14472.0,Lost / Hibernating,1,One-Time Customer
+14474.0,At Risk,1,One-Time Customer
+14475.0,At Risk,1,One-Time Customer
+14477.0,Potential Loyalists,3,Repeat Customer
+14478.0,Loyal Customers,4,Repeat Customer
+14479.0,Loyal Customers,3,Repeat Customer
+14480.0,Loyal Customers,3,Repeat Customer
+14481.0,Loyal Customers,3,Repeat Customer
+14482.0,VIP / Champions,6,Repeat Customer
+14483.0,Lost / Hibernating,1,One-Time Customer
+14484.0,Potential Loyalists,3,Repeat Customer
+14486.0,At Risk,2,Repeat Customer
+14487.0,Potential Loyalists,2,Repeat Customer
+14489.0,Potential Loyalists,3,Repeat Customer
+14490.0,Potential Loyalists,2,Repeat Customer
+14491.0,Potential Loyalists,1,One-Time Customer
+14492.0,Loyal Customers,7,Repeat Customer
+14493.0,VIP / Champions,5,Repeat Customer
+14494.0,Potential Loyalists,2,Repeat Customer
+14495.0,Lost / Hibernating,1,One-Time Customer
+14496.0,VIP / Champions,6,Repeat Customer
+14497.0,Lost / Hibernating,1,One-Time Customer
+14498.0,Loyal Customers,5,Repeat Customer
+14499.0,VIP / Champions,4,Repeat Customer
+14505.0,VIP / Champions,11,Repeat Customer
+14506.0,Loyal Customers,3,Repeat Customer
+14507.0,VIP / Champions,5,Repeat Customer
+14508.0,Loyal Customers,3,Repeat Customer
+14509.0,Lost / Hibernating,1,One-Time Customer
+14510.0,Loyal Customers,3,Repeat Customer
+14512.0,Loyal Customers,5,Repeat Customer
+14513.0,Potential Loyalists,3,Repeat Customer
+14514.0,Loyal Customers,6,Repeat Customer
+14515.0,Loyal Customers,6,Repeat Customer
+14516.0,Lost / Hibernating,1,One-Time Customer
+14519.0,Lost / Hibernating,2,Repeat Customer
+14521.0,Lost / Hibernating,1,One-Time Customer
+14522.0,Potential Loyalists,4,Repeat Customer
+14524.0,Loyal Customers,4,Repeat Customer
+14525.0,VIP / Champions,8,Repeat Customer
+14526.0,Potential Loyalists,1,One-Time Customer
+14527.0,VIP / Champions,69,Repeat Customer
+14530.0,VIP / Champions,10,Repeat Customer
+14531.0,At Risk,1,One-Time Customer
+14532.0,VIP / Champions,7,Repeat Customer
+14533.0,Loyal Customers,4,Repeat Customer
+14534.0,VIP / Champions,8,Repeat Customer
+14535.0,VIP / Champions,6,Repeat Customer
+14537.0,Lost / Hibernating,1,One-Time Customer
+14538.0,Potential Loyalists,3,Repeat Customer
+14540.0,VIP / Champions,8,Repeat Customer
+14541.0,Loyal Customers,6,Repeat Customer
+14543.0,VIP / Champions,23,Repeat Customer
+14544.0,At Risk,1,One-Time Customer
+14545.0,Lost / Hibernating,1,One-Time Customer
+14546.0,VIP / Champions,6,Repeat Customer
+14548.0,Loyal Customers,7,Repeat Customer
+14549.0,Potential Loyalists,3,Repeat Customer
+14550.0,Potential Loyalists,2,Repeat Customer
+14551.0,Loyal Customers,5,Repeat Customer
+14552.0,Potential Loyalists,2,Repeat Customer
+14553.0,Loyal Customers,4,Repeat Customer
+14555.0,Loyal Customers,4,Repeat Customer
+14556.0,Potential Loyalists,3,Repeat Customer
+14558.0,Potential Loyalists,3,Repeat Customer
+14559.0,At Risk,1,One-Time Customer
+14560.0,VIP / Champions,22,Repeat Customer
+14562.0,VIP / Champions,8,Repeat Customer
+14563.0,Potential Loyalists,2,Repeat Customer
+14564.0,Loyal Customers,2,Repeat Customer
+14565.0,At Risk,1,One-Time Customer
+14566.0,Loyal Customers,3,Repeat Customer
+14568.0,Potential Loyalists,1,One-Time Customer
+14569.0,Potential Loyalists,3,Repeat Customer
+14570.0,At Risk,1,One-Time Customer
+14571.0,At Risk,1,One-Time Customer
+14572.0,Loyal Customers,4,Repeat Customer
+14573.0,Loyal Customers,5,Repeat Customer
+14574.0,Lost / Hibernating,1,One-Time Customer
+14575.0,At Risk,1,One-Time Customer
+14576.0,Potential Loyalists,1,One-Time Customer
+14577.0,Loyal Customers,3,Repeat Customer
+14579.0,At Risk,1,One-Time Customer
+14580.0,Lost / Hibernating,1,One-Time Customer
+14581.0,Lost / Hibernating,1,One-Time Customer
+14583.0,Loyal Customers,3,Repeat Customer
+14584.0,Loyal Customers,4,Repeat Customer
+14585.0,Loyal Customers,4,Repeat Customer
+14588.0,Lost / Hibernating,1,One-Time Customer
+14589.0,Potential Loyalists,1,One-Time Customer
+14590.0,VIP / Champions,20,Repeat Customer
+14593.0,VIP / Champions,9,Repeat Customer
+14594.0,Potential Loyalists,1,One-Time Customer
+14595.0,At Risk,2,Repeat Customer
+14596.0,Lost / Hibernating,1,One-Time Customer
+14597.0,VIP / Champions,4,Repeat Customer
+14598.0,Lost / Hibernating,1,One-Time Customer
+14599.0,Potential Loyalists,2,Repeat Customer
+14600.0,Potential Loyalists,1,One-Time Customer
+14602.0,Lost / Hibernating,1,One-Time Customer
+14604.0,Lost / Hibernating,1,One-Time Customer
+14605.0,Loyal Customers,4,Repeat Customer
+14606.0,VIP / Champions,102,Repeat Customer
+14607.0,Loyal Customers,8,Repeat Customer
+14608.0,VIP / Champions,7,Repeat Customer
+14609.0,Loyal Customers,6,Repeat Customer
+14610.0,Potential Loyalists,2,Repeat Customer
+14611.0,Potential Loyalists,2,Repeat Customer
+14612.0,Potential Loyalists,1,One-Time Customer
+14613.0,Lost / Hibernating,1,One-Time Customer
+14614.0,Potential Loyalists,1,One-Time Customer
+14615.0,Loyal Customers,5,Repeat Customer
+14616.0,Potential Loyalists,2,Repeat Customer
+14617.0,At Risk,2,Repeat Customer
+14618.0,Loyal Customers,4,Repeat Customer
+14619.0,At Risk,1,One-Time Customer
+14621.0,Loyal Customers,4,Repeat Customer
+14623.0,Loyal Customers,5,Repeat Customer
+14624.0,Loyal Customers,4,Repeat Customer
+14625.0,VIP / Champions,9,Repeat Customer
+14626.0,VIP / Champions,7,Repeat Customer
+14627.0,Potential Loyalists,1,One-Time Customer
+14628.0,Potential Loyalists,3,Repeat Customer
+14630.0,At Risk,1,One-Time Customer
+14631.0,Loyal Customers,3,Repeat Customer
+14634.0,Loyal Customers,4,Repeat Customer
+14635.0,Lost / Hibernating,1,One-Time Customer
+14637.0,Lost / Hibernating,1,One-Time Customer
+14639.0,Loyal Customers,3,Repeat Customer
+14640.0,Loyal Customers,4,Repeat Customer
+14643.0,Potential Loyalists,3,Repeat Customer
+14644.0,Loyal Customers,5,Repeat Customer
+14645.0,Lost / Hibernating,1,One-Time Customer
+14646.0,VIP / Champions,78,Repeat Customer
+14647.0,At Risk,1,One-Time Customer
+14648.0,VIP / Champions,15,Repeat Customer
+14649.0,VIP / Champions,5,Repeat Customer
+14650.0,Lost / Hibernating,1,One-Time Customer
+14651.0,VIP / Champions,7,Repeat Customer
+14653.0,Loyal Customers,5,Repeat Customer
+14654.0,Lost / Hibernating,1,One-Time Customer
+14655.0,Loyal Customers,3,Repeat Customer
+14656.0,Potential Loyalists,3,Repeat Customer
+14657.0,Potential Loyalists,2,Repeat Customer
+14662.0,Potential Loyalists,3,Repeat Customer
+14663.0,Potential Loyalists,2,Repeat Customer
+14665.0,Potential Loyalists,2,Repeat Customer
+14667.0,VIP / Champions,31,Repeat Customer
+14668.0,Lost / Hibernating,1,One-Time Customer
+14669.0,Potential Loyalists,4,Repeat Customer
+14670.0,Lost / Hibernating,1,One-Time Customer
+14671.0,Potential Loyalists,2,Repeat Customer
+14672.0,At Risk,2,Repeat Customer
+14673.0,Loyal Customers,3,Repeat Customer
+14674.0,Lost / Hibernating,1,One-Time Customer
+14675.0,Potential Loyalists,1,One-Time Customer
+14676.0,VIP / Champions,6,Repeat Customer
+14677.0,Lost / Hibernating,1,One-Time Customer
+14678.0,Lost / Hibernating,1,One-Time Customer
+14679.0,Loyal Customers,3,Repeat Customer
+14680.0,VIP / Champions,43,Repeat Customer
+14681.0,Potential Loyalists,3,Repeat Customer
+14682.0,Loyal Customers,4,Repeat Customer
+14683.0,Lost / Hibernating,1,One-Time Customer
+14684.0,At Risk,1,One-Time Customer
+14685.0,Loyal Customers,8,Repeat Customer
+14686.0,Loyal Customers,5,Repeat Customer
+14687.0,Potential Loyalists,2,Repeat Customer
+14688.0,VIP / Champions,8,Repeat Customer
+14690.0,Potential Loyalists,2,Repeat Customer
+14692.0,VIP / Champions,8,Repeat Customer
+14693.0,Loyal Customers,6,Repeat Customer
+14694.0,Lost / Hibernating,1,One-Time Customer
+14695.0,Potential Loyalists,3,Repeat Customer
+14696.0,Loyal Customers,2,Repeat Customer
+14699.0,Potential Loyalists,3,Repeat Customer
+14700.0,Potential Loyalists,2,Repeat Customer
+14701.0,Loyal Customers,6,Repeat Customer
+14702.0,VIP / Champions,13,Repeat Customer
+14704.0,Potential Loyalists,2,Repeat Customer
+14706.0,Lost / Hibernating,1,One-Time Customer
+14707.0,Potential Loyalists,2,Repeat Customer
+14708.0,Loyal Customers,3,Repeat Customer
+14709.0,VIP / Champions,12,Repeat Customer
+14710.0,VIP / Champions,9,Repeat Customer
+14712.0,At Risk,1,One-Time Customer
+14713.0,VIP / Champions,11,Repeat Customer
+14714.0,Potential Loyalists,3,Repeat Customer
+14715.0,Potential Loyalists,4,Repeat Customer
+14716.0,Lost / Hibernating,1,One-Time Customer
+14717.0,Lost / Hibernating,1,One-Time Customer
+14718.0,At Risk,1,One-Time Customer
+14721.0,Potential Loyalists,1,One-Time Customer
+14722.0,Potential Loyalists,2,Repeat Customer
+14723.0,VIP / Champions,7,Repeat Customer
+14724.0,Lost / Hibernating,1,One-Time Customer
+14725.0,Loyal Customers,3,Repeat Customer
+14726.0,Lost / Hibernating,1,One-Time Customer
+14727.0,At Risk,2,Repeat Customer
+14728.0,At Risk,1,One-Time Customer
+14729.0,Loyal Customers,3,Repeat Customer
+14732.0,VIP / Champions,11,Repeat Customer
+14733.0,VIP / Champions,4,Repeat Customer
+14734.0,Loyal Customers,4,Repeat Customer
+14735.0,VIP / Champions,24,Repeat Customer
+14736.0,Potential Loyalists,2,Repeat Customer
+14737.0,Loyal Customers,1,One-Time Customer
+14738.0,Potential Loyalists,2,Repeat Customer
+14739.0,VIP / Champions,19,Repeat Customer
+14740.0,VIP / Champions,8,Repeat Customer
+14741.0,Loyal Customers,2,Repeat Customer
+14742.0,Potential Loyalists,1,One-Time Customer
+14743.0,Lost / Hibernating,1,One-Time Customer
+14744.0,VIP / Champions,8,Repeat Customer
+14745.0,Loyal Customers,7,Repeat Customer
+14746.0,Loyal Customers,4,Repeat Customer
+14748.0,VIP / Champions,7,Repeat Customer
+14749.0,At Risk,1,One-Time Customer
+14750.0,Lost / Hibernating,1,One-Time Customer
+14751.0,At Risk,2,Repeat Customer
+14753.0,At Risk,1,One-Time Customer
+14754.0,Loyal Customers,4,Repeat Customer
+14755.0,VIP / Champions,14,Repeat Customer
+14756.0,Loyal Customers,2,Repeat Customer
+14758.0,Loyal Customers,3,Repeat Customer
+14761.0,Lost / Hibernating,1,One-Time Customer
+14762.0,Lost / Hibernating,1,One-Time Customer
+14766.0,VIP / Champions,6,Repeat Customer
+14767.0,At Risk,1,One-Time Customer
+14769.0,VIP / Champions,9,Repeat Customer
+14770.0,Loyal Customers,6,Repeat Customer
+14771.0,Potential Loyalists,2,Repeat Customer
+14773.0,Lost / Hibernating,1,One-Time Customer
+14774.0,Lost / Hibernating,1,One-Time Customer
+14775.0,Potential Loyalists,1,One-Time Customer
+14776.0,Loyal Customers,4,Repeat Customer
+14777.0,At Risk,1,One-Time Customer
+14783.0,Lost / Hibernating,1,One-Time Customer
+14784.0,At Risk,1,One-Time Customer
+14786.0,Lost / Hibernating,1,One-Time Customer
+14787.0,Lost / Hibernating,1,One-Time Customer
+14788.0,Lost / Hibernating,1,One-Time Customer
+14790.0,VIP / Champions,6,Repeat Customer
+14791.0,Lost / Hibernating,1,One-Time Customer
+14793.0,At Risk,1,One-Time Customer
+14794.0,Potential Loyalists,3,Repeat Customer
+14796.0,VIP / Champions,11,Repeat Customer
+14797.0,At Risk,1,One-Time Customer
+14798.0,Loyal Customers,5,Repeat Customer
+14799.0,Lost / Hibernating,1,One-Time Customer
+14800.0,VIP / Champions,6,Repeat Customer
+14802.0,Potential Loyalists,2,Repeat Customer
+14805.0,Potential Loyalists,3,Repeat Customer
+14806.0,Lost / Hibernating,1,One-Time Customer
+14807.0,Loyal Customers,2,Repeat Customer
+14809.0,Potential Loyalists,2,Repeat Customer
+14810.0,Loyal Customers,3,Repeat Customer
+14811.0,At Risk,1,One-Time Customer
+14812.0,Lost / Hibernating,1,One-Time Customer
+14813.0,Loyal Customers,4,Repeat Customer
+14814.0,Lost / Hibernating,1,One-Time Customer
+14817.0,VIP / Champions,5,Repeat Customer
+14818.0,Potential Loyalists,3,Repeat Customer
+14819.0,At Risk,2,Repeat Customer
+14820.0,Loyal Customers,5,Repeat Customer
+14821.0,VIP / Champions,7,Repeat Customer
+14822.0,Lost / Hibernating,1,One-Time Customer
+14824.0,VIP / Champions,6,Repeat Customer
+14825.0,VIP / Champions,13,Repeat Customer
+14826.0,At Risk,2,Repeat Customer
+14827.0,Lost / Hibernating,1,One-Time Customer
+14828.0,VIP / Champions,10,Repeat Customer
+14829.0,VIP / Champions,4,Repeat Customer
+14831.0,Potential Loyalists,3,Repeat Customer
+14832.0,Lost / Hibernating,1,One-Time Customer
+14833.0,Lost / Hibernating,1,One-Time Customer
+14834.0,At Risk,1,One-Time Customer
+14835.0,Potential Loyalists,2,Repeat Customer
+14837.0,Loyal Customers,5,Repeat Customer
+14838.0,Potential Loyalists,2,Repeat Customer
+14839.0,Potential Loyalists,3,Repeat Customer
+14840.0,At Risk,1,One-Time Customer
+14841.0,VIP / Champions,8,Repeat Customer
+14843.0,Lost / Hibernating,1,One-Time Customer
+14844.0,VIP / Champions,6,Repeat Customer
+14845.0,Lost / Hibernating,1,One-Time Customer
+14846.0,At Risk,1,One-Time Customer
+14847.0,Loyal Customers,2,Repeat Customer
+14848.0,At Risk,1,One-Time Customer
+14849.0,VIP / Champions,21,Repeat Customer
+14850.0,Loyal Customers,6,Repeat Customer
+14851.0,Lost / Hibernating,1,One-Time Customer
+14852.0,VIP / Champions,12,Repeat Customer
+14853.0,Potential Loyalists,3,Repeat Customer
+14854.0,Loyal Customers,4,Repeat Customer
+14855.0,Loyal Customers,5,Repeat Customer
+14857.0,Loyal Customers,5,Repeat Customer
+14858.0,Lost / Hibernating,1,One-Time Customer
+14859.0,Lost / Hibernating,1,One-Time Customer
+14861.0,VIP / Champions,9,Repeat Customer
+14865.0,Potential Loyalists,3,Repeat Customer
+14866.0,VIP / Champions,8,Repeat Customer
+14867.0,VIP / Champions,13,Repeat Customer
+14868.0,Loyal Customers,4,Repeat Customer
+14869.0,Loyal Customers,4,Repeat Customer
+14870.0,Loyal Customers,5,Repeat Customer
+14871.0,Potential Loyalists,5,Repeat Customer
+14872.0,Potential Loyalists,3,Repeat Customer
+14873.0,Lost / Hibernating,1,One-Time Customer
+14874.0,Lost / Hibernating,1,One-Time Customer
+14875.0,Potential Loyalists,1,One-Time Customer
+14876.0,Potential Loyalists,2,Repeat Customer
+14877.0,Potential Loyalists,2,Repeat Customer
+14878.0,VIP / Champions,16,Repeat Customer
+14879.0,Lost / Hibernating,1,One-Time Customer
+14882.0,VIP / Champions,12,Repeat Customer
+14884.0,Lost / Hibernating,1,One-Time Customer
+14885.0,Potential Loyalists,2,Repeat Customer
+14890.0,Potential Loyalists,2,Repeat Customer
+14891.0,Potential Loyalists,2,Repeat Customer
+14892.0,Lost / Hibernating,1,One-Time Customer
+14893.0,At Risk,1,One-Time Customer
+14894.0,Potential Loyalists,2,Repeat Customer
+14895.0,VIP / Champions,18,Repeat Customer
+14896.0,VIP / Champions,7,Repeat Customer
+14897.0,Loyal Customers,4,Repeat Customer
+14898.0,VIP / Champions,9,Repeat Customer
+14899.0,Potential Loyalists,1,One-Time Customer
+14900.0,Lost / Hibernating,1,One-Time Customer
+14901.0,Loyal Customers,5,Repeat Customer
+14902.0,Loyal Customers,2,Repeat Customer
+14904.0,Potential Loyalists,2,Repeat Customer
+14905.0,VIP / Champions,6,Repeat Customer
+14906.0,Lost / Hibernating,1,One-Time Customer
+14907.0,VIP / Champions,10,Repeat Customer
+14908.0,Lost / Hibernating,1,One-Time Customer
+14909.0,Potential Loyalists,3,Repeat Customer
+14911.0,VIP / Champions,205,Repeat Customer
+14912.0,Loyal Customers,4,Repeat Customer
+14913.0,VIP / Champions,4,Repeat Customer
+14915.0,VIP / Champions,9,Repeat Customer
+14916.0,Loyal Customers,4,Repeat Customer
+14917.0,Potential Loyalists,2,Repeat Customer
+14918.0,VIP / Champions,7,Repeat Customer
+14919.0,At Risk,1,One-Time Customer
+14920.0,At Risk,1,One-Time Customer
+14922.0,Loyal Customers,2,Repeat Customer
+14924.0,Potential Loyalists,2,Repeat Customer
+14926.0,Potential Loyalists,2,Repeat Customer
+14927.0,Potential Loyalists,1,One-Time Customer
+14928.0,Lost / Hibernating,1,One-Time Customer
+14929.0,Potential Loyalists,1,One-Time Customer
+14930.0,Loyal Customers,3,Repeat Customer
+14932.0,Loyal Customers,2,Repeat Customer
+14933.0,Loyal Customers,4,Repeat Customer
+14934.0,Loyal Customers,3,Repeat Customer
+14935.0,At Risk,1,One-Time Customer
+14936.0,VIP / Champions,4,Repeat Customer
+14938.0,Potential Loyalists,2,Repeat Customer
+14940.0,Potential Loyalists,2,Repeat Customer
+14941.0,Lost / Hibernating,1,One-Time Customer
+14942.0,Loyal Customers,4,Repeat Customer
+14943.0,Lost / Hibernating,1,One-Time Customer
+14944.0,VIP / Champions,7,Repeat Customer
+14945.0,At Risk,1,One-Time Customer
+14947.0,Loyal Customers,4,Repeat Customer
+14949.0,Potential Loyalists,4,Repeat Customer
+14952.0,VIP / Champions,21,Repeat Customer
+14953.0,Potential Loyalists,3,Repeat Customer
+14954.0,Lost / Hibernating,1,One-Time Customer
+14955.0,Lost / Hibernating,1,One-Time Customer
+14956.0,Potential Loyalists,1,One-Time Customer
+14957.0,Lost / Hibernating,1,One-Time Customer
+14958.0,At Risk,3,Repeat Customer
+14961.0,VIP / Champions,13,Repeat Customer
+14962.0,At Risk,3,Repeat Customer
+14963.0,VIP / Champions,7,Repeat Customer
+14966.0,Loyal Customers,5,Repeat Customer
+14967.0,Loyal Customers,5,Repeat Customer
+14968.0,At Risk,1,One-Time Customer
+14969.0,At Risk,1,One-Time Customer
+14970.0,VIP / Champions,8,Repeat Customer
+14972.0,At Risk,1,One-Time Customer
+14975.0,At Risk,1,One-Time Customer
+14977.0,Lost / Hibernating,1,One-Time Customer
+14978.0,Loyal Customers,5,Repeat Customer
+14979.0,Lost / Hibernating,1,One-Time Customer
+14980.0,Lost / Hibernating,1,One-Time Customer
+14981.0,At Risk,1,One-Time Customer
+14982.0,Lost / Hibernating,1,One-Time Customer
+14983.0,Lost / Hibernating,1,One-Time Customer
+14984.0,Loyal Customers,4,Repeat Customer
+14986.0,Loyal Customers,2,Repeat Customer
+14987.0,VIP / Champions,7,Repeat Customer
+14988.0,VIP / Champions,6,Repeat Customer
+14989.0,Lost / Hibernating,1,One-Time Customer
+14990.0,At Risk,2,Repeat Customer
+14991.0,At Risk,1,One-Time Customer
+14992.0,Lost / Hibernating,1,One-Time Customer
+14993.0,Lost / Hibernating,1,One-Time Customer
+14994.0,Loyal Customers,5,Repeat Customer
+14996.0,Potential Loyalists,2,Repeat Customer
+14997.0,Lost / Hibernating,1,One-Time Customer
+14998.0,Potential Loyalists,2,Repeat Customer
+14999.0,Lost / Hibernating,1,One-Time Customer
+15001.0,Potential Loyalists,2,Repeat Customer
+15002.0,VIP / Champions,6,Repeat Customer
+15003.0,Loyal Customers,6,Repeat Customer
+15005.0,VIP / Champions,29,Repeat Customer
+15006.0,At Risk,1,One-Time Customer
+15008.0,Potential Loyalists,2,Repeat Customer
+15011.0,Potential Loyalists,2,Repeat Customer
+15012.0,Loyal Customers,2,Repeat Customer
+15013.0,Loyal Customers,10,Repeat Customer
+15015.0,Loyal Customers,13,Repeat Customer
+15016.0,Loyal Customers,4,Repeat Customer
+15018.0,Potential Loyalists,1,One-Time Customer
+15020.0,Potential Loyalists,1,One-Time Customer
+15021.0,Loyal Customers,4,Repeat Customer
+15022.0,Lost / Hibernating,1,One-Time Customer
+15023.0,VIP / Champions,10,Repeat Customer
+15024.0,VIP / Champions,8,Repeat Customer
+15025.0,At Risk,1,One-Time Customer
+15026.0,Loyal Customers,2,Repeat Customer
+15027.0,VIP / Champions,6,Repeat Customer
+15028.0,Loyal Customers,3,Repeat Customer
+15029.0,Lost / Hibernating,1,One-Time Customer
+15030.0,VIP / Champions,6,Repeat Customer
+15031.0,VIP / Champions,10,Repeat Customer
+15032.0,VIP / Champions,7,Repeat Customer
+15034.0,VIP / Champions,6,Repeat Customer
+15037.0,Loyal Customers,2,Repeat Customer
+15038.0,Loyal Customers,4,Repeat Customer
+15039.0,VIP / Champions,47,Repeat Customer
+15040.0,Lost / Hibernating,1,One-Time Customer
+15041.0,Lost / Hibernating,1,One-Time Customer
+15042.0,Lost / Hibernating,1,One-Time Customer
+15043.0,Loyal Customers,5,Repeat Customer
+15044.0,VIP / Champions,18,Repeat Customer
+15046.0,VIP / Champions,10,Repeat Customer
+15048.0,Potential Loyalists,1,One-Time Customer
+15050.0,Loyal Customers,2,Repeat Customer
+15051.0,VIP / Champions,6,Repeat Customer
+15055.0,Potential Loyalists,3,Repeat Customer
+15056.0,Lost / Hibernating,1,One-Time Customer
+15057.0,Potential Loyalists,3,Repeat Customer
+15058.0,VIP / Champions,5,Repeat Customer
+15059.0,VIP / Champions,10,Repeat Customer
+15061.0,VIP / Champions,86,Repeat Customer
+15062.0,Loyal Customers,4,Repeat Customer
+15064.0,Loyal Customers,4,Repeat Customer
+15065.0,At Risk,1,One-Time Customer
+15067.0,Loyal Customers,2,Repeat Customer
+15068.0,Potential Loyalists,2,Repeat Customer
+15070.0,Loyal Customers,3,Repeat Customer
+15071.0,Potential Loyalists,2,Repeat Customer
+15072.0,Lost / Hibernating,1,One-Time Customer
+15073.0,Loyal Customers,5,Repeat Customer
+15074.0,Potential Loyalists,2,Repeat Customer
+15076.0,Potential Loyalists,2,Repeat Customer
+15077.0,Loyal Customers,2,Repeat Customer
+15078.0,VIP / Champions,23,Repeat Customer
+15079.0,VIP / Champions,8,Repeat Customer
+15080.0,Potential Loyalists,2,Repeat Customer
+15081.0,VIP / Champions,8,Repeat Customer
+15082.0,Lost / Hibernating,1,One-Time Customer
+15084.0,Loyal Customers,2,Repeat Customer
+15085.0,Lost / Hibernating,1,One-Time Customer
+15086.0,At Risk,2,Repeat Customer
+15091.0,Potential Loyalists,2,Repeat Customer
+15092.0,At Risk,1,One-Time Customer
+15093.0,VIP / Champions,18,Repeat Customer
+15094.0,At Risk,2,Repeat Customer
+15095.0,Loyal Customers,6,Repeat Customer
+15097.0,Potential Loyalists,2,Repeat Customer
+15100.0,VIP / Champions,6,Repeat Customer
+15101.0,Loyal Customers,4,Repeat Customer
+15102.0,Potential Loyalists,2,Repeat Customer
+15105.0,Potential Loyalists,2,Repeat Customer
+15107.0,Loyal Customers,4,Repeat Customer
+15109.0,At Risk,2,Repeat Customer
+15110.0,Potential Loyalists,2,Repeat Customer
+15111.0,Loyal Customers,3,Repeat Customer
+15112.0,Lost / Hibernating,1,One-Time Customer
+15114.0,Loyal Customers,2,Repeat Customer
+15115.0,Lost / Hibernating,1,One-Time Customer
+15117.0,Potential Loyalists,3,Repeat Customer
+15122.0,VIP / Champions,8,Repeat Customer
+15123.0,Loyal Customers,3,Repeat Customer
+15124.0,Potential Loyalists,2,Repeat Customer
+15125.0,Loyal Customers,9,Repeat Customer
+15126.0,Potential Loyalists,2,Repeat Customer
+15127.0,At Risk,1,One-Time Customer
+15128.0,At Risk,1,One-Time Customer
+15129.0,VIP / Champions,12,Repeat Customer
+15131.0,At Risk,1,One-Time Customer
+15133.0,Loyal Customers,2,Repeat Customer
+15134.0,Potential Loyalists,2,Repeat Customer
+15135.0,Lost / Hibernating,1,One-Time Customer
+15137.0,Potential Loyalists,2,Repeat Customer
+15138.0,Potential Loyalists,1,One-Time Customer
+15140.0,At Risk,1,One-Time Customer
+15141.0,Loyal Customers,7,Repeat Customer
+15142.0,Loyal Customers,5,Repeat Customer
+15143.0,At Risk,1,One-Time Customer
+15144.0,VIP / Champions,12,Repeat Customer
+15149.0,Potential Loyalists,4,Repeat Customer
+15150.0,Loyal Customers,3,Repeat Customer
+15151.0,Loyal Customers,2,Repeat Customer
+15152.0,At Risk,1,One-Time Customer
+15154.0,Potential Loyalists,2,Repeat Customer
+15155.0,Potential Loyalists,1,One-Time Customer
+15157.0,Potential Loyalists,2,Repeat Customer
+15158.0,At Risk,1,One-Time Customer
+15159.0,VIP / Champions,4,Repeat Customer
+15160.0,Loyal Customers,3,Repeat Customer
+15161.0,At Risk,1,One-Time Customer
+15162.0,Lost / Hibernating,1,One-Time Customer
+15164.0,VIP / Champions,6,Repeat Customer
+15165.0,Potential Loyalists,1,One-Time Customer
+15166.0,Lost / Hibernating,1,One-Time Customer
+15167.0,Loyal Customers,4,Repeat Customer
+15169.0,Loyal Customers,2,Repeat Customer
+15170.0,At Risk,1,One-Time Customer
+15173.0,VIP / Champions,7,Repeat Customer
+15174.0,At Risk,1,One-Time Customer
+15176.0,At Risk,1,One-Time Customer
+15177.0,Potential Loyalists,1,One-Time Customer
+15179.0,VIP / Champions,8,Repeat Customer
+15180.0,Loyal Customers,3,Repeat Customer
+15181.0,Potential Loyalists,2,Repeat Customer
+15182.0,VIP / Champions,9,Repeat Customer
+15183.0,Potential Loyalists,3,Repeat Customer
+15184.0,Potential Loyalists,2,Repeat Customer
+15186.0,Potential Loyalists,3,Repeat Customer
+15188.0,Lost / Hibernating,1,One-Time Customer
+15189.0,Loyal Customers,5,Repeat Customer
+15190.0,Potential Loyalists,1,One-Time Customer
+15191.0,Potential Loyalists,3,Repeat Customer
+15192.0,Loyal Customers,3,Repeat Customer
+15194.0,VIP / Champions,14,Repeat Customer
+15196.0,Potential Loyalists,2,Repeat Customer
+15197.0,Loyal Customers,3,Repeat Customer
+15198.0,Potential Loyalists,3,Repeat Customer
+15199.0,VIP / Champions,6,Repeat Customer
+15200.0,At Risk,1,One-Time Customer
+15201.0,Potential Loyalists,2,Repeat Customer
+15202.0,Loyal Customers,3,Repeat Customer
+15203.0,VIP / Champions,9,Repeat Customer
+15207.0,Potential Loyalists,3,Repeat Customer
+15208.0,At Risk,1,One-Time Customer
+15209.0,Lost / Hibernating,1,One-Time Customer
+15210.0,Loyal Customers,2,Repeat Customer
+15211.0,Potential Loyalists,1,One-Time Customer
+15212.0,Potential Loyalists,1,One-Time Customer
+15215.0,Loyal Customers,4,Repeat Customer
+15216.0,Lost / Hibernating,1,One-Time Customer
+15217.0,Lost / Hibernating,1,One-Time Customer
+15218.0,VIP / Champions,11,Repeat Customer
+15219.0,Lost / Hibernating,1,One-Time Customer
+15221.0,VIP / Champions,4,Repeat Customer
+15222.0,Loyal Customers,10,Repeat Customer
+15223.0,Potential Loyalists,3,Repeat Customer
+15224.0,Potential Loyalists,3,Repeat Customer
+15227.0,Loyal Customers,4,Repeat Customer
+15228.0,Loyal Customers,2,Repeat Customer
+15229.0,Lost / Hibernating,1,One-Time Customer
+15231.0,Lost / Hibernating,1,One-Time Customer
+15233.0,At Risk,1,One-Time Customer
+15235.0,VIP / Champions,6,Repeat Customer
+15240.0,VIP / Champions,7,Repeat Customer
+15241.0,Loyal Customers,3,Repeat Customer
+15242.0,At Risk,1,One-Time Customer
+15243.0,Potential Loyalists,1,One-Time Customer
+15244.0,Lost / Hibernating,1,One-Time Customer
+15245.0,Loyal Customers,5,Repeat Customer
+15246.0,Lost / Hibernating,1,One-Time Customer
+15247.0,Potential Loyalists,2,Repeat Customer
+15248.0,Loyal Customers,3,Repeat Customer
+15249.0,Loyal Customers,5,Repeat Customer
+15250.0,Lost / Hibernating,1,One-Time Customer
+15251.0,VIP / Champions,10,Repeat Customer
+15252.0,Loyal Customers,3,Repeat Customer
+15253.0,Loyal Customers,3,Repeat Customer
+15254.0,Potential Loyalists,2,Repeat Customer
+15255.0,VIP / Champions,8,Repeat Customer
+15256.0,Lost / Hibernating,1,One-Time Customer
+15257.0,At Risk,1,One-Time Customer
+15259.0,Loyal Customers,4,Repeat Customer
+15260.0,VIP / Champions,20,Repeat Customer
+15261.0,Loyal Customers,3,Repeat Customer
+15262.0,Potential Loyalists,2,Repeat Customer
+15264.0,At Risk,1,One-Time Customer
+15265.0,Potential Loyalists,2,Repeat Customer
+15266.0,Loyal Customers,4,Repeat Customer
+15268.0,Potential Loyalists,3,Repeat Customer
+15269.0,Loyal Customers,2,Repeat Customer
+15270.0,VIP / Champions,14,Repeat Customer
+15271.0,VIP / Champions,10,Repeat Customer
+15272.0,Loyal Customers,4,Repeat Customer
+15273.0,Lost / Hibernating,1,One-Time Customer
+15276.0,Potential Loyalists,3,Repeat Customer
+15277.0,At Risk,1,One-Time Customer
+15278.0,Potential Loyalists,4,Repeat Customer
+15279.0,Loyal Customers,4,Repeat Customer
+15280.0,Potential Loyalists,2,Repeat Customer
+15281.0,VIP / Champions,7,Repeat Customer
+15282.0,Lost / Hibernating,1,One-Time Customer
+15283.0,Potential Loyalists,3,Repeat Customer
+15284.0,Lost / Hibernating,1,One-Time Customer
+15285.0,At Risk,1,One-Time Customer
+15287.0,Loyal Customers,3,Repeat Customer
+15288.0,VIP / Champions,6,Repeat Customer
+15289.0,Potential Loyalists,2,Repeat Customer
+15290.0,VIP / Champions,8,Repeat Customer
+15291.0,VIP / Champions,26,Repeat Customer
+15293.0,Lost / Hibernating,1,One-Time Customer
+15294.0,At Risk,1,One-Time Customer
+15295.0,Lost / Hibernating,1,One-Time Customer
+15296.0,VIP / Champions,6,Repeat Customer
+15298.0,VIP / Champions,12,Repeat Customer
+15299.0,VIP / Champions,6,Repeat Customer
+15301.0,VIP / Champions,6,Repeat Customer
+15302.0,Lost / Hibernating,1,One-Time Customer
+15303.0,Potential Loyalists,2,Repeat Customer
+15304.0,Potential Loyalists,2,Repeat Customer
+15305.0,Lost / Hibernating,1,One-Time Customer
+15306.0,Loyal Customers,6,Repeat Customer
+15309.0,Potential Loyalists,4,Repeat Customer
+15310.0,Potential Loyalists,1,One-Time Customer
+15311.0,VIP / Champions,121,Repeat Customer
+15312.0,VIP / Champions,8,Repeat Customer
+15314.0,Potential Loyalists,2,Repeat Customer
+15317.0,Lost / Hibernating,1,One-Time Customer
+15321.0,Loyal Customers,9,Repeat Customer
+15322.0,At Risk,1,One-Time Customer
+15323.0,At Risk,3,Repeat Customer
+15324.0,Lost / Hibernating,1,One-Time Customer
+15325.0,VIP / Champions,7,Repeat Customer
+15326.0,Potential Loyalists,4,Repeat Customer
+15328.0,At Risk,1,One-Time Customer
+15329.0,VIP / Champions,8,Repeat Customer
+15331.0,Potential Loyalists,3,Repeat Customer
+15332.0,VIP / Champions,6,Repeat Customer
+15336.0,At Risk,1,One-Time Customer
+15337.0,At Risk,1,One-Time Customer
+15338.0,Lost / Hibernating,1,One-Time Customer
+15339.0,Loyal Customers,5,Repeat Customer
+15340.0,Lost / Hibernating,1,One-Time Customer
+15341.0,At Risk,1,One-Time Customer
+15346.0,Potential Loyalists,2,Repeat Customer
+15347.0,VIP / Champions,4,Repeat Customer
+15350.0,Loyal Customers,2,Repeat Customer
+15351.0,VIP / Champions,4,Repeat Customer
+15352.0,Lost / Hibernating,1,One-Time Customer
+15353.0,VIP / Champions,6,Repeat Customer
+15354.0,At Risk,3,Repeat Customer
+15356.0,Loyal Customers,4,Repeat Customer
+15358.0,VIP / Champions,22,Repeat Customer
+15359.0,Potential Loyalists,8,Repeat Customer
+15361.0,Potential Loyalists,3,Repeat Customer
+15362.0,Potential Loyalists,2,Repeat Customer
+15363.0,Loyal Customers,2,Repeat Customer
+15365.0,VIP / Champions,6,Repeat Customer
+15366.0,Loyal Customers,5,Repeat Customer
+15367.0,VIP / Champions,7,Repeat Customer
+15368.0,Potential Loyalists,1,One-Time Customer
+15369.0,Loyal Customers,11,Repeat Customer
+15370.0,Potential Loyalists,1,One-Time Customer
+15371.0,Lost / Hibernating,1,One-Time Customer
+15372.0,Loyal Customers,7,Repeat Customer
+15373.0,VIP / Champions,6,Repeat Customer
+15374.0,Lost / Hibernating,1,One-Time Customer
+15375.0,Lost / Hibernating,1,One-Time Customer
+15377.0,Loyal Customers,4,Repeat Customer
+15378.0,At Risk,2,Repeat Customer
+15379.0,Potential Loyalists,1,One-Time Customer
+15380.0,VIP / Champions,7,Repeat Customer
+15381.0,Loyal Customers,3,Repeat Customer
+15382.0,VIP / Champions,6,Repeat Customer
+15384.0,Loyal Customers,2,Repeat Customer
+15385.0,Loyal Customers,2,Repeat Customer
+15387.0,At Risk,1,One-Time Customer
+15389.0,VIP / Champions,4,Repeat Customer
+15390.0,Loyal Customers,2,Repeat Customer
+15391.0,Lost / Hibernating,1,One-Time Customer
+15392.0,Loyal Customers,3,Repeat Customer
+15393.0,Potential Loyalists,3,Repeat Customer
+15394.0,VIP / Champions,7,Repeat Customer
+15396.0,At Risk,1,One-Time Customer
+15400.0,Potential Loyalists,3,Repeat Customer
+15401.0,At Risk,2,Repeat Customer
+15402.0,Loyal Customers,4,Repeat Customer
+15403.0,At Risk,2,Repeat Customer
+15404.0,Potential Loyalists,1,One-Time Customer
+15405.0,Lost / Hibernating,1,One-Time Customer
+15406.0,Potential Loyalists,2,Repeat Customer
+15409.0,Lost / Hibernating,1,One-Time Customer
+15410.0,Potential Loyalists,2,Repeat Customer
+15413.0,Loyal Customers,5,Repeat Customer
+15416.0,Potential Loyalists,3,Repeat Customer
+15418.0,Potential Loyalists,2,Repeat Customer
+15420.0,Loyal Customers,6,Repeat Customer
+15421.0,VIP / Champions,6,Repeat Customer
+15422.0,VIP / Champions,5,Repeat Customer
+15423.0,At Risk,2,Repeat Customer
+15424.0,Lost / Hibernating,1,One-Time Customer
+15425.0,Loyal Customers,4,Repeat Customer
+15426.0,VIP / Champions,5,Repeat Customer
+15428.0,Loyal Customers,3,Repeat Customer
+15430.0,Potential Loyalists,2,Repeat Customer
+15431.0,Lost / Hibernating,1,One-Time Customer
+15432.0,Lost / Hibernating,1,One-Time Customer
+15434.0,VIP / Champions,6,Repeat Customer
+15437.0,Lost / Hibernating,1,One-Time Customer
+15439.0,Loyal Customers,4,Repeat Customer
+15441.0,Loyal Customers,3,Repeat Customer
+15443.0,Loyal Customers,7,Repeat Customer
+15445.0,Lost / Hibernating,1,One-Time Customer
+15446.0,Loyal Customers,3,Repeat Customer
+15447.0,Potential Loyalists,4,Repeat Customer
+15448.0,Lost / Hibernating,1,One-Time Customer
+15451.0,Potential Loyalists,2,Repeat Customer
+15452.0,Loyal Customers,3,Repeat Customer
+15454.0,Lost / Hibernating,1,One-Time Customer
+15455.0,Lost / Hibernating,1,One-Time Customer
+15456.0,Loyal Customers,7,Repeat Customer
+15458.0,At Risk,1,One-Time Customer
+15459.0,Potential Loyalists,2,Repeat Customer
+15461.0,Potential Loyalists,2,Repeat Customer
+15462.0,At Risk,1,One-Time Customer
+15465.0,VIP / Champions,15,Repeat Customer
+15466.0,Loyal Customers,3,Repeat Customer
+15468.0,Potential Loyalists,1,One-Time Customer
+15469.0,At Risk,1,One-Time Customer
+15470.0,Lost / Hibernating,1,One-Time Customer
+15471.0,Loyal Customers,2,Repeat Customer
+15473.0,At Risk,1,One-Time Customer
+15474.0,Lost / Hibernating,1,One-Time Customer
+15476.0,VIP / Champions,4,Repeat Customer
+15477.0,Lost / Hibernating,1,One-Time Customer
+15478.0,At Risk,1,One-Time Customer
+15479.0,Lost / Hibernating,1,One-Time Customer
+15480.0,Loyal Customers,4,Repeat Customer
+15481.0,Potential Loyalists,1,One-Time Customer
+15482.0,VIP / Champions,7,Repeat Customer
+15483.0,Loyal Customers,6,Repeat Customer
+15484.0,Potential Loyalists,2,Repeat Customer
+15485.0,VIP / Champions,5,Repeat Customer
+15486.0,Lost / Hibernating,1,One-Time Customer
+15487.0,Lost / Hibernating,1,One-Time Customer
+15488.0,Potential Loyalists,4,Repeat Customer
+15489.0,Loyal Customers,5,Repeat Customer
+15490.0,At Risk,1,One-Time Customer
+15493.0,VIP / Champions,4,Repeat Customer
+15494.0,Loyal Customers,3,Repeat Customer
+15495.0,Potential Loyalists,1,One-Time Customer
+15496.0,Lost / Hibernating,1,One-Time Customer
+15497.0,VIP / Champions,7,Repeat Customer
+15498.0,VIP / Champions,19,Repeat Customer
+15499.0,Lost / Hibernating,1,One-Time Customer
+15501.0,Potential Loyalists,2,Repeat Customer
+15502.0,VIP / Champions,5,Repeat Customer
+15503.0,Lost / Hibernating,1,One-Time Customer
+15504.0,Potential Loyalists,3,Repeat Customer
+15506.0,Loyal Customers,3,Repeat Customer
+15509.0,At Risk,1,One-Time Customer
+15512.0,Potential Loyalists,2,Repeat Customer
+15513.0,VIP / Champions,18,Repeat Customer
+15514.0,VIP / Champions,7,Repeat Customer
+15515.0,At Risk,1,One-Time Customer
+15518.0,VIP / Champions,7,Repeat Customer
+15519.0,Potential Loyalists,2,Repeat Customer
+15521.0,VIP / Champions,8,Repeat Customer
+15523.0,VIP / Champions,15,Repeat Customer
+15524.0,Lost / Hibernating,1,One-Time Customer
+15525.0,Loyal Customers,2,Repeat Customer
+15527.0,VIP / Champions,15,Repeat Customer
+15529.0,Loyal Customers,2,Repeat Customer
+15530.0,At Risk,1,One-Time Customer
+15532.0,VIP / Champions,6,Repeat Customer
+15534.0,Lost / Hibernating,1,One-Time Customer
+15535.0,Potential Loyalists,2,Repeat Customer
+15536.0,At Risk,1,One-Time Customer
+15538.0,Loyal Customers,6,Repeat Customer
+15540.0,Potential Loyalists,1,One-Time Customer
+15542.0,Potential Loyalists,3,Repeat Customer
+15543.0,Lost / Hibernating,1,One-Time Customer
+15544.0,VIP / Champions,12,Repeat Customer
+15545.0,Potential Loyalists,1,One-Time Customer
+15546.0,Potential Loyalists,2,Repeat Customer
+15547.0,VIP / Champions,12,Repeat Customer
+15548.0,Lost / Hibernating,1,One-Time Customer
+15549.0,Loyal Customers,5,Repeat Customer
+15550.0,VIP / Champions,8,Repeat Customer
+15551.0,VIP / Champions,6,Repeat Customer
+15552.0,Lost / Hibernating,1,One-Time Customer
+15555.0,VIP / Champions,22,Repeat Customer
+15558.0,Lost / Hibernating,1,One-Time Customer
+15559.0,At Risk,1,One-Time Customer
+15560.0,Potential Loyalists,2,Repeat Customer
+15561.0,Loyal Customers,4,Repeat Customer
+15562.0,Potential Loyalists,2,Repeat Customer
+15563.0,Potential Loyalists,3,Repeat Customer
+15564.0,At Risk,2,Repeat Customer
+15566.0,Potential Loyalists,2,Repeat Customer
+15569.0,VIP / Champions,5,Repeat Customer
+15570.0,VIP / Champions,14,Repeat Customer
+15571.0,VIP / Champions,10,Repeat Customer
+15572.0,Loyal Customers,3,Repeat Customer
+15573.0,Potential Loyalists,3,Repeat Customer
+15574.0,Loyal Customers,3,Repeat Customer
+15575.0,Lost / Hibernating,1,One-Time Customer
+15577.0,At Risk,2,Repeat Customer
+15579.0,Loyal Customers,3,Repeat Customer
+15580.0,VIP / Champions,8,Repeat Customer
+15581.0,VIP / Champions,26,Repeat Customer
+15583.0,Potential Loyalists,1,One-Time Customer
+15584.0,Loyal Customers,2,Repeat Customer
+15586.0,Potential Loyalists,3,Repeat Customer
+15587.0,Loyal Customers,3,Repeat Customer
+15588.0,At Risk,1,One-Time Customer
+15590.0,Loyal Customers,5,Repeat Customer
+15591.0,At Risk,3,Repeat Customer
+15595.0,At Risk,1,One-Time Customer
+15596.0,VIP / Champions,5,Repeat Customer
+15597.0,Lost / Hibernating,1,One-Time Customer
+15598.0,At Risk,1,One-Time Customer
+15599.0,At Risk,1,One-Time Customer
+15600.0,Loyal Customers,4,Repeat Customer
+15601.0,VIP / Champions,17,Repeat Customer
+15602.0,VIP / Champions,8,Repeat Customer
+15603.0,Lost / Hibernating,1,One-Time Customer
+15605.0,Loyal Customers,5,Repeat Customer
+15606.0,VIP / Champions,8,Repeat Customer
+15607.0,Loyal Customers,8,Repeat Customer
+15608.0,Potential Loyalists,1,One-Time Customer
+15611.0,VIP / Champions,13,Repeat Customer
+15613.0,Lost / Hibernating,1,One-Time Customer
+15614.0,Loyal Customers,4,Repeat Customer
+15615.0,VIP / Champions,24,Repeat Customer
+15616.0,At Risk,1,One-Time Customer
+15617.0,Loyal Customers,3,Repeat Customer
+15620.0,At Risk,1,One-Time Customer
+15622.0,VIP / Champions,8,Repeat Customer
+15623.0,VIP / Champions,7,Repeat Customer
+15625.0,VIP / Champions,5,Repeat Customer
+15626.0,At Risk,1,One-Time Customer
+15627.0,Potential Loyalists,2,Repeat Customer
+15628.0,VIP / Champions,9,Repeat Customer
+15629.0,Loyal Customers,4,Repeat Customer
+15630.0,Lost / Hibernating,1,One-Time Customer
+15631.0,At Risk,1,One-Time Customer
+15633.0,Loyal Customers,13,Repeat Customer
+15634.0,Potential Loyalists,1,One-Time Customer
+15635.0,At Risk,1,One-Time Customer
+15636.0,Potential Loyalists,2,Repeat Customer
+15637.0,Loyal Customers,4,Repeat Customer
+15638.0,VIP / Champions,6,Repeat Customer
+15639.0,Potential Loyalists,2,Repeat Customer
+15640.0,VIP / Champions,15,Repeat Customer
+15641.0,VIP / Champions,8,Repeat Customer
+15642.0,Lost / Hibernating,1,One-Time Customer
+15645.0,Potential Loyalists,2,Repeat Customer
+15646.0,Loyal Customers,3,Repeat Customer
+15647.0,At Risk,1,One-Time Customer
+15649.0,Loyal Customers,3,Repeat Customer
+15650.0,Potential Loyalists,2,Repeat Customer
+15651.0,Potential Loyalists,2,Repeat Customer
+15652.0,Loyal Customers,4,Repeat Customer
+15658.0,VIP / Champions,4,Repeat Customer
+15659.0,Potential Loyalists,2,Repeat Customer
+15660.0,VIP / Champions,7,Repeat Customer
+15661.0,VIP / Champions,6,Repeat Customer
+15662.0,At Risk,2,Repeat Customer
+15664.0,Potential Loyalists,3,Repeat Customer
+15665.0,Loyal Customers,3,Repeat Customer
+15666.0,Potential Loyalists,2,Repeat Customer
+15670.0,Lost / Hibernating,1,One-Time Customer
+15672.0,Lost / Hibernating,1,One-Time Customer
+15673.0,Loyal Customers,5,Repeat Customer
+15674.0,VIP / Champions,8,Repeat Customer
+15675.0,At Risk,1,One-Time Customer
+15677.0,Potential Loyalists,2,Repeat Customer
+15678.0,Loyal Customers,2,Repeat Customer
+15680.0,VIP / Champions,8,Repeat Customer
+15681.0,VIP / Champions,9,Repeat Customer
+15682.0,At Risk,2,Repeat Customer
+15683.0,At Risk,1,One-Time Customer
+15684.0,At Risk,3,Repeat Customer
+15685.0,Lost / Hibernating,1,One-Time Customer
+15686.0,At Risk,1,One-Time Customer
+15688.0,At Risk,1,One-Time Customer
+15689.0,Lost / Hibernating,1,One-Time Customer
+15691.0,Potential Loyalists,3,Repeat Customer
+15693.0,Lost / Hibernating,1,One-Time Customer
+15694.0,VIP / Champions,12,Repeat Customer
+15695.0,Potential Loyalists,2,Repeat Customer
+15696.0,Loyal Customers,5,Repeat Customer
+15697.0,Lost / Hibernating,1,One-Time Customer
+15698.0,Lost / Hibernating,1,One-Time Customer
+15702.0,At Risk,2,Repeat Customer
+15704.0,Potential Loyalists,2,Repeat Customer
+15708.0,Loyal Customers,3,Repeat Customer
+15709.0,Lost / Hibernating,1,One-Time Customer
+15710.0,Potential Loyalists,1,One-Time Customer
+15711.0,At Risk,2,Repeat Customer
+15712.0,VIP / Champions,7,Repeat Customer
+15713.0,Loyal Customers,3,Repeat Customer
+15714.0,Potential Loyalists,3,Repeat Customer
+15715.0,Potential Loyalists,5,Repeat Customer
+15716.0,VIP / Champions,8,Repeat Customer
+15717.0,Potential Loyalists,4,Repeat Customer
+15718.0,At Risk,1,One-Time Customer
+15719.0,VIP / Champions,18,Repeat Customer
+15720.0,Lost / Hibernating,1,One-Time Customer
+15722.0,Loyal Customers,6,Repeat Customer
+15723.0,Potential Loyalists,3,Repeat Customer
+15724.0,At Risk,1,One-Time Customer
+15726.0,Potential Loyalists,1,One-Time Customer
+15727.0,VIP / Champions,8,Repeat Customer
+15728.0,Loyal Customers,2,Repeat Customer
+15729.0,Potential Loyalists,2,Repeat Customer
+15730.0,Loyal Customers,2,Repeat Customer
+15731.0,Lost / Hibernating,1,One-Time Customer
+15732.0,VIP / Champions,9,Repeat Customer
+15734.0,Potential Loyalists,2,Repeat Customer
+15735.0,At Risk,1,One-Time Customer
+15736.0,Loyal Customers,2,Repeat Customer
+15738.0,VIP / Champions,26,Repeat Customer
+15741.0,At Risk,2,Repeat Customer
+15742.0,Lost / Hibernating,1,One-Time Customer
+15747.0,VIP / Champions,6,Repeat Customer
+15748.0,Potential Loyalists,2,Repeat Customer
+15750.0,VIP / Champions,12,Repeat Customer
+15751.0,Loyal Customers,11,Repeat Customer
+15752.0,Loyal Customers,3,Repeat Customer
+15754.0,Loyal Customers,6,Repeat Customer
+15755.0,VIP / Champions,11,Repeat Customer
+15757.0,VIP / Champions,4,Repeat Customer
+15759.0,Potential Loyalists,4,Repeat Customer
+15760.0,Potential Loyalists,2,Repeat Customer
+15761.0,Lost / Hibernating,1,One-Time Customer
+15764.0,Loyal Customers,2,Repeat Customer
+15765.0,Lost / Hibernating,1,One-Time Customer
+15766.0,Potential Loyalists,2,Repeat Customer
+15768.0,Loyal Customers,31,Repeat Customer
+15769.0,VIP / Champions,21,Repeat Customer
+15770.0,Lost / Hibernating,1,One-Time Customer
+15771.0,Potential Loyalists,3,Repeat Customer
+15772.0,At Risk,1,One-Time Customer
+15773.0,At Risk,1,One-Time Customer
+15774.0,Loyal Customers,5,Repeat Customer
+15775.0,Lost / Hibernating,1,One-Time Customer
+15777.0,Loyal Customers,3,Repeat Customer
+15778.0,At Risk,1,One-Time Customer
+15779.0,At Risk,2,Repeat Customer
+15782.0,Potential Loyalists,1,One-Time Customer
+15784.0,Potential Loyalists,2,Repeat Customer
+15785.0,VIP / Champions,11,Repeat Customer
+15786.0,Loyal Customers,2,Repeat Customer
+15788.0,Lost / Hibernating,1,One-Time Customer
+15789.0,Loyal Customers,5,Repeat Customer
+15791.0,Potential Loyalists,3,Repeat Customer
+15792.0,Loyal Customers,2,Repeat Customer
+15793.0,VIP / Champions,5,Repeat Customer
+15794.0,Potential Loyalists,2,Repeat Customer
+15795.0,Loyal Customers,7,Repeat Customer
+15796.0,VIP / Champions,9,Repeat Customer
+15797.0,Potential Loyalists,2,Repeat Customer
+15798.0,Potential Loyalists,3,Repeat Customer
+15799.0,Potential Loyalists,1,One-Time Customer
+15800.0,Potential Loyalists,5,Repeat Customer
+15803.0,Potential Loyalists,3,Repeat Customer
+15805.0,VIP / Champions,13,Repeat Customer
+15807.0,Potential Loyalists,2,Repeat Customer
+15808.0,VIP / Champions,18,Repeat Customer
+15809.0,Potential Loyalists,2,Repeat Customer
+15810.0,Loyal Customers,4,Repeat Customer
+15811.0,Loyal Customers,2,Repeat Customer
+15812.0,VIP / Champions,7,Repeat Customer
+15814.0,Loyal Customers,2,Repeat Customer
+15816.0,At Risk,2,Repeat Customer
+15817.0,Loyal Customers,3,Repeat Customer
+15818.0,Lost / Hibernating,1,One-Time Customer
+15819.0,Loyal Customers,6,Repeat Customer
+15822.0,Potential Loyalists,4,Repeat Customer
+15823.0,VIP / Champions,3,Repeat Customer
+15824.0,Potential Loyalists,2,Repeat Customer
+15826.0,At Risk,1,One-Time Customer
+15827.0,VIP / Champions,16,Repeat Customer
+15828.0,Loyal Customers,1,One-Time Customer
+15833.0,Lost / Hibernating,1,One-Time Customer
+15834.0,Loyal Customers,3,Repeat Customer
+15837.0,At Risk,1,One-Time Customer
+15838.0,VIP / Champions,16,Repeat Customer
+15841.0,Loyal Customers,5,Repeat Customer
+15842.0,Loyal Customers,2,Repeat Customer
+15845.0,Potential Loyalists,3,Repeat Customer
+15846.0,At Risk,1,One-Time Customer
+15847.0,Potential Loyalists,3,Repeat Customer
+15848.0,Lost / Hibernating,1,One-Time Customer
+15850.0,Loyal Customers,4,Repeat Customer
+15851.0,Lost / Hibernating,1,One-Time Customer
+15852.0,Lost / Hibernating,1,One-Time Customer
+15854.0,VIP / Champions,9,Repeat Customer
+15855.0,At Risk,1,One-Time Customer
+15856.0,VIP / Champions,26,Repeat Customer
+15857.0,At Risk,1,One-Time Customer
+15858.0,VIP / Champions,9,Repeat Customer
+15859.0,At Risk,1,One-Time Customer
+15860.0,VIP / Champions,10,Repeat Customer
+15861.0,Loyal Customers,4,Repeat Customer
+15862.0,VIP / Champions,10,Repeat Customer
+15863.0,At Risk,3,Repeat Customer
+15864.0,At Risk,1,One-Time Customer
+15865.0,Loyal Customers,2,Repeat Customer
+15867.0,VIP / Champions,17,Repeat Customer
+15868.0,Lost / Hibernating,1,One-Time Customer
+15869.0,Lost / Hibernating,1,One-Time Customer
+15870.0,Loyal Customers,3,Repeat Customer
+15871.0,Lost / Hibernating,1,One-Time Customer
+15872.0,Loyal Customers,2,Repeat Customer
+15873.0,Potential Loyalists,4,Repeat Customer
+15874.0,VIP / Champions,14,Repeat Customer
+15875.0,Lost / Hibernating,1,One-Time Customer
+15876.0,Loyal Customers,2,Repeat Customer
+15878.0,At Risk,2,Repeat Customer
+15879.0,Loyal Customers,4,Repeat Customer
+15880.0,Potential Loyalists,1,One-Time Customer
+15882.0,VIP / Champions,6,Repeat Customer
+15884.0,Potential Loyalists,2,Repeat Customer
+15885.0,VIP / Champions,12,Repeat Customer
+15886.0,Potential Loyalists,3,Repeat Customer
+15887.0,Loyal Customers,3,Repeat Customer
+15888.0,Potential Loyalists,2,Repeat Customer
+15889.0,VIP / Champions,7,Repeat Customer
+15890.0,Loyal Customers,5,Repeat Customer
+15892.0,Lost / Hibernating,1,One-Time Customer
+15893.0,At Risk,1,One-Time Customer
+15894.0,Potential Loyalists,1,One-Time Customer
+15898.0,VIP / Champions,22,Repeat Customer
+15899.0,Potential Loyalists,1,One-Time Customer
+15900.0,Potential Loyalists,3,Repeat Customer
+15901.0,Potential Loyalists,4,Repeat Customer
+15902.0,At Risk,1,One-Time Customer
+15903.0,VIP / Champions,5,Repeat Customer
+15905.0,Lost / Hibernating,1,One-Time Customer
+15906.0,Loyal Customers,3,Repeat Customer
+15908.0,Potential Loyalists,2,Repeat Customer
+15910.0,VIP / Champions,7,Repeat Customer
+15911.0,Loyal Customers,8,Repeat Customer
+15912.0,Loyal Customers,7,Repeat Customer
+15913.0,Lost / Hibernating,1,One-Time Customer
+15914.0,Potential Loyalists,2,Repeat Customer
+15915.0,At Risk,1,One-Time Customer
+15916.0,VIP / Champions,7,Repeat Customer
+15917.0,Potential Loyalists,4,Repeat Customer
+15918.0,Lost / Hibernating,1,One-Time Customer
+15919.0,Potential Loyalists,1,One-Time Customer
+15920.0,Potential Loyalists,5,Repeat Customer
+15921.0,Potential Loyalists,3,Repeat Customer
+15922.0,Potential Loyalists,1,One-Time Customer
+15923.0,Potential Loyalists,1,One-Time Customer
+15924.0,Lost / Hibernating,1,One-Time Customer
+15926.0,Lost / Hibernating,1,One-Time Customer
+15927.0,Lost / Hibernating,1,One-Time Customer
+15928.0,Lost / Hibernating,1,One-Time Customer
+15929.0,At Risk,1,One-Time Customer
+15931.0,At Risk,1,One-Time Customer
+15934.0,Loyal Customers,2,Repeat Customer
+15936.0,Loyal Customers,2,Repeat Customer
+15938.0,Potential Loyalists,4,Repeat Customer
+15939.0,Loyal Customers,1,One-Time Customer
+15941.0,Lost / Hibernating,1,One-Time Customer
+15943.0,At Risk,2,Repeat Customer
+15944.0,Loyal Customers,3,Repeat Customer
+15945.0,Loyal Customers,4,Repeat Customer
+15946.0,Loyal Customers,3,Repeat Customer
+15948.0,Potential Loyalists,1,One-Time Customer
+15950.0,VIP / Champions,6,Repeat Customer
+15951.0,Potential Loyalists,1,One-Time Customer
+15953.0,VIP / Champions,11,Repeat Customer
+15954.0,Lost / Hibernating,1,One-Time Customer
+15955.0,VIP / Champions,9,Repeat Customer
+15956.0,Potential Loyalists,2,Repeat Customer
+15957.0,Potential Loyalists,2,Repeat Customer
+15958.0,Potential Loyalists,3,Repeat Customer
+15959.0,Potential Loyalists,3,Repeat Customer
+15960.0,Loyal Customers,4,Repeat Customer
+15961.0,Potential Loyalists,1,One-Time Customer
+15962.0,At Risk,1,One-Time Customer
+15964.0,At Risk,1,One-Time Customer
+15965.0,VIP / Champions,10,Repeat Customer
+15966.0,At Risk,1,One-Time Customer
+15967.0,VIP / Champions,10,Repeat Customer
+15968.0,Potential Loyalists,1,One-Time Customer
+15969.0,Potential Loyalists,2,Repeat Customer
+15970.0,At Risk,1,One-Time Customer
+15971.0,VIP / Champions,6,Repeat Customer
+15972.0,Loyal Customers,5,Repeat Customer
+15973.0,Loyal Customers,3,Repeat Customer
+15976.0,Loyal Customers,4,Repeat Customer
+15978.0,Loyal Customers,2,Repeat Customer
+15979.0,At Risk,1,One-Time Customer
+15980.0,Loyal Customers,4,Repeat Customer
+15981.0,VIP / Champions,13,Repeat Customer
+15982.0,At Risk,1,One-Time Customer
+15983.0,VIP / Champions,6,Repeat Customer
+15984.0,VIP / Champions,21,Repeat Customer
+15985.0,Loyal Customers,5,Repeat Customer
+15986.0,Potential Loyalists,1,One-Time Customer
+15987.0,Potential Loyalists,2,Repeat Customer
+15988.0,Potential Loyalists,2,Repeat Customer
+15989.0,Loyal Customers,2,Repeat Customer
+15990.0,Loyal Customers,5,Repeat Customer
+15991.0,At Risk,1,One-Time Customer
+15992.0,Loyal Customers,2,Repeat Customer
+15994.0,Potential Loyalists,2,Repeat Customer
+15995.0,Potential Loyalists,1,One-Time Customer
+15996.0,Loyal Customers,2,Repeat Customer
+15998.0,VIP / Champions,11,Repeat Customer
+15999.0,Lost / Hibernating,1,One-Time Customer
+16001.0,Potential Loyalists,1,One-Time Customer
+16002.0,Lost / Hibernating,1,One-Time Customer
+16003.0,VIP / Champions,5,Repeat Customer
+16004.0,Loyal Customers,5,Repeat Customer
+16005.0,VIP / Champions,6,Repeat Customer
+16006.0,Potential Loyalists,1,One-Time Customer
+16007.0,Loyal Customers,3,Repeat Customer
+16008.0,VIP / Champions,12,Repeat Customer
+16010.0,VIP / Champions,8,Repeat Customer
+16011.0,VIP / Champions,14,Repeat Customer
+16012.0,Loyal Customers,2,Repeat Customer
+16013.0,VIP / Champions,39,Repeat Customer
+16014.0,Potential Loyalists,2,Repeat Customer
+16016.0,Loyal Customers,4,Repeat Customer
+16017.0,Loyal Customers,4,Repeat Customer
+16018.0,Potential Loyalists,2,Repeat Customer
+16019.0,VIP / Champions,18,Repeat Customer
+16021.0,Potential Loyalists,2,Repeat Customer
+16024.0,Potential Loyalists,2,Repeat Customer
+16027.0,Loyal Customers,9,Repeat Customer
+16028.0,Lost / Hibernating,1,One-Time Customer
+16029.0,VIP / Champions,47,Repeat Customer
+16032.0,Loyal Customers,6,Repeat Customer
+16033.0,VIP / Champions,8,Repeat Customer
+16034.0,Potential Loyalists,3,Repeat Customer
+16035.0,Lost / Hibernating,1,One-Time Customer
+16036.0,Loyal Customers,2,Repeat Customer
+16037.0,Potential Loyalists,2,Repeat Customer
+16039.0,Potential Loyalists,2,Repeat Customer
+16040.0,Loyal Customers,4,Repeat Customer
+16042.0,Loyal Customers,3,Repeat Customer
+16043.0,VIP / Champions,4,Repeat Customer
+16044.0,Potential Loyalists,1,One-Time Customer
+16045.0,Loyal Customers,4,Repeat Customer
+16046.0,Lost / Hibernating,1,One-Time Customer
+16047.0,Lost / Hibernating,1,One-Time Customer
+16048.0,Loyal Customers,4,Repeat Customer
+16049.0,Loyal Customers,3,Repeat Customer
+16050.0,Potential Loyalists,2,Repeat Customer
+16051.0,Lost / Hibernating,1,One-Time Customer
+16053.0,Loyal Customers,4,Repeat Customer
+16054.0,Loyal Customers,3,Repeat Customer
+16057.0,Potential Loyalists,3,Repeat Customer
+16058.0,At Risk,1,One-Time Customer
+16059.0,VIP / Champions,7,Repeat Customer
+16060.0,Loyal Customers,3,Repeat Customer
+16061.0,At Risk,1,One-Time Customer
+16062.0,VIP / Champions,4,Repeat Customer
+16064.0,Lost / Hibernating,1,One-Time Customer
+16065.0,VIP / Champions,8,Repeat Customer
+16067.0,Potential Loyalists,3,Repeat Customer
+16068.0,Lost / Hibernating,1,One-Time Customer
+16069.0,Potential Loyalists,1,One-Time Customer
+16071.0,Potential Loyalists,3,Repeat Customer
+16072.0,Loyal Customers,3,Repeat Customer
+16074.0,Potential Loyalists,1,One-Time Customer
+16075.0,Potential Loyalists,2,Repeat Customer
+16077.0,Potential Loyalists,1,One-Time Customer
+16078.0,At Risk,1,One-Time Customer
+16080.0,Potential Loyalists,2,Repeat Customer
+16081.0,VIP / Champions,4,Repeat Customer
+16082.0,Lost / Hibernating,1,One-Time Customer
+16083.0,Loyal Customers,2,Repeat Customer
+16085.0,VIP / Champions,7,Repeat Customer
+16086.0,VIP / Champions,6,Repeat Customer
+16087.0,Loyal Customers,5,Repeat Customer
+16088.0,Potential Loyalists,2,Repeat Customer
+16089.0,Potential Loyalists,2,Repeat Customer
+16090.0,Lost / Hibernating,1,One-Time Customer
+16092.0,Potential Loyalists,3,Repeat Customer
+16094.0,VIP / Champions,7,Repeat Customer
+16095.0,At Risk,1,One-Time Customer
+16096.0,Loyal Customers,3,Repeat Customer
+16098.0,VIP / Champions,8,Repeat Customer
+16099.0,Loyal Customers,4,Repeat Customer
+16100.0,Potential Loyalists,1,One-Time Customer
+16101.0,Loyal Customers,3,Repeat Customer
+16103.0,VIP / Champions,16,Repeat Customer
+16104.0,VIP / Champions,8,Repeat Customer
+16105.0,Loyal Customers,4,Repeat Customer
+16108.0,Loyal Customers,3,Repeat Customer
+16109.0,At Risk,1,One-Time Customer
+16110.0,At Risk,1,One-Time Customer
+16111.0,Potential Loyalists,1,One-Time Customer
+16115.0,Loyal Customers,4,Repeat Customer
+16117.0,Potential Loyalists,2,Repeat Customer
+16118.0,Potential Loyalists,1,One-Time Customer
+16119.0,VIP / Champions,6,Repeat Customer
+16120.0,Loyal Customers,2,Repeat Customer
+16121.0,Loyal Customers,3,Repeat Customer
+16122.0,Loyal Customers,3,Repeat Customer
+16124.0,Loyal Customers,3,Repeat Customer
+16125.0,VIP / Champions,14,Repeat Customer
+16126.0,VIP / Champions,11,Repeat Customer
+16127.0,Lost / Hibernating,1,One-Time Customer
+16128.0,VIP / Champions,6,Repeat Customer
+16129.0,Loyal Customers,3,Repeat Customer
+16130.0,Loyal Customers,4,Repeat Customer
+16131.0,VIP / Champions,6,Repeat Customer
+16132.0,Potential Loyalists,2,Repeat Customer
+16133.0,VIP / Champions,23,Repeat Customer
+16134.0,Loyal Customers,3,Repeat Customer
+16135.0,At Risk,1,One-Time Customer
+16136.0,Lost / Hibernating,1,One-Time Customer
+16137.0,At Risk,1,One-Time Customer
+16138.0,Loyal Customers,3,Repeat Customer
+16139.0,At Risk,2,Repeat Customer
+16140.0,Loyal Customers,2,Repeat Customer
+16141.0,Potential Loyalists,1,One-Time Customer
+16143.0,VIP / Champions,7,Repeat Customer
+16145.0,VIP / Champions,8,Repeat Customer
+16146.0,At Risk,1,One-Time Customer
+16147.0,Loyal Customers,4,Repeat Customer
+16148.0,At Risk,1,One-Time Customer
+16149.0,At Risk,1,One-Time Customer
+16150.0,VIP / Champions,6,Repeat Customer
+16153.0,VIP / Champions,6,Repeat Customer
+16155.0,Loyal Customers,5,Repeat Customer
+16156.0,VIP / Champions,11,Repeat Customer
+16158.0,Loyal Customers,9,Repeat Customer
+16159.0,Potential Loyalists,3,Repeat Customer
+16161.0,VIP / Champions,25,Repeat Customer
+16163.0,VIP / Champions,5,Repeat Customer
+16165.0,At Risk,1,One-Time Customer
+16166.0,Potential Loyalists,2,Repeat Customer
+16167.0,Loyal Customers,5,Repeat Customer
+16168.0,VIP / Champions,40,Repeat Customer
+16170.0,VIP / Champions,14,Repeat Customer
+16172.0,Potential Loyalists,3,Repeat Customer
+16174.0,Loyal Customers,4,Repeat Customer
+16175.0,Potential Loyalists,3,Repeat Customer
+16176.0,Loyal Customers,4,Repeat Customer
+16177.0,Loyal Customers,7,Repeat Customer
+16178.0,Potential Loyalists,1,One-Time Customer
+16180.0,Loyal Customers,5,Repeat Customer
+16182.0,Loyal Customers,5,Repeat Customer
+16183.0,Loyal Customers,3,Repeat Customer
+16185.0,Lost / Hibernating,1,One-Time Customer
+16186.0,VIP / Champions,15,Repeat Customer
+16188.0,At Risk,1,One-Time Customer
+16190.0,VIP / Champions,7,Repeat Customer
+16191.0,VIP / Champions,11,Repeat Customer
+16192.0,At Risk,1,One-Time Customer
+16193.0,Potential Loyalists,1,One-Time Customer
+16194.0,Potential Loyalists,1,One-Time Customer
+16195.0,At Risk,1,One-Time Customer
+16196.0,At Risk,1,One-Time Customer
+16197.0,Loyal Customers,9,Repeat Customer
+16198.0,Potential Loyalists,1,One-Time Customer
+16199.0,Loyal Customers,7,Repeat Customer
+16200.0,VIP / Champions,10,Repeat Customer
+16201.0,At Risk,1,One-Time Customer
+16202.0,Loyal Customers,8,Repeat Customer
+16203.0,Loyal Customers,3,Repeat Customer
+16204.0,Loyal Customers,2,Repeat Customer
+16205.0,Loyal Customers,3,Repeat Customer
+16206.0,VIP / Champions,9,Repeat Customer
+16208.0,VIP / Champions,8,Repeat Customer
+16209.0,Loyal Customers,4,Repeat Customer
+16210.0,VIP / Champions,19,Repeat Customer
+16211.0,Potential Loyalists,2,Repeat Customer
+16212.0,Potential Loyalists,2,Repeat Customer
+16214.0,Potential Loyalists,1,One-Time Customer
+16218.0,VIP / Champions,7,Repeat Customer
+16219.0,At Risk,1,One-Time Customer
+16221.0,VIP / Champions,7,Repeat Customer
+16222.0,At Risk,1,One-Time Customer
+16223.0,Loyal Customers,2,Repeat Customer
+16224.0,Potential Loyalists,1,One-Time Customer
+16225.0,Loyal Customers,10,Repeat Customer
+16226.0,Loyal Customers,2,Repeat Customer
+16227.0,Potential Loyalists,2,Repeat Customer
+16228.0,Loyal Customers,3,Repeat Customer
+16229.0,Loyal Customers,4,Repeat Customer
+16231.0,VIP / Champions,4,Repeat Customer
+16232.0,Loyal Customers,3,Repeat Customer
+16233.0,VIP / Champions,7,Repeat Customer
+16234.0,Potential Loyalists,3,Repeat Customer
+16235.0,VIP / Champions,4,Repeat Customer
+16237.0,At Risk,1,One-Time Customer
+16238.0,At Risk,1,One-Time Customer
+16239.0,Loyal Customers,4,Repeat Customer
+16241.0,VIP / Champions,4,Repeat Customer
+16242.0,VIP / Champions,7,Repeat Customer
+16244.0,Loyal Customers,1,One-Time Customer
+16246.0,Potential Loyalists,2,Repeat Customer
+16250.0,Loyal Customers,2,Repeat Customer
+16251.0,At Risk,1,One-Time Customer
+16252.0,Potential Loyalists,1,One-Time Customer
+16253.0,Loyal Customers,5,Repeat Customer
+16254.0,Loyal Customers,3,Repeat Customer
+16255.0,VIP / Champions,8,Repeat Customer
+16256.0,Potential Loyalists,2,Repeat Customer
+16258.0,VIP / Champions,10,Repeat Customer
+16259.0,Potential Loyalists,3,Repeat Customer
+16261.0,Potential Loyalists,2,Repeat Customer
+16262.0,Loyal Customers,1,One-Time Customer
+16263.0,Potential Loyalists,1,One-Time Customer
+16264.0,Potential Loyalists,2,Repeat Customer
+16265.0,Loyal Customers,3,Repeat Customer
+16266.0,Loyal Customers,7,Repeat Customer
+16267.0,Lost / Hibernating,1,One-Time Customer
+16269.0,Potential Loyalists,1,One-Time Customer
+16271.0,Loyal Customers,5,Repeat Customer
+16273.0,At Risk,2,Repeat Customer
+16274.0,Potential Loyalists,1,One-Time Customer
+16275.0,Potential Loyalists,2,Repeat Customer
+16276.0,Potential Loyalists,2,Repeat Customer
+16277.0,Lost / Hibernating,1,One-Time Customer
+16278.0,Potential Loyalists,2,Repeat Customer
+16279.0,VIP / Champions,6,Repeat Customer
+16280.0,Lost / Hibernating,1,One-Time Customer
+16281.0,Loyal Customers,2,Repeat Customer
+16282.0,Potential Loyalists,2,Repeat Customer
+16283.0,Loyal Customers,3,Repeat Customer
+16284.0,Potential Loyalists,1,One-Time Customer
+16285.0,Lost / Hibernating,1,One-Time Customer
+16286.0,Potential Loyalists,2,Repeat Customer
+16287.0,Loyal Customers,4,Repeat Customer
+16288.0,At Risk,1,One-Time Customer
+16289.0,At Risk,1,One-Time Customer
+16290.0,Loyal Customers,4,Repeat Customer
+16291.0,Lost / Hibernating,1,One-Time Customer
+16292.0,Loyal Customers,4,Repeat Customer
+16293.0,VIP / Champions,6,Repeat Customer
+16294.0,At Risk,1,One-Time Customer
+16296.0,Potential Loyalists,4,Repeat Customer
+16298.0,Loyal Customers,4,Repeat Customer
+16299.0,At Risk,1,One-Time Customer
+16300.0,Loyal Customers,3,Repeat Customer
+16301.0,Lost / Hibernating,1,One-Time Customer
+16303.0,VIP / Champions,4,Repeat Customer
+16304.0,At Risk,1,One-Time Customer
+16306.0,Loyal Customers,2,Repeat Customer
+16307.0,Loyal Customers,3,Repeat Customer
+16308.0,Loyal Customers,3,Repeat Customer
+16310.0,Potential Loyalists,2,Repeat Customer
+16312.0,At Risk,1,One-Time Customer
+16314.0,Loyal Customers,3,Repeat Customer
+16315.0,At Risk,1,One-Time Customer
+16316.0,VIP / Champions,5,Repeat Customer
+16317.0,Potential Loyalists,2,Repeat Customer
+16320.0,Loyal Customers,4,Repeat Customer
+16321.0,At Risk,2,Repeat Customer
+16323.0,Lost / Hibernating,1,One-Time Customer
+16325.0,VIP / Champions,9,Repeat Customer
+16326.0,VIP / Champions,10,Repeat Customer
+16327.0,VIP / Champions,11,Repeat Customer
+16328.0,At Risk,1,One-Time Customer
+16329.0,Loyal Customers,4,Repeat Customer
+16330.0,Potential Loyalists,4,Repeat Customer
+16331.0,Loyal Customers,6,Repeat Customer
+16332.0,Potential Loyalists,4,Repeat Customer
+16334.0,At Risk,1,One-Time Customer
+16335.0,Loyal Customers,7,Repeat Customer
+16336.0,Loyal Customers,4,Repeat Customer
+16340.0,Potential Loyalists,2,Repeat Customer
+16341.0,Loyal Customers,3,Repeat Customer
+16343.0,Potential Loyalists,1,One-Time Customer
+16344.0,Potential Loyalists,3,Repeat Customer
+16345.0,Potential Loyalists,1,One-Time Customer
+16346.0,Potential Loyalists,1,One-Time Customer
+16347.0,VIP / Champions,9,Repeat Customer
+16348.0,Potential Loyalists,1,One-Time Customer
+16350.0,VIP / Champions,5,Repeat Customer
+16351.0,VIP / Champions,12,Repeat Customer
+16353.0,VIP / Champions,16,Repeat Customer
+16354.0,Loyal Customers,3,Repeat Customer
+16355.0,Potential Loyalists,1,One-Time Customer
+16356.0,Loyal Customers,3,Repeat Customer
+16357.0,Potential Loyalists,1,One-Time Customer
+16358.0,Potential Loyalists,1,One-Time Customer
+16359.0,VIP / Champions,7,Repeat Customer
+16362.0,At Risk,1,One-Time Customer
+16365.0,VIP / Champions,7,Repeat Customer
+16366.0,Potential Loyalists,3,Repeat Customer
+16367.0,Potential Loyalists,1,One-Time Customer
+16368.0,At Risk,1,One-Time Customer
+16369.0,Loyal Customers,4,Repeat Customer
+16371.0,At Risk,1,One-Time Customer
+16372.0,Loyal Customers,3,Repeat Customer
+16373.0,Potential Loyalists,2,Repeat Customer
+16374.0,Loyal Customers,3,Repeat Customer
+16375.0,At Risk,2,Repeat Customer
+16377.0,At Risk,1,One-Time Customer
+16381.0,Potential Loyalists,2,Repeat Customer
+16382.0,Potential Loyalists,2,Repeat Customer
+16383.0,VIP / Champions,5,Repeat Customer
+16384.0,Potential Loyalists,2,Repeat Customer
+16385.0,Loyal Customers,3,Repeat Customer
+16386.0,Potential Loyalists,1,One-Time Customer
+16387.0,Loyal Customers,4,Repeat Customer
+16388.0,Lost / Hibernating,1,One-Time Customer
+16390.0,Potential Loyalists,3,Repeat Customer
+16391.0,Loyal Customers,4,Repeat Customer
+16392.0,Potential Loyalists,2,Repeat Customer
+16393.0,VIP / Champions,11,Repeat Customer
+16395.0,VIP / Champions,9,Repeat Customer
+16396.0,At Risk,1,One-Time Customer
+16397.0,Lost / Hibernating,1,One-Time Customer
+16399.0,Potential Loyalists,1,One-Time Customer
+16400.0,VIP / Champions,8,Repeat Customer
+16401.0,VIP / Champions,11,Repeat Customer
+16402.0,Potential Loyalists,1,One-Time Customer
+16406.0,Potential Loyalists,2,Repeat Customer
+16407.0,Loyal Customers,4,Repeat Customer
+16408.0,Lost / Hibernating,1,One-Time Customer
+16409.0,VIP / Champions,7,Repeat Customer
+16410.0,Lost / Hibernating,1,One-Time Customer
+16411.0,Loyal Customers,3,Repeat Customer
+16412.0,Loyal Customers,4,Repeat Customer
+16413.0,Potential Loyalists,1,One-Time Customer
+16414.0,Potential Loyalists,3,Repeat Customer
+16415.0,At Risk,2,Repeat Customer
+16416.0,VIP / Champions,6,Repeat Customer
+16417.0,At Risk,1,One-Time Customer
+16418.0,Potential Loyalists,2,Repeat Customer
+16419.0,Potential Loyalists,2,Repeat Customer
+16420.0,Potential Loyalists,1,One-Time Customer
+16421.0,Loyal Customers,3,Repeat Customer
+16422.0,VIP / Champions,59,Repeat Customer
+16424.0,Potential Loyalists,1,One-Time Customer
+16428.0,Loyal Customers,3,Repeat Customer
+16430.0,Loyal Customers,6,Repeat Customer
+16433.0,At Risk,1,One-Time Customer
+16434.0,Loyal Customers,5,Repeat Customer
+16435.0,Loyal Customers,3,Repeat Customer
+16436.0,Potential Loyalists,3,Repeat Customer
+16437.0,Potential Loyalists,2,Repeat Customer
+16439.0,At Risk,1,One-Time Customer
+16440.0,At Risk,1,One-Time Customer
+16441.0,Loyal Customers,3,Repeat Customer
+16442.0,At Risk,2,Repeat Customer
+16443.0,At Risk,1,One-Time Customer
+16444.0,VIP / Champions,13,Repeat Customer
+16445.0,Loyal Customers,3,Repeat Customer
+16447.0,At Risk,2,Repeat Customer
+16448.0,At Risk,1,One-Time Customer
+16450.0,Potential Loyalists,2,Repeat Customer
+16451.0,Potential Loyalists,2,Repeat Customer
+16452.0,At Risk,2,Repeat Customer
+16453.0,Potential Loyalists,2,Repeat Customer
+16454.0,At Risk,2,Repeat Customer
+16455.0,VIP / Champions,6,Repeat Customer
+16456.0,VIP / Champions,9,Repeat Customer
+16458.0,VIP / Champions,12,Repeat Customer
+16459.0,Lost / Hibernating,1,One-Time Customer
+16461.0,Potential Loyalists,2,Repeat Customer
+16465.0,Potential Loyalists,2,Repeat Customer
+16466.0,VIP / Champions,8,Repeat Customer
+16467.0,Loyal Customers,7,Repeat Customer
+16468.0,Potential Loyalists,2,Repeat Customer
+16469.0,At Risk,1,One-Time Customer
+16470.0,VIP / Champions,7,Repeat Customer
+16471.0,Loyal Customers,3,Repeat Customer
+16472.0,Potential Loyalists,2,Repeat Customer
+16473.0,Potential Loyalists,1,One-Time Customer
+16476.0,Potential Loyalists,1,One-Time Customer
+16477.0,VIP / Champions,5,Repeat Customer
+16481.0,At Risk,1,One-Time Customer
+16485.0,Loyal Customers,4,Repeat Customer
+16486.0,At Risk,1,One-Time Customer
+16487.0,At Risk,2,Repeat Customer
+16489.0,Potential Loyalists,2,Repeat Customer
+16490.0,At Risk,1,One-Time Customer
+16491.0,Potential Loyalists,1,One-Time Customer
+16492.0,At Risk,1,One-Time Customer
+16493.0,Potential Loyalists,3,Repeat Customer
+16496.0,Loyal Customers,3,Repeat Customer
+16497.0,VIP / Champions,17,Repeat Customer
+16499.0,VIP / Champions,6,Repeat Customer
+16500.0,Loyal Customers,3,Repeat Customer
+16501.0,Loyal Customers,1,One-Time Customer
+16502.0,At Risk,2,Repeat Customer
+16503.0,VIP / Champions,7,Repeat Customer
+16507.0,Lost / Hibernating,1,One-Time Customer
+16508.0,Lost / Hibernating,1,One-Time Customer
+16510.0,VIP / Champions,6,Repeat Customer
+16511.0,Loyal Customers,3,Repeat Customer
+16515.0,VIP / Champions,5,Repeat Customer
+16518.0,Potential Loyalists,2,Repeat Customer
+16519.0,Loyal Customers,3,Repeat Customer
+16520.0,VIP / Champions,4,Repeat Customer
+16521.0,Loyal Customers,3,Repeat Customer
+16522.0,Potential Loyalists,2,Repeat Customer
+16523.0,VIP / Champions,7,Repeat Customer
+16524.0,Potential Loyalists,2,Repeat Customer
+16525.0,VIP / Champions,23,Repeat Customer
+16526.0,At Risk,1,One-Time Customer
+16527.0,Potential Loyalists,1,One-Time Customer
+16529.0,Loyal Customers,3,Repeat Customer
+16530.0,Lost / Hibernating,1,One-Time Customer
+16531.0,Loyal Customers,4,Repeat Customer
+16532.0,Loyal Customers,2,Repeat Customer
+16534.0,At Risk,1,One-Time Customer
+16535.0,Potential Loyalists,2,Repeat Customer
+16537.0,Lost / Hibernating,1,One-Time Customer
+16538.0,Potential Loyalists,3,Repeat Customer
+16539.0,VIP / Champions,7,Repeat Customer
+16540.0,At Risk,1,One-Time Customer
+16541.0,At Risk,1,One-Time Customer
+16542.0,At Risk,1,One-Time Customer
+16543.0,At Risk,1,One-Time Customer
+16544.0,Potential Loyalists,4,Repeat Customer
+16545.0,Potential Loyalists,1,One-Time Customer
+16546.0,VIP / Champions,4,Repeat Customer
+16547.0,Lost / Hibernating,1,One-Time Customer
+16548.0,Lost / Hibernating,1,One-Time Customer
+16549.0,VIP / Champions,24,Repeat Customer
+16550.0,VIP / Champions,14,Repeat Customer
+16551.0,Loyal Customers,4,Repeat Customer
+16552.0,Potential Loyalists,1,One-Time Customer
+16553.0,VIP / Champions,21,Repeat Customer
+16554.0,Loyal Customers,5,Repeat Customer
+16555.0,Loyal Customers,4,Repeat Customer
+16556.0,VIP / Champions,10,Repeat Customer
+16558.0,VIP / Champions,19,Repeat Customer
+16559.0,Potential Loyalists,1,One-Time Customer
+16560.0,VIP / Champions,6,Repeat Customer
+16562.0,At Risk,1,One-Time Customer
+16563.0,VIP / Champions,5,Repeat Customer
+16564.0,Lost / Hibernating,1,One-Time Customer
+16565.0,Loyal Customers,3,Repeat Customer
+16568.0,Loyal Customers,2,Repeat Customer
+16569.0,Potential Loyalists,4,Repeat Customer
+16570.0,VIP / Champions,10,Repeat Customer
+16571.0,VIP / Champions,7,Repeat Customer
+16574.0,Potential Loyalists,2,Repeat Customer
+16576.0,Potential Loyalists,2,Repeat Customer
+16577.0,At Risk,1,One-Time Customer
+16578.0,Lost / Hibernating,1,One-Time Customer
+16579.0,Potential Loyalists,1,One-Time Customer
+16583.0,Loyal Customers,2,Repeat Customer
+16584.0,Loyal Customers,3,Repeat Customer
+16585.0,At Risk,2,Repeat Customer
+16586.0,Potential Loyalists,2,Repeat Customer
+16588.0,Loyal Customers,4,Repeat Customer
+16589.0,At Risk,1,One-Time Customer
+16590.0,Loyal Customers,2,Repeat Customer
+16592.0,VIP / Champions,12,Repeat Customer
+16593.0,Loyal Customers,5,Repeat Customer
+16595.0,VIP / Champions,4,Repeat Customer
+16596.0,Loyal Customers,3,Repeat Customer
+16599.0,Potential Loyalists,1,One-Time Customer
+16600.0,VIP / Champions,7,Repeat Customer
+16601.0,Potential Loyalists,2,Repeat Customer
+16602.0,Potential Loyalists,1,One-Time Customer
+16604.0,At Risk,2,Repeat Customer
+16605.0,Lost / Hibernating,1,One-Time Customer
+16606.0,Potential Loyalists,2,Repeat Customer
+16607.0,VIP / Champions,11,Repeat Customer
+16608.0,Potential Loyalists,2,Repeat Customer
+16611.0,Loyal Customers,5,Repeat Customer
+16612.0,VIP / Champions,5,Repeat Customer
+16614.0,Potential Loyalists,2,Repeat Customer
+16615.0,At Risk,1,One-Time Customer
+16619.0,Loyal Customers,3,Repeat Customer
+16620.0,Loyal Customers,4,Repeat Customer
+16622.0,Lost / Hibernating,1,One-Time Customer
+16623.0,Loyal Customers,3,Repeat Customer
+16625.0,Loyal Customers,4,Repeat Customer
+16628.0,Potential Loyalists,2,Repeat Customer
+16630.0,At Risk,1,One-Time Customer
+16631.0,Loyal Customers,7,Repeat Customer
+16632.0,Potential Loyalists,2,Repeat Customer
+16634.0,VIP / Champions,5,Repeat Customer
+16635.0,Potential Loyalists,1,One-Time Customer
+16636.0,Loyal Customers,4,Repeat Customer
+16638.0,VIP / Champions,6,Repeat Customer
+16639.0,Potential Loyalists,1,One-Time Customer
+16640.0,Potential Loyalists,1,One-Time Customer
+16641.0,At Risk,1,One-Time Customer
+16642.0,Potential Loyalists,1,One-Time Customer
+16643.0,Potential Loyalists,1,One-Time Customer
+16645.0,Lost / Hibernating,1,One-Time Customer
+16646.0,Potential Loyalists,1,One-Time Customer
+16647.0,Potential Loyalists,2,Repeat Customer
+16648.0,Potential Loyalists,2,Repeat Customer
+16649.0,At Risk,1,One-Time Customer
+16650.0,Loyal Customers,6,Repeat Customer
+16651.0,Lost / Hibernating,1,One-Time Customer
+16652.0,VIP / Champions,9,Repeat Customer
+16654.0,VIP / Champions,5,Repeat Customer
+16655.0,VIP / Champions,7,Repeat Customer
+16656.0,VIP / Champions,15,Repeat Customer
+16658.0,VIP / Champions,6,Repeat Customer
+16660.0,Loyal Customers,3,Repeat Customer
+16661.0,Potential Loyalists,4,Repeat Customer
+16662.0,Potential Loyalists,1,One-Time Customer
+16663.0,Lost / Hibernating,1,One-Time Customer
+16664.0,Lost / Hibernating,1,One-Time Customer
+16666.0,Lost / Hibernating,1,One-Time Customer
+16668.0,Loyal Customers,7,Repeat Customer
+16670.0,VIP / Champions,9,Repeat Customer
+16673.0,Lost / Hibernating,1,One-Time Customer
+16675.0,Potential Loyalists,2,Repeat Customer
+16676.0,Potential Loyalists,2,Repeat Customer
+16677.0,Potential Loyalists,2,Repeat Customer
+16679.0,Loyal Customers,3,Repeat Customer
+16680.0,Potential Loyalists,2,Repeat Customer
+16681.0,Lost / Hibernating,1,One-Time Customer
+16683.0,At Risk,1,One-Time Customer
+16684.0,VIP / Champions,27,Repeat Customer
+16686.0,VIP / Champions,9,Repeat Customer
+16687.0,Potential Loyalists,1,One-Time Customer
+16690.0,Potential Loyalists,2,Repeat Customer
+16691.0,Potential Loyalists,2,Repeat Customer
+16692.0,Potential Loyalists,2,Repeat Customer
+16693.0,Loyal Customers,3,Repeat Customer
+16694.0,Lost / Hibernating,1,One-Time Customer
+16695.0,At Risk,2,Repeat Customer
+16699.0,VIP / Champions,7,Repeat Customer
+16700.0,VIP / Champions,13,Repeat Customer
+16701.0,VIP / Champions,13,Repeat Customer
+16702.0,Loyal Customers,4,Repeat Customer
+16704.0,Potential Loyalists,2,Repeat Customer
+16705.0,VIP / Champions,22,Repeat Customer
+16707.0,Loyal Customers,4,Repeat Customer
+16709.0,VIP / Champions,9,Repeat Customer
+16710.0,VIP / Champions,13,Repeat Customer
+16711.0,VIP / Champions,4,Repeat Customer
+16712.0,Potential Loyalists,2,Repeat Customer
+16713.0,VIP / Champions,18,Repeat Customer
+16714.0,At Risk,1,One-Time Customer
+16715.0,At Risk,1,One-Time Customer
+16716.0,Potential Loyalists,1,One-Time Customer
+16717.0,VIP / Champions,9,Repeat Customer
+16718.0,VIP / Champions,5,Repeat Customer
+16719.0,VIP / Champions,8,Repeat Customer
+16720.0,Loyal Customers,2,Repeat Customer
+16722.0,VIP / Champions,11,Repeat Customer
+16723.0,Potential Loyalists,2,Repeat Customer
+16724.0,At Risk,1,One-Time Customer
+16725.0,VIP / Champions,8,Repeat Customer
+16726.0,Loyal Customers,2,Repeat Customer
+16727.0,Loyal Customers,3,Repeat Customer
+16731.0,Lost / Hibernating,1,One-Time Customer
+16732.0,Loyal Customers,3,Repeat Customer
+16733.0,At Risk,1,One-Time Customer
+16735.0,VIP / Champions,9,Repeat Customer
+16736.0,Loyal Customers,5,Repeat Customer
+16737.0,At Risk,1,One-Time Customer
+16739.0,At Risk,1,One-Time Customer
+16740.0,Potential Loyalists,1,One-Time Customer
+16741.0,Lost / Hibernating,1,One-Time Customer
+16742.0,Loyal Customers,13,Repeat Customer
+16743.0,Loyal Customers,7,Repeat Customer
+16746.0,VIP / Champions,24,Repeat Customer
+16748.0,VIP / Champions,9,Repeat Customer
+16749.0,Potential Loyalists,2,Repeat Customer
+16752.0,Potential Loyalists,1,One-Time Customer
+16754.0,VIP / Champions,29,Repeat Customer
+16755.0,Loyal Customers,4,Repeat Customer
+16756.0,Loyal Customers,6,Repeat Customer
+16757.0,At Risk,1,One-Time Customer
+16760.0,At Risk,1,One-Time Customer
+16763.0,At Risk,1,One-Time Customer
+16765.0,Potential Loyalists,1,One-Time Customer
+16767.0,Loyal Customers,4,Repeat Customer
+16768.0,VIP / Champions,6,Repeat Customer
+16769.0,Potential Loyalists,3,Repeat Customer
+16770.0,VIP / Champions,5,Repeat Customer
+16771.0,Loyal Customers,5,Repeat Customer
+16772.0,Loyal Customers,3,Repeat Customer
+16773.0,At Risk,2,Repeat Customer
+16774.0,Loyal Customers,4,Repeat Customer
+16775.0,VIP / Champions,6,Repeat Customer
+16776.0,At Risk,1,One-Time Customer
+16777.0,Loyal Customers,3,Repeat Customer
+16779.0,VIP / Champions,32,Repeat Customer
+16780.0,At Risk,1,One-Time Customer
+16781.0,Loyal Customers,2,Repeat Customer
+16782.0,VIP / Champions,26,Repeat Customer
+16783.0,At Risk,1,One-Time Customer
+16784.0,Loyal Customers,4,Repeat Customer
+16785.0,Potential Loyalists,1,One-Time Customer
+16786.0,Potential Loyalists,1,One-Time Customer
+16787.0,Loyal Customers,4,Repeat Customer
+16788.0,Loyal Customers,3,Repeat Customer
+16791.0,VIP / Champions,8,Repeat Customer
+16792.0,Loyal Customers,3,Repeat Customer
+16794.0,Loyal Customers,5,Repeat Customer
+16795.0,VIP / Champions,3,Repeat Customer
+16797.0,Loyal Customers,5,Repeat Customer
+16798.0,Potential Loyalists,3,Repeat Customer
+16799.0,Potential Loyalists,2,Repeat Customer
+16802.0,Potential Loyalists,2,Repeat Customer
+16805.0,Potential Loyalists,3,Repeat Customer
+16807.0,Loyal Customers,3,Repeat Customer
+16809.0,Loyal Customers,4,Repeat Customer
+16810.0,Potential Loyalists,1,One-Time Customer
+16812.0,VIP / Champions,3,Repeat Customer
+16814.0,VIP / Champions,16,Repeat Customer
+16815.0,Potential Loyalists,2,Repeat Customer
+16817.0,VIP / Champions,5,Repeat Customer
+16819.0,At Risk,2,Repeat Customer
+16821.0,Potential Loyalists,1,One-Time Customer
+16822.0,Lost / Hibernating,1,One-Time Customer
+16823.0,VIP / Champions,6,Repeat Customer
+16824.0,Potential Loyalists,1,One-Time Customer
+16825.0,VIP / Champions,3,Repeat Customer
+16827.0,Loyal Customers,5,Repeat Customer
+16829.0,Potential Loyalists,1,One-Time Customer
+16830.0,Potential Loyalists,3,Repeat Customer
+16831.0,Lost / Hibernating,1,One-Time Customer
+16832.0,Potential Loyalists,2,Repeat Customer
+16833.0,Potential Loyalists,2,Repeat Customer
+16834.0,At Risk,1,One-Time Customer
+16835.0,VIP / Champions,5,Repeat Customer
+16836.0,Potential Loyalists,2,Repeat Customer
+16838.0,Potential Loyalists,2,Repeat Customer
+16839.0,VIP / Champions,11,Repeat Customer
+16840.0,At Risk,2,Repeat Customer
+16841.0,Loyal Customers,6,Repeat Customer
+16843.0,VIP / Champions,19,Repeat Customer
+16844.0,Potential Loyalists,2,Repeat Customer
+16845.0,At Risk,1,One-Time Customer
+16846.0,Potential Loyalists,2,Repeat Customer
+16847.0,At Risk,1,One-Time Customer
+16848.0,VIP / Champions,3,Repeat Customer
+16854.0,Loyal Customers,2,Repeat Customer
+16856.0,Potential Loyalists,2,Repeat Customer
+16857.0,At Risk,1,One-Time Customer
+16858.0,VIP / Champions,10,Repeat Customer
+16859.0,Loyal Customers,5,Repeat Customer
+16860.0,Loyal Customers,3,Repeat Customer
+16861.0,Loyal Customers,3,Repeat Customer
+16862.0,Potential Loyalists,4,Repeat Customer
+16863.0,Loyal Customers,2,Repeat Customer
+16864.0,Potential Loyalists,2,Repeat Customer
+16865.0,At Risk,1,One-Time Customer
+16867.0,Lost / Hibernating,1,One-Time Customer
+16868.0,Loyal Customers,3,Repeat Customer
+16870.0,At Risk,1,One-Time Customer
+16872.0,Loyal Customers,3,Repeat Customer
+16873.0,VIP / Champions,6,Repeat Customer
+16874.0,Potential Loyalists,1,One-Time Customer
+16875.0,Loyal Customers,6,Repeat Customer
+16876.0,At Risk,1,One-Time Customer
+16880.0,At Risk,1,One-Time Customer
+16883.0,VIP / Champions,18,Repeat Customer
+16884.0,Potential Loyalists,2,Repeat Customer
+16885.0,Potential Loyalists,1,One-Time Customer
+16886.0,At Risk,1,One-Time Customer
+16887.0,Potential Loyalists,2,Repeat Customer
+16888.0,Loyal Customers,3,Repeat Customer
+16889.0,Loyal Customers,3,Repeat Customer
+16890.0,Potential Loyalists,3,Repeat Customer
+16891.0,VIP / Champions,7,Repeat Customer
+16892.0,At Risk,2,Repeat Customer
+16893.0,Potential Loyalists,2,Repeat Customer
+16894.0,Loyal Customers,3,Repeat Customer
+16895.0,Potential Loyalists,4,Repeat Customer
+16896.0,Lost / Hibernating,1,One-Time Customer
+16898.0,Loyal Customers,3,Repeat Customer
+16899.0,Loyal Customers,2,Repeat Customer
+16901.0,Lost / Hibernating,1,One-Time Customer
+16903.0,Loyal Customers,2,Repeat Customer
+16904.0,VIP / Champions,7,Repeat Customer
+16905.0,VIP / Champions,11,Repeat Customer
+16906.0,Loyal Customers,3,Repeat Customer
+16907.0,Loyal Customers,5,Repeat Customer
+16908.0,At Risk,1,One-Time Customer
+16911.0,At Risk,2,Repeat Customer
+16912.0,Loyal Customers,4,Repeat Customer
+16913.0,At Risk,2,Repeat Customer
+16915.0,Loyal Customers,5,Repeat Customer
+16916.0,Loyal Customers,3,Repeat Customer
+16917.0,Potential Loyalists,1,One-Time Customer
+16918.0,Loyal Customers,10,Repeat Customer
+16919.0,VIP / Champions,14,Repeat Customer
+16920.0,Potential Loyalists,1,One-Time Customer
+16921.0,Potential Loyalists,2,Repeat Customer
+16922.0,At Risk,1,One-Time Customer
+16923.0,VIP / Champions,13,Repeat Customer
+16925.0,At Risk,1,One-Time Customer
+16926.0,VIP / Champions,5,Repeat Customer
+16928.0,VIP / Champions,13,Repeat Customer
+16931.0,Loyal Customers,3,Repeat Customer
+16932.0,Potential Loyalists,2,Repeat Customer
+16933.0,VIP / Champions,7,Repeat Customer
+16934.0,Loyal Customers,4,Repeat Customer
+16935.0,Loyal Customers,3,Repeat Customer
+16936.0,Potential Loyalists,1,One-Time Customer
+16937.0,At Risk,1,One-Time Customer
+16938.0,VIP / Champions,5,Repeat Customer
+16939.0,Potential Loyalists,3,Repeat Customer
+16940.0,Loyal Customers,5,Repeat Customer
+16941.0,Lost / Hibernating,1,One-Time Customer
+16943.0,Potential Loyalists,2,Repeat Customer
+16944.0,Lost / Hibernating,1,One-Time Customer
+16945.0,VIP / Champions,14,Repeat Customer
+16946.0,Loyal Customers,5,Repeat Customer
+16947.0,Potential Loyalists,4,Repeat Customer
+16948.0,Potential Loyalists,4,Repeat Customer
+16950.0,VIP / Champions,8,Repeat Customer
+16952.0,Potential Loyalists,3,Repeat Customer
+16954.0,VIP / Champions,11,Repeat Customer
+16955.0,Loyal Customers,4,Repeat Customer
+16958.0,Potential Loyalists,1,One-Time Customer
+16960.0,Loyal Customers,5,Repeat Customer
+16961.0,Loyal Customers,2,Repeat Customer
+16962.0,Potential Loyalists,1,One-Time Customer
+16964.0,At Risk,2,Repeat Customer
+16970.0,Lost / Hibernating,1,One-Time Customer
+16972.0,Loyal Customers,2,Repeat Customer
+16973.0,Potential Loyalists,1,One-Time Customer
+16974.0,Potential Loyalists,2,Repeat Customer
+16975.0,Loyal Customers,3,Repeat Customer
+16977.0,Loyal Customers,4,Repeat Customer
+16978.0,At Risk,2,Repeat Customer
+16979.0,Loyal Customers,3,Repeat Customer
+16980.0,Potential Loyalists,1,One-Time Customer
+16983.0,VIP / Champions,5,Repeat Customer
+16984.0,VIP / Champions,7,Repeat Customer
+16985.0,VIP / Champions,13,Repeat Customer
+16986.0,Loyal Customers,9,Repeat Customer
+16987.0,Loyal Customers,4,Repeat Customer
+16988.0,Potential Loyalists,1,One-Time Customer
+16990.0,At Risk,1,One-Time Customer
+16991.0,Potential Loyalists,1,One-Time Customer
+16992.0,VIP / Champions,8,Repeat Customer
+16993.0,Potential Loyalists,2,Repeat Customer
+16996.0,Loyal Customers,3,Repeat Customer
+16998.0,At Risk,1,One-Time Customer
+17000.0,Potential Loyalists,2,Repeat Customer
+17001.0,VIP / Champions,8,Repeat Customer
+17002.0,Loyal Customers,4,Repeat Customer
+17003.0,Loyal Customers,4,Repeat Customer
+17004.0,Loyal Customers,2,Repeat Customer
+17005.0,Potential Loyalists,2,Repeat Customer
+17006.0,Loyal Customers,4,Repeat Customer
+17007.0,At Risk,1,One-Time Customer
+17008.0,At Risk,1,One-Time Customer
+17009.0,Lost / Hibernating,1,One-Time Customer
+17011.0,At Risk,2,Repeat Customer
+17012.0,At Risk,1,One-Time Customer
+17016.0,At Risk,1,One-Time Customer
+17017.0,VIP / Champions,13,Repeat Customer
+17018.0,Loyal Customers,4,Repeat Customer
+17019.0,VIP / Champions,8,Repeat Customer
+17020.0,Potential Loyalists,2,Repeat Customer
+17021.0,Loyal Customers,6,Repeat Customer
+17022.0,At Risk,1,One-Time Customer
+17023.0,Loyal Customers,3,Repeat Customer
+17025.0,VIP / Champions,4,Repeat Customer
+17026.0,Potential Loyalists,2,Repeat Customer
+17027.0,Potential Loyalists,3,Repeat Customer
+17028.0,Potential Loyalists,3,Repeat Customer
+17029.0,Loyal Customers,5,Repeat Customer
+17031.0,VIP / Champions,4,Repeat Customer
+17032.0,Loyal Customers,8,Repeat Customer
+17033.0,Potential Loyalists,1,One-Time Customer
+17034.0,Potential Loyalists,2,Repeat Customer
+17035.0,At Risk,2,Repeat Customer
+17036.0,Potential Loyalists,1,One-Time Customer
+17038.0,Potential Loyalists,1,One-Time Customer
+17039.0,Potential Loyalists,1,One-Time Customer
+17040.0,Lost / Hibernating,1,One-Time Customer
+17041.0,Loyal Customers,3,Repeat Customer
+17043.0,Loyal Customers,4,Repeat Customer
+17044.0,VIP / Champions,11,Repeat Customer
+17045.0,Loyal Customers,2,Repeat Customer
+17046.0,Loyal Customers,4,Repeat Customer
+17047.0,Loyal Customers,3,Repeat Customer
+17048.0,Loyal Customers,4,Repeat Customer
+17049.0,VIP / Champions,10,Repeat Customer
+17050.0,VIP / Champions,5,Repeat Customer
+17051.0,Potential Loyalists,3,Repeat Customer
+17055.0,At Risk,1,One-Time Customer
+17056.0,Lost / Hibernating,1,One-Time Customer
+17057.0,At Risk,1,One-Time Customer
+17059.0,VIP / Champions,5,Repeat Customer
+17062.0,Loyal Customers,4,Repeat Customer
+17063.0,VIP / Champions,6,Repeat Customer
+17065.0,At Risk,2,Repeat Customer
+17066.0,Lost / Hibernating,1,One-Time Customer
+17067.0,Potential Loyalists,3,Repeat Customer
+17068.0,VIP / Champions,27,Repeat Customer
+17069.0,VIP / Champions,6,Repeat Customer
+17070.0,At Risk,1,One-Time Customer
+17071.0,Loyal Customers,4,Repeat Customer
+17072.0,At Risk,1,One-Time Customer
+17074.0,Lost / Hibernating,1,One-Time Customer
+17075.0,Loyal Customers,6,Repeat Customer
+17076.0,Loyal Customers,3,Repeat Customer
+17077.0,At Risk,1,One-Time Customer
+17080.0,Loyal Customers,5,Repeat Customer
+17081.0,Loyal Customers,4,Repeat Customer
+17082.0,VIP / Champions,4,Repeat Customer
+17083.0,VIP / Champions,6,Repeat Customer
+17084.0,Loyal Customers,1,One-Time Customer
+17085.0,VIP / Champions,23,Repeat Customer
+17087.0,Lost / Hibernating,1,One-Time Customer
+17089.0,Potential Loyalists,1,One-Time Customer
+17090.0,VIP / Champions,6,Repeat Customer
+17091.0,VIP / Champions,11,Repeat Customer
+17092.0,Loyal Customers,7,Repeat Customer
+17093.0,Lost / Hibernating,1,One-Time Customer
+17094.0,At Risk,1,One-Time Customer
+17095.0,Loyal Customers,4,Repeat Customer
+17096.0,VIP / Champions,7,Repeat Customer
+17097.0,Loyal Customers,2,Repeat Customer
+17098.0,Loyal Customers,3,Repeat Customer
+17099.0,Potential Loyalists,1,One-Time Customer
+17101.0,Loyal Customers,3,Repeat Customer
+17103.0,At Risk,1,One-Time Customer
+17104.0,Potential Loyalists,1,One-Time Customer
+17106.0,Potential Loyalists,1,One-Time Customer
+17107.0,VIP / Champions,4,Repeat Customer
+17108.0,Lost / Hibernating,1,One-Time Customer
+17109.0,Potential Loyalists,2,Repeat Customer
+17110.0,Potential Loyalists,2,Repeat Customer
+17111.0,At Risk,1,One-Time Customer
+17112.0,At Risk,1,One-Time Customer
+17113.0,Loyal Customers,6,Repeat Customer
+17115.0,Potential Loyalists,4,Repeat Customer
+17116.0,At Risk,1,One-Time Customer
+17121.0,Potential Loyalists,1,One-Time Customer
+17122.0,Loyal Customers,3,Repeat Customer
+17123.0,Potential Loyalists,2,Repeat Customer
+17126.0,Loyal Customers,4,Repeat Customer
+17127.0,Loyal Customers,5,Repeat Customer
+17129.0,At Risk,1,One-Time Customer
+17132.0,Potential Loyalists,2,Repeat Customer
+17133.0,Loyal Customers,5,Repeat Customer
+17134.0,At Risk,1,One-Time Customer
+17135.0,Loyal Customers,4,Repeat Customer
+17136.0,Lost / Hibernating,1,One-Time Customer
+17137.0,Loyal Customers,6,Repeat Customer
+17138.0,VIP / Champions,6,Repeat Customer
+17139.0,VIP / Champions,13,Repeat Customer
+17141.0,Loyal Customers,4,Repeat Customer
+17142.0,Loyal Customers,3,Repeat Customer
+17143.0,Potential Loyalists,2,Repeat Customer
+17145.0,Loyal Customers,4,Repeat Customer
+17146.0,VIP / Champions,10,Repeat Customer
+17147.0,Loyal Customers,5,Repeat Customer
+17149.0,At Risk,1,One-Time Customer
+17150.0,VIP / Champions,6,Repeat Customer
+17151.0,Lost / Hibernating,1,One-Time Customer
+17152.0,Potential Loyalists,1,One-Time Customer
+17155.0,Potential Loyalists,5,Repeat Customer
+17156.0,Potential Loyalists,1,One-Time Customer
+17157.0,Loyal Customers,17,Repeat Customer
+17158.0,Potential Loyalists,2,Repeat Customer
+17159.0,Potential Loyalists,2,Repeat Customer
+17160.0,VIP / Champions,11,Repeat Customer
+17161.0,Potential Loyalists,1,One-Time Customer
+17163.0,Potential Loyalists,2,Repeat Customer
+17165.0,Loyal Customers,5,Repeat Customer
+17167.0,Loyal Customers,3,Repeat Customer
+17168.0,At Risk,1,One-Time Customer
+17169.0,At Risk,1,One-Time Customer
+17170.0,Potential Loyalists,2,Repeat Customer
+17171.0,Lost / Hibernating,1,One-Time Customer
+17172.0,Potential Loyalists,2,Repeat Customer
+17176.0,Potential Loyalists,2,Repeat Customer
+17177.0,At Risk,1,One-Time Customer
+17178.0,At Risk,1,One-Time Customer
+17179.0,Loyal Customers,3,Repeat Customer
+17180.0,Loyal Customers,7,Repeat Customer
+17181.0,Potential Loyalists,2,Repeat Customer
+17182.0,Potential Loyalists,2,Repeat Customer
+17184.0,At Risk,2,Repeat Customer
+17185.0,At Risk,3,Repeat Customer
+17187.0,At Risk,1,One-Time Customer
+17188.0,Loyal Customers,6,Repeat Customer
+17189.0,Potential Loyalists,3,Repeat Customer
+17190.0,Loyal Customers,5,Repeat Customer
+17191.0,VIP / Champions,11,Repeat Customer
+17192.0,At Risk,1,One-Time Customer
+17193.0,Loyal Customers,2,Repeat Customer
+17194.0,Potential Loyalists,1,One-Time Customer
+17195.0,At Risk,1,One-Time Customer
+17196.0,Potential Loyalists,1,One-Time Customer
+17198.0,Loyal Customers,2,Repeat Customer
+17199.0,Lost / Hibernating,1,One-Time Customer
+17200.0,Loyal Customers,4,Repeat Customer
+17201.0,Potential Loyalists,3,Repeat Customer
+17202.0,At Risk,1,One-Time Customer
+17203.0,Loyal Customers,4,Repeat Customer
+17204.0,VIP / Champions,5,Repeat Customer
+17205.0,Potential Loyalists,2,Repeat Customer
+17207.0,At Risk,1,One-Time Customer
+17208.0,Potential Loyalists,1,One-Time Customer
+17209.0,Potential Loyalists,3,Repeat Customer
+17210.0,Potential Loyalists,1,One-Time Customer
+17211.0,VIP / Champions,6,Repeat Customer
+17212.0,Potential Loyalists,2,Repeat Customer
+17213.0,VIP / Champions,7,Repeat Customer
+17215.0,At Risk,1,One-Time Customer
+17216.0,Lost / Hibernating,1,One-Time Customer
+17217.0,Lost / Hibernating,1,One-Time Customer
+17218.0,VIP / Champions,9,Repeat Customer
+17219.0,At Risk,1,One-Time Customer
+17220.0,Loyal Customers,7,Repeat Customer
+17221.0,Potential Loyalists,3,Repeat Customer
+17222.0,Loyal Customers,5,Repeat Customer
+17223.0,Loyal Customers,2,Repeat Customer
+17224.0,At Risk,1,One-Time Customer
+17225.0,Lost / Hibernating,1,One-Time Customer
+17226.0,Potential Loyalists,2,Repeat Customer
+17227.0,VIP / Champions,7,Repeat Customer
+17228.0,VIP / Champions,7,Repeat Customer
+17230.0,Loyal Customers,10,Repeat Customer
+17231.0,VIP / Champions,15,Repeat Customer
+17233.0,Potential Loyalists,2,Repeat Customer
+17235.0,VIP / Champions,7,Repeat Customer
+17236.0,Loyal Customers,6,Repeat Customer
+17237.0,Loyal Customers,2,Repeat Customer
+17238.0,VIP / Champions,17,Repeat Customer
+17239.0,Loyal Customers,3,Repeat Customer
+17240.0,Lost / Hibernating,1,One-Time Customer
+17241.0,VIP / Champions,12,Repeat Customer
+17242.0,Loyal Customers,3,Repeat Customer
+17243.0,VIP / Champions,44,Repeat Customer
+17244.0,Loyal Customers,4,Repeat Customer
+17245.0,Lost / Hibernating,1,One-Time Customer
+17246.0,At Risk,2,Repeat Customer
+17248.0,At Risk,1,One-Time Customer
+17249.0,At Risk,1,One-Time Customer
+17251.0,Loyal Customers,2,Repeat Customer
+17254.0,At Risk,1,One-Time Customer
+17255.0,Potential Loyalists,2,Repeat Customer
+17256.0,Potential Loyalists,3,Repeat Customer
+17257.0,At Risk,2,Repeat Customer
+17258.0,Potential Loyalists,2,Repeat Customer
+17259.0,VIP / Champions,5,Repeat Customer
+17260.0,At Risk,1,One-Time Customer
+17261.0,At Risk,1,One-Time Customer
+17262.0,VIP / Champions,7,Repeat Customer
+17264.0,Potential Loyalists,1,One-Time Customer
+17266.0,At Risk,2,Repeat Customer
+17268.0,Loyal Customers,7,Repeat Customer
+17269.0,Potential Loyalists,1,One-Time Customer
+17270.0,Potential Loyalists,2,Repeat Customer
+17271.0,Lost / Hibernating,1,One-Time Customer
+17273.0,At Risk,1,One-Time Customer
+17274.0,Potential Loyalists,1,One-Time Customer
+17275.0,Potential Loyalists,1,One-Time Customer
+17276.0,Potential Loyalists,1,One-Time Customer
+17278.0,Lost / Hibernating,1,One-Time Customer
+17280.0,At Risk,1,One-Time Customer
+17281.0,VIP / Champions,6,Repeat Customer
+17282.0,Potential Loyalists,2,Repeat Customer
+17283.0,Potential Loyalists,1,One-Time Customer
+17284.0,Loyal Customers,2,Repeat Customer
+17285.0,At Risk,2,Repeat Customer
+17286.0,Potential Loyalists,2,Repeat Customer
+17287.0,VIP / Champions,16,Repeat Customer
+17288.0,Loyal Customers,4,Repeat Customer
+17289.0,VIP / Champions,6,Repeat Customer
+17290.0,Loyal Customers,6,Repeat Customer
+17292.0,Potential Loyalists,2,Repeat Customer
+17293.0,VIP / Champions,8,Repeat Customer
+17294.0,At Risk,2,Repeat Customer
+17296.0,At Risk,1,One-Time Customer
+17298.0,Loyal Customers,3,Repeat Customer
+17299.0,Potential Loyalists,2,Repeat Customer
+17300.0,Potential Loyalists,2,Repeat Customer
+17301.0,Lost / Hibernating,1,One-Time Customer
+17304.0,At Risk,1,One-Time Customer
+17305.0,Potential Loyalists,1,One-Time Customer
+17306.0,Loyal Customers,2,Repeat Customer
+17307.0,VIP / Champions,11,Repeat Customer
+17308.0,Loyal Customers,2,Repeat Customer
+17309.0,Potential Loyalists,2,Repeat Customer
+17310.0,Loyal Customers,2,Repeat Customer
+17311.0,VIP / Champions,4,Repeat Customer
+17314.0,VIP / Champions,9,Repeat Customer
+17315.0,VIP / Champions,5,Repeat Customer
+17316.0,At Risk,1,One-Time Customer
+17318.0,Lost / Hibernating,1,One-Time Customer
+17319.0,Lost / Hibernating,1,One-Time Customer
+17320.0,VIP / Champions,4,Repeat Customer
+17321.0,Loyal Customers,4,Repeat Customer
+17322.0,Loyal Customers,5,Repeat Customer
+17323.0,Loyal Customers,5,Repeat Customer
+17324.0,VIP / Champions,9,Repeat Customer
+17325.0,Potential Loyalists,2,Repeat Customer
+17326.0,Potential Loyalists,2,Repeat Customer
+17327.0,Potential Loyalists,2,Repeat Customer
+17328.0,Lost / Hibernating,1,One-Time Customer
+17329.0,Potential Loyalists,3,Repeat Customer
+17330.0,At Risk,2,Repeat Customer
+17332.0,Potential Loyalists,5,Repeat Customer
+17334.0,Potential Loyalists,1,One-Time Customer
+17335.0,Potential Loyalists,2,Repeat Customer
+17336.0,At Risk,1,One-Time Customer
+17338.0,VIP / Champions,9,Repeat Customer
+17339.0,Potential Loyalists,2,Repeat Customer
+17340.0,VIP / Champions,8,Repeat Customer
+17341.0,VIP / Champions,3,Repeat Customer
+17342.0,VIP / Champions,4,Repeat Customer
+17343.0,VIP / Champions,5,Repeat Customer
+17344.0,At Risk,1,One-Time Customer
+17345.0,VIP / Champions,6,Repeat Customer
+17346.0,VIP / Champions,12,Repeat Customer
+17348.0,Loyal Customers,4,Repeat Customer
+17349.0,Loyal Customers,4,Repeat Customer
+17350.0,Loyal Customers,3,Repeat Customer
+17351.0,Loyal Customers,9,Repeat Customer
+17352.0,Lost / Hibernating,1,One-Time Customer
+17353.0,Potential Loyalists,2,Repeat Customer
+17354.0,Loyal Customers,3,Repeat Customer
+17355.0,Potential Loyalists,1,One-Time Customer
+17356.0,Potential Loyalists,4,Repeat Customer
+17358.0,Loyal Customers,3,Repeat Customer
+17359.0,Lost / Hibernating,1,One-Time Customer
+17360.0,Loyal Customers,3,Repeat Customer
+17361.0,At Risk,2,Repeat Customer
+17362.0,Loyal Customers,5,Repeat Customer
+17363.0,Loyal Customers,3,Repeat Customer
+17364.0,VIP / Champions,17,Repeat Customer
+17365.0,VIP / Champions,7,Repeat Customer
+17366.0,Loyal Customers,2,Repeat Customer
+17368.0,VIP / Champions,6,Repeat Customer
+17369.0,Potential Loyalists,1,One-Time Customer
+17371.0,At Risk,3,Repeat Customer
+17372.0,VIP / Champions,20,Repeat Customer
+17373.0,Loyal Customers,3,Repeat Customer
+17374.0,Potential Loyalists,1,One-Time Customer
+17375.0,Potential Loyalists,1,One-Time Customer
+17376.0,Potential Loyalists,2,Repeat Customer
+17377.0,VIP / Champions,60,Repeat Customer
+17378.0,Potential Loyalists,1,One-Time Customer
+17380.0,Loyal Customers,3,Repeat Customer
+17381.0,VIP / Champions,12,Repeat Customer
+17382.0,Loyal Customers,7,Repeat Customer
+17383.0,At Risk,1,One-Time Customer
+17384.0,At Risk,1,One-Time Customer
+17386.0,Potential Loyalists,1,One-Time Customer
+17388.0,Loyal Customers,7,Repeat Customer
+17389.0,VIP / Champions,27,Repeat Customer
+17390.0,At Risk,1,One-Time Customer
+17392.0,At Risk,1,One-Time Customer
+17393.0,Potential Loyalists,2,Repeat Customer
+17395.0,At Risk,1,One-Time Customer
+17396.0,VIP / Champions,7,Repeat Customer
+17397.0,Potential Loyalists,1,One-Time Customer
+17400.0,Loyal Customers,3,Repeat Customer
+17401.0,Lost / Hibernating,1,One-Time Customer
+17402.0,VIP / Champions,12,Repeat Customer
+17403.0,At Risk,1,One-Time Customer
+17404.0,VIP / Champions,8,Repeat Customer
+17406.0,VIP / Champions,11,Repeat Customer
+17407.0,Potential Loyalists,1,One-Time Customer
+17408.0,Potential Loyalists,2,Repeat Customer
+17409.0,VIP / Champions,8,Repeat Customer
+17411.0,Loyal Customers,2,Repeat Customer
+17412.0,VIP / Champions,10,Repeat Customer
+17413.0,Potential Loyalists,2,Repeat Customer
+17414.0,Loyal Customers,4,Repeat Customer
+17416.0,VIP / Champions,15,Repeat Customer
+17417.0,Lost / Hibernating,1,One-Time Customer
+17418.0,Potential Loyalists,1,One-Time Customer
+17419.0,VIP / Champions,8,Repeat Customer
+17420.0,Loyal Customers,4,Repeat Customer
+17421.0,Loyal Customers,3,Repeat Customer
+17422.0,Loyal Customers,5,Repeat Customer
+17423.0,Potential Loyalists,1,One-Time Customer
+17426.0,Loyal Customers,7,Repeat Customer
+17428.0,VIP / Champions,18,Repeat Customer
+17429.0,Loyal Customers,2,Repeat Customer
+17430.0,Loyal Customers,3,Repeat Customer
+17432.0,VIP / Champions,7,Repeat Customer
+17433.0,Potential Loyalists,1,One-Time Customer
+17435.0,Potential Loyalists,1,One-Time Customer
+17436.0,Potential Loyalists,3,Repeat Customer
+17437.0,At Risk,1,One-Time Customer
+17438.0,Loyal Customers,4,Repeat Customer
+17439.0,At Risk,1,One-Time Customer
+17440.0,Lost / Hibernating,1,One-Time Customer
+17441.0,At Risk,1,One-Time Customer
+17442.0,VIP / Champions,9,Repeat Customer
+17448.0,Loyal Customers,46,Repeat Customer
+17449.0,VIP / Champions,6,Repeat Customer
+17450.0,VIP / Champions,7,Repeat Customer
+17454.0,Loyal Customers,6,Repeat Customer
+17456.0,Loyal Customers,2,Repeat Customer
+17457.0,VIP / Champions,9,Repeat Customer
+17458.0,Potential Loyalists,1,One-Time Customer
+17460.0,VIP / Champions,12,Repeat Customer
+17463.0,Potential Loyalists,2,Repeat Customer
+17464.0,Potential Loyalists,2,Repeat Customer
+17465.0,VIP / Champions,7,Repeat Customer
+17467.0,Potential Loyalists,1,One-Time Customer
+17468.0,Potential Loyalists,1,One-Time Customer
+17469.0,VIP / Champions,12,Repeat Customer
+17470.0,VIP / Champions,7,Repeat Customer
+17471.0,At Risk,1,One-Time Customer
+17472.0,Lost / Hibernating,1,One-Time Customer
+17473.0,Potential Loyalists,2,Repeat Customer
+17474.0,Potential Loyalists,1,One-Time Customer
+17476.0,Potential Loyalists,2,Repeat Customer
+17477.0,Potential Loyalists,2,Repeat Customer
+17478.0,Loyal Customers,2,Repeat Customer
+17479.0,At Risk,1,One-Time Customer
+17480.0,At Risk,1,One-Time Customer
+17482.0,Potential Loyalists,2,Repeat Customer
+17483.0,At Risk,1,One-Time Customer
+17484.0,At Risk,2,Repeat Customer
+17487.0,Lost / Hibernating,1,One-Time Customer
+17488.0,At Risk,1,One-Time Customer
+17490.0,Loyal Customers,2,Repeat Customer
+17491.0,VIP / Champions,8,Repeat Customer
+17492.0,Potential Loyalists,2,Repeat Customer
+17493.0,Potential Loyalists,1,One-Time Customer
+17494.0,At Risk,1,One-Time Customer
+17495.0,Potential Loyalists,1,One-Time Customer
+17496.0,Potential Loyalists,3,Repeat Customer
+17497.0,Potential Loyalists,2,Repeat Customer
+17499.0,At Risk,1,One-Time Customer
+17504.0,VIP / Champions,9,Repeat Customer
+17505.0,Potential Loyalists,3,Repeat Customer
+17508.0,VIP / Champions,7,Repeat Customer
+17510.0,At Risk,1,One-Time Customer
+17511.0,VIP / Champions,31,Repeat Customer
+17512.0,Loyal Customers,8,Repeat Customer
+17513.0,Potential Loyalists,2,Repeat Customer
+17514.0,At Risk,1,One-Time Customer
+17515.0,Loyal Customers,5,Repeat Customer
+17516.0,Potential Loyalists,1,One-Time Customer
+17518.0,Potential Loyalists,2,Repeat Customer
+17519.0,VIP / Champions,10,Repeat Customer
+17521.0,Loyal Customers,2,Repeat Customer
+17524.0,Potential Loyalists,2,Repeat Customer
+17525.0,Loyal Customers,2,Repeat Customer
+17526.0,VIP / Champions,9,Repeat Customer
+17529.0,Potential Loyalists,2,Repeat Customer
+17530.0,Loyal Customers,3,Repeat Customer
+17531.0,Potential Loyalists,2,Repeat Customer
+17532.0,Potential Loyalists,1,One-Time Customer
+17533.0,At Risk,1,One-Time Customer
+17534.0,Loyal Customers,4,Repeat Customer
+17536.0,Potential Loyalists,2,Repeat Customer
+17539.0,Potential Loyalists,4,Repeat Customer
+17540.0,Loyal Customers,4,Repeat Customer
+17541.0,At Risk,1,One-Time Customer
+17542.0,At Risk,2,Repeat Customer
+17543.0,Lost / Hibernating,1,One-Time Customer
+17544.0,Loyal Customers,3,Repeat Customer
+17545.0,Loyal Customers,3,Repeat Customer
+17547.0,Loyal Customers,2,Repeat Customer
+17548.0,Loyal Customers,3,Repeat Customer
+17550.0,VIP / Champions,6,Repeat Customer
+17552.0,VIP / Champions,10,Repeat Customer
+17553.0,Loyal Customers,3,Repeat Customer
+17555.0,Loyal Customers,3,Repeat Customer
+17556.0,Potential Loyalists,1,One-Time Customer
+17557.0,Lost / Hibernating,1,One-Time Customer
+17558.0,Potential Loyalists,1,One-Time Customer
+17559.0,At Risk,1,One-Time Customer
+17560.0,Loyal Customers,4,Repeat Customer
+17561.0,Loyal Customers,3,Repeat Customer
+17563.0,At Risk,2,Repeat Customer
+17565.0,Lost / Hibernating,1,One-Time Customer
+17567.0,Loyal Customers,2,Repeat Customer
+17568.0,At Risk,1,One-Time Customer
+17570.0,Potential Loyalists,1,One-Time Customer
+17571.0,Lost / Hibernating,1,One-Time Customer
+17572.0,Loyal Customers,7,Repeat Customer
+17575.0,Lost / Hibernating,1,One-Time Customer
+17576.0,VIP / Champions,23,Repeat Customer
+17577.0,At Risk,2,Repeat Customer
+17578.0,Loyal Customers,6,Repeat Customer
+17579.0,At Risk,1,One-Time Customer
+17580.0,Loyal Customers,2,Repeat Customer
+17581.0,VIP / Champions,20,Repeat Customer
+17582.0,Loyal Customers,4,Repeat Customer
+17583.0,Lost / Hibernating,1,One-Time Customer
+17584.0,Loyal Customers,4,Repeat Customer
+17585.0,Potential Loyalists,3,Repeat Customer
+17586.0,Lost / Hibernating,1,One-Time Customer
+17587.0,Lost / Hibernating,1,One-Time Customer
+17588.0,Loyal Customers,4,Repeat Customer
+17589.0,VIP / Champions,14,Repeat Customer
+17591.0,Loyal Customers,2,Repeat Customer
+17592.0,Lost / Hibernating,1,One-Time Customer
+17593.0,VIP / Champions,6,Repeat Customer
+17594.0,Potential Loyalists,2,Repeat Customer
+17596.0,VIP / Champions,7,Repeat Customer
+17597.0,Loyal Customers,4,Repeat Customer
+17598.0,Potential Loyalists,1,One-Time Customer
+17599.0,At Risk,1,One-Time Customer
+17601.0,Potential Loyalists,1,One-Time Customer
+17602.0,Loyal Customers,8,Repeat Customer
+17603.0,Potential Loyalists,3,Repeat Customer
+17604.0,Loyal Customers,4,Repeat Customer
+17605.0,Lost / Hibernating,1,One-Time Customer
+17606.0,Lost / Hibernating,1,One-Time Customer
+17607.0,Potential Loyalists,1,One-Time Customer
+17608.0,Potential Loyalists,2,Repeat Customer
+17609.0,Loyal Customers,6,Repeat Customer
+17610.0,Loyal Customers,5,Repeat Customer
+17611.0,VIP / Champions,13,Repeat Customer
+17612.0,VIP / Champions,12,Repeat Customer
+17615.0,Loyal Customers,3,Repeat Customer
+17616.0,Loyal Customers,2,Repeat Customer
+17617.0,At Risk,1,One-Time Customer
+17618.0,VIP / Champions,8,Repeat Customer
+17621.0,Loyal Customers,3,Repeat Customer
+17622.0,Potential Loyalists,2,Repeat Customer
+17623.0,Loyal Customers,6,Repeat Customer
+17624.0,Potential Loyalists,2,Repeat Customer
+17625.0,Loyal Customers,4,Repeat Customer
+17626.0,At Risk,1,One-Time Customer
+17627.0,At Risk,1,One-Time Customer
+17629.0,Loyal Customers,2,Repeat Customer
+17631.0,Loyal Customers,4,Repeat Customer
+17633.0,Loyal Customers,3,Repeat Customer
+17635.0,Loyal Customers,3,Repeat Customer
+17638.0,Potential Loyalists,2,Repeat Customer
+17639.0,Loyal Customers,5,Repeat Customer
+17640.0,VIP / Champions,5,Repeat Customer
+17642.0,Loyal Customers,3,Repeat Customer
+17643.0,Loyal Customers,2,Repeat Customer
+17644.0,VIP / Champions,9,Repeat Customer
+17646.0,VIP / Champions,10,Repeat Customer
+17647.0,At Risk,2,Repeat Customer
+17648.0,Potential Loyalists,1,One-Time Customer
+17649.0,Potential Loyalists,2,Repeat Customer
+17651.0,Loyal Customers,6,Repeat Customer
+17655.0,VIP / Champions,3,Repeat Customer
+17657.0,At Risk,1,One-Time Customer
+17659.0,Loyal Customers,3,Repeat Customer
+17660.0,Lost / Hibernating,1,One-Time Customer
+17662.0,At Risk,2,Repeat Customer
+17663.0,VIP / Champions,10,Repeat Customer
+17664.0,Potential Loyalists,2,Repeat Customer
+17665.0,Potential Loyalists,1,One-Time Customer
+17666.0,Loyal Customers,3,Repeat Customer
+17667.0,Loyal Customers,4,Repeat Customer
+17669.0,Loyal Customers,3,Repeat Customer
+17671.0,Loyal Customers,2,Repeat Customer
+17672.0,Loyal Customers,5,Repeat Customer
+17673.0,VIP / Champions,7,Repeat Customer
+17674.0,Potential Loyalists,1,One-Time Customer
+17675.0,VIP / Champions,40,Repeat Customer
+17676.0,VIP / Champions,5,Repeat Customer
+17677.0,VIP / Champions,28,Repeat Customer
+17678.0,At Risk,1,One-Time Customer
+17679.0,Loyal Customers,5,Repeat Customer
+17680.0,Potential Loyalists,2,Repeat Customer
+17681.0,Potential Loyalists,5,Repeat Customer
+17682.0,VIP / Champions,6,Repeat Customer
+17683.0,Loyal Customers,3,Repeat Customer
+17685.0,VIP / Champions,6,Repeat Customer
+17686.0,Loyal Customers,2,Repeat Customer
+17687.0,Potential Loyalists,1,One-Time Customer
+17688.0,Potential Loyalists,1,One-Time Customer
+17689.0,Potential Loyalists,2,Repeat Customer
+17690.0,VIP / Champions,8,Repeat Customer
+17691.0,Loyal Customers,3,Repeat Customer
+17692.0,VIP / Champions,8,Repeat Customer
+17694.0,Potential Loyalists,2,Repeat Customer
+17695.0,Loyal Customers,3,Repeat Customer
+17696.0,VIP / Champions,19,Repeat Customer
+17699.0,Potential Loyalists,2,Repeat Customer
+17700.0,VIP / Champions,10,Repeat Customer
+17702.0,Loyal Customers,2,Repeat Customer
+17703.0,Potential Loyalists,1,One-Time Customer
+17705.0,Potential Loyalists,2,Repeat Customer
+17706.0,VIP / Champions,17,Repeat Customer
+17707.0,Loyal Customers,6,Repeat Customer
+17708.0,Potential Loyalists,2,Repeat Customer
+17709.0,Potential Loyalists,4,Repeat Customer
+17710.0,Potential Loyalists,1,One-Time Customer
+17713.0,Loyal Customers,4,Repeat Customer
+17714.0,Loyal Customers,4,Repeat Customer
+17715.0,Lost / Hibernating,1,One-Time Customer
+17716.0,VIP / Champions,13,Repeat Customer
+17717.0,Potential Loyalists,1,One-Time Customer
+17718.0,At Risk,1,One-Time Customer
+17720.0,VIP / Champions,7,Repeat Customer
+17721.0,At Risk,1,One-Time Customer
+17722.0,Loyal Customers,2,Repeat Customer
+17723.0,Potential Loyalists,1,One-Time Customer
+17726.0,VIP / Champions,7,Repeat Customer
+17728.0,Loyal Customers,2,Repeat Customer
+17729.0,At Risk,1,One-Time Customer
+17730.0,VIP / Champions,7,Repeat Customer
+17731.0,At Risk,2,Repeat Customer
+17732.0,VIP / Champions,8,Repeat Customer
+17734.0,Potential Loyalists,3,Repeat Customer
+17735.0,VIP / Champions,8,Repeat Customer
+17738.0,VIP / Champions,9,Repeat Customer
+17739.0,VIP / Champions,11,Repeat Customer
+17740.0,Loyal Customers,6,Repeat Customer
+17741.0,Potential Loyalists,2,Repeat Customer
+17742.0,Loyal Customers,9,Repeat Customer
+17743.0,At Risk,1,One-Time Customer
+17744.0,Potential Loyalists,1,One-Time Customer
+17745.0,Potential Loyalists,2,Repeat Customer
+17746.0,Potential Loyalists,3,Repeat Customer
+17748.0,At Risk,1,One-Time Customer
+17749.0,At Risk,1,One-Time Customer
+17751.0,At Risk,1,One-Time Customer
+17753.0,Potential Loyalists,4,Repeat Customer
+17754.0,VIP / Champions,8,Repeat Customer
+17756.0,Loyal Customers,3,Repeat Customer
+17757.0,VIP / Champions,28,Repeat Customer
+17758.0,Loyal Customers,4,Repeat Customer
+17759.0,Potential Loyalists,2,Repeat Customer
+17760.0,Loyal Customers,5,Repeat Customer
+17762.0,At Risk,1,One-Time Customer
+17763.0,At Risk,3,Repeat Customer
+17764.0,Loyal Customers,3,Repeat Customer
+17765.0,At Risk,1,One-Time Customer
+17766.0,Potential Loyalists,2,Repeat Customer
+17767.0,At Risk,1,One-Time Customer
+17768.0,Loyal Customers,4,Repeat Customer
+17769.0,VIP / Champions,7,Repeat Customer
+17771.0,At Risk,2,Repeat Customer
+17772.0,Potential Loyalists,1,One-Time Customer
+17773.0,Potential Loyalists,2,Repeat Customer
+17774.0,Loyal Customers,5,Repeat Customer
+17776.0,Potential Loyalists,2,Repeat Customer
+17778.0,Lost / Hibernating,1,One-Time Customer
+17780.0,Potential Loyalists,3,Repeat Customer
+17782.0,Loyal Customers,2,Repeat Customer
+17783.0,At Risk,1,One-Time Customer
+17784.0,Lost / Hibernating,1,One-Time Customer
+17785.0,Potential Loyalists,2,Repeat Customer
+17787.0,Loyal Customers,1,One-Time Customer
+17789.0,Lost / Hibernating,1,One-Time Customer
+17790.0,VIP / Champions,6,Repeat Customer
+17792.0,Potential Loyalists,2,Repeat Customer
+17794.0,At Risk,2,Repeat Customer
+17796.0,Loyal Customers,4,Repeat Customer
+17797.0,Loyal Customers,5,Repeat Customer
+17798.0,Lost / Hibernating,1,One-Time Customer
+17799.0,VIP / Champions,10,Repeat Customer
+17801.0,Potential Loyalists,3,Repeat Customer
+17802.0,VIP / Champions,8,Repeat Customer
+17803.0,Potential Loyalists,1,One-Time Customer
+17804.0,Loyal Customers,3,Repeat Customer
+17805.0,At Risk,1,One-Time Customer
+17807.0,Loyal Customers,3,Repeat Customer
+17808.0,Potential Loyalists,4,Repeat Customer
+17809.0,VIP / Champions,11,Repeat Customer
+17810.0,At Risk,2,Repeat Customer
+17811.0,VIP / Champions,8,Repeat Customer
+17812.0,Loyal Customers,4,Repeat Customer
+17814.0,Loyal Customers,2,Repeat Customer
+17815.0,Potential Loyalists,1,One-Time Customer
+17816.0,Loyal Customers,3,Repeat Customer
+17817.0,Loyal Customers,3,Repeat Customer
+17818.0,Lost / Hibernating,1,One-Time Customer
+17819.0,VIP / Champions,6,Repeat Customer
+17820.0,Potential Loyalists,1,One-Time Customer
+17821.0,Potential Loyalists,1,One-Time Customer
+17822.0,Loyal Customers,5,Repeat Customer
+17823.0,Potential Loyalists,2,Repeat Customer
+17825.0,Potential Loyalists,4,Repeat Customer
+17826.0,Potential Loyalists,1,One-Time Customer
+17827.0,At Risk,1,One-Time Customer
+17829.0,Loyal Customers,4,Repeat Customer
+17833.0,At Risk,1,One-Time Customer
+17834.0,Potential Loyalists,2,Repeat Customer
+17838.0,VIP / Champions,10,Repeat Customer
+17840.0,At Risk,1,One-Time Customer
+17841.0,VIP / Champions,91,Repeat Customer
+17842.0,At Risk,1,One-Time Customer
+17843.0,At Risk,1,One-Time Customer
+17845.0,Potential Loyalists,4,Repeat Customer
+17847.0,At Risk,2,Repeat Customer
+17848.0,VIP / Champions,21,Repeat Customer
+17849.0,Potential Loyalists,4,Repeat Customer
+17850.0,VIP / Champions,155,Repeat Customer
+17851.0,Loyal Customers,6,Repeat Customer
+17852.0,Loyal Customers,3,Repeat Customer
+17853.0,Loyal Customers,3,Repeat Customer
+17854.0,Potential Loyalists,4,Repeat Customer
+17855.0,Potential Loyalists,1,One-Time Customer
+17857.0,Loyal Customers,2,Repeat Customer
+17858.0,VIP / Champions,19,Repeat Customer
+17860.0,Loyal Customers,4,Repeat Customer
+17861.0,VIP / Champions,10,Repeat Customer
+17862.0,Loyal Customers,3,Repeat Customer
+17863.0,VIP / Champions,7,Repeat Customer
+17864.0,Potential Loyalists,2,Repeat Customer
+17865.0,VIP / Champions,26,Repeat Customer
+17866.0,Potential Loyalists,2,Repeat Customer
+17867.0,Loyal Customers,9,Repeat Customer
+17868.0,Potential Loyalists,1,One-Time Customer
+17869.0,Loyal Customers,3,Repeat Customer
+17870.0,Loyal Customers,2,Repeat Customer
+17871.0,Loyal Customers,4,Repeat Customer
+17872.0,Potential Loyalists,1,One-Time Customer
+17873.0,VIP / Champions,14,Repeat Customer
+17875.0,Lost / Hibernating,1,One-Time Customer
+17876.0,VIP / Champions,3,Repeat Customer
+17878.0,Loyal Customers,2,Repeat Customer
+17880.0,At Risk,2,Repeat Customer
+17882.0,Loyal Customers,2,Repeat Customer
+17883.0,Potential Loyalists,3,Repeat Customer
+17884.0,VIP / Champions,18,Repeat Customer
+17886.0,Potential Loyalists,3,Repeat Customer
+17888.0,VIP / Champions,17,Repeat Customer
+17889.0,Loyal Customers,5,Repeat Customer
+17894.0,VIP / Champions,11,Repeat Customer
+17897.0,VIP / Champions,8,Repeat Customer
+17898.0,At Risk,2,Repeat Customer
+17901.0,At Risk,2,Repeat Customer
+17902.0,Lost / Hibernating,1,One-Time Customer
+17903.0,Potential Loyalists,1,One-Time Customer
+17905.0,VIP / Champions,10,Repeat Customer
+17907.0,At Risk,1,One-Time Customer
+17908.0,VIP / Champions,5,Repeat Customer
+17909.0,Lost / Hibernating,1,One-Time Customer
+17910.0,At Risk,1,One-Time Customer
+17912.0,Potential Loyalists,1,One-Time Customer
+17913.0,VIP / Champions,12,Repeat Customer
+17915.0,Lost / Hibernating,1,One-Time Customer
+17916.0,At Risk,2,Repeat Customer
+17918.0,Potential Loyalists,3,Repeat Customer
+17919.0,Potential Loyalists,1,One-Time Customer
+17920.0,VIP / Champions,39,Repeat Customer
+17921.0,VIP / Champions,6,Repeat Customer
+17922.0,Lost / Hibernating,1,One-Time Customer
+17923.0,Potential Loyalists,2,Repeat Customer
+17924.0,Loyal Customers,2,Repeat Customer
+17925.0,Potential Loyalists,1,One-Time Customer
+17926.0,Potential Loyalists,3,Repeat Customer
+17927.0,At Risk,1,One-Time Customer
+17928.0,Lost / Hibernating,1,One-Time Customer
+17929.0,VIP / Champions,8,Repeat Customer
+17930.0,VIP / Champions,8,Repeat Customer
+17931.0,VIP / Champions,12,Repeat Customer
+17933.0,Lost / Hibernating,1,One-Time Customer
+17934.0,Potential Loyalists,1,One-Time Customer
+17935.0,Loyal Customers,5,Repeat Customer
+17938.0,At Risk,1,One-Time Customer
+17940.0,Loyal Customers,6,Repeat Customer
+17941.0,Potential Loyalists,3,Repeat Customer
+17944.0,At Risk,1,One-Time Customer
+17945.0,Potential Loyalists,3,Repeat Customer
+17949.0,VIP / Champions,74,Repeat Customer
+17950.0,VIP / Champions,6,Repeat Customer
+17951.0,Loyal Customers,2,Repeat Customer
+17952.0,Loyal Customers,4,Repeat Customer
+17953.0,At Risk,1,One-Time Customer
+17954.0,VIP / Champions,9,Repeat Customer
+17955.0,At Risk,2,Repeat Customer
+17958.0,At Risk,1,One-Time Customer
+17959.0,Lost / Hibernating,1,One-Time Customer
+17960.0,At Risk,2,Repeat Customer
+17961.0,VIP / Champions,62,Repeat Customer
+17962.0,Potential Loyalists,3,Repeat Customer
+17963.0,Potential Loyalists,4,Repeat Customer
+17964.0,Potential Loyalists,1,One-Time Customer
+17965.0,VIP / Champions,17,Repeat Customer
+17966.0,Potential Loyalists,5,Repeat Customer
+17967.0,Potential Loyalists,2,Repeat Customer
+17968.0,Loyal Customers,4,Repeat Customer
+17969.0,Loyal Customers,18,Repeat Customer
+17971.0,Lost / Hibernating,1,One-Time Customer
+17974.0,Loyal Customers,3,Repeat Customer
+17975.0,VIP / Champions,12,Repeat Customer
+17976.0,Potential Loyalists,1,One-Time Customer
+17977.0,Loyal Customers,1,One-Time Customer
+17978.0,VIP / Champions,4,Repeat Customer
+17980.0,Potential Loyalists,1,One-Time Customer
+17981.0,At Risk,1,One-Time Customer
+17982.0,Lost / Hibernating,1,One-Time Customer
+17983.0,Potential Loyalists,1,One-Time Customer
+17984.0,Loyal Customers,4,Repeat Customer
+17987.0,Loyal Customers,4,Repeat Customer
+17988.0,Potential Loyalists,7,Repeat Customer
+17989.0,Potential Loyalists,1,One-Time Customer
+17990.0,Loyal Customers,3,Repeat Customer
+17991.0,Lost / Hibernating,1,One-Time Customer
+17992.0,Potential Loyalists,1,One-Time Customer
+17993.0,Lost / Hibernating,1,One-Time Customer
+17994.0,VIP / Champions,7,Repeat Customer
+17995.0,Potential Loyalists,2,Repeat Customer
+17996.0,Loyal Customers,3,Repeat Customer
+17998.0,Loyal Customers,3,Repeat Customer
+17999.0,Loyal Customers,2,Repeat Customer
+18000.0,Lost / Hibernating,1,One-Time Customer
+18001.0,Potential Loyalists,4,Repeat Customer
+18002.0,Loyal Customers,4,Repeat Customer
+18003.0,Potential Loyalists,1,One-Time Customer
+18006.0,Loyal Customers,3,Repeat Customer
+18007.0,Potential Loyalists,1,One-Time Customer
+18008.0,VIP / Champions,14,Repeat Customer
+18009.0,Loyal Customers,7,Repeat Customer
+18011.0,Loyal Customers,2,Repeat Customer
+18012.0,Lost / Hibernating,1,One-Time Customer
+18016.0,Potential Loyalists,2,Repeat Customer
+18017.0,At Risk,1,One-Time Customer
+18018.0,Potential Loyalists,2,Repeat Customer
+18020.0,Lost / Hibernating,1,One-Time Customer
+18021.0,At Risk,2,Repeat Customer
+18022.0,Loyal Customers,4,Repeat Customer
+18025.0,VIP / Champions,6,Repeat Customer
+18026.0,Potential Loyalists,2,Repeat Customer
+18028.0,Lost / Hibernating,1,One-Time Customer
+18029.0,At Risk,1,One-Time Customer
+18031.0,Potential Loyalists,1,One-Time Customer
+18034.0,Potential Loyalists,1,One-Time Customer
+18035.0,Loyal Customers,2,Repeat Customer
+18036.0,VIP / Champions,8,Repeat Customer
+18037.0,Potential Loyalists,9,Repeat Customer
+18038.0,Lost / Hibernating,1,One-Time Customer
+18039.0,Loyal Customers,4,Repeat Customer
+18041.0,VIP / Champions,20,Repeat Customer
+18042.0,Lost / Hibernating,1,One-Time Customer
+18043.0,Potential Loyalists,1,One-Time Customer
+18044.0,VIP / Champions,8,Repeat Customer
+18046.0,Lost / Hibernating,1,One-Time Customer
+18047.0,Potential Loyalists,2,Repeat Customer
+18048.0,At Risk,1,One-Time Customer
+18049.0,Potential Loyalists,2,Repeat Customer
+18050.0,Potential Loyalists,1,One-Time Customer
+18051.0,Loyal Customers,7,Repeat Customer
+18052.0,Potential Loyalists,1,One-Time Customer
+18053.0,Potential Loyalists,2,Repeat Customer
+18054.0,Potential Loyalists,1,One-Time Customer
+18055.0,VIP / Champions,6,Repeat Customer
+18056.0,Lost / Hibernating,1,One-Time Customer
+18057.0,Loyal Customers,3,Repeat Customer
+18058.0,Potential Loyalists,2,Repeat Customer
+18060.0,Loyal Customers,2,Repeat Customer
+18061.0,VIP / Champions,19,Repeat Customer
+18062.0,Loyal Customers,3,Repeat Customer
+18063.0,Potential Loyalists,2,Repeat Customer
+18064.0,Loyal Customers,9,Repeat Customer
+18065.0,VIP / Champions,15,Repeat Customer
+18066.0,Loyal Customers,2,Repeat Customer
+18069.0,VIP / Champions,6,Repeat Customer
+18070.0,At Risk,1,One-Time Customer
+18071.0,Loyal Customers,5,Repeat Customer
+18074.0,Loyal Customers,2,Repeat Customer
+18075.0,VIP / Champions,10,Repeat Customer
+18076.0,Potential Loyalists,1,One-Time Customer
+18077.0,VIP / Champions,8,Repeat Customer
+18078.0,Potential Loyalists,2,Repeat Customer
+18079.0,Potential Loyalists,1,One-Time Customer
+18083.0,Potential Loyalists,1,One-Time Customer
+18084.0,Loyal Customers,2,Repeat Customer
+18085.0,Loyal Customers,3,Repeat Customer
+18087.0,VIP / Champions,15,Repeat Customer
+18089.0,At Risk,1,One-Time Customer
+18090.0,Potential Loyalists,1,One-Time Customer
+18091.0,At Risk,1,One-Time Customer
+18092.0,VIP / Champions,8,Repeat Customer
+18093.0,Loyal Customers,4,Repeat Customer
+18094.0,Loyal Customers,6,Repeat Customer
+18095.0,Loyal Customers,3,Repeat Customer
+18096.0,Potential Loyalists,3,Repeat Customer
+18097.0,Loyal Customers,5,Repeat Customer
+18098.0,Potential Loyalists,1,One-Time Customer
+18100.0,At Risk,1,One-Time Customer
+18101.0,Loyal Customers,3,Repeat Customer
+18102.0,VIP / Champions,89,Repeat Customer
+18103.0,Lost / Hibernating,1,One-Time Customer
+18106.0,Loyal Customers,5,Repeat Customer
+18107.0,At Risk,1,One-Time Customer
+18108.0,Potential Loyalists,2,Repeat Customer
+18109.0,VIP / Champions,13,Repeat Customer
+18110.0,At Risk,1,One-Time Customer
+18111.0,At Risk,1,One-Time Customer
+18112.0,Potential Loyalists,2,Repeat Customer
+18113.0,Potential Loyalists,1,One-Time Customer
+18115.0,Lost / Hibernating,1,One-Time Customer
+18116.0,Loyal Customers,5,Repeat Customer
+18118.0,VIP / Champions,4,Repeat Customer
+18119.0,Potential Loyalists,1,One-Time Customer
+18123.0,At Risk,1,One-Time Customer
+18124.0,At Risk,1,One-Time Customer
+18127.0,At Risk,1,One-Time Customer
+18128.0,At Risk,1,One-Time Customer
+18131.0,Lost / Hibernating,1,One-Time Customer
+18132.0,At Risk,1,One-Time Customer
+18134.0,At Risk,2,Repeat Customer
+18135.0,Loyal Customers,5,Repeat Customer
+18136.0,Potential Loyalists,2,Repeat Customer
+18137.0,At Risk,2,Repeat Customer
+18140.0,Potential Loyalists,1,One-Time Customer
+18141.0,Potential Loyalists,2,Repeat Customer
+18144.0,VIP / Champions,8,Repeat Customer
+18145.0,VIP / Champions,7,Repeat Customer
+18148.0,Lost / Hibernating,1,One-Time Customer
+18149.0,Loyal Customers,4,Repeat Customer
+18151.0,Loyal Customers,4,Repeat Customer
+18152.0,At Risk,1,One-Time Customer
+18153.0,Lost / Hibernating,1,One-Time Customer
+18154.0,Loyal Customers,3,Repeat Customer
+18156.0,Potential Loyalists,1,One-Time Customer
+18157.0,Lost / Hibernating,1,One-Time Customer
+18160.0,Potential Loyalists,1,One-Time Customer
+18161.0,Potential Loyalists,1,One-Time Customer
+18162.0,At Risk,1,One-Time Customer
+18163.0,At Risk,1,One-Time Customer
+18166.0,Lost / Hibernating,1,One-Time Customer
+18168.0,VIP / Champions,11,Repeat Customer
+18170.0,VIP / Champions,6,Repeat Customer
+18171.0,Loyal Customers,4,Repeat Customer
+18172.0,VIP / Champions,32,Repeat Customer
+18173.0,At Risk,1,One-Time Customer
+18174.0,Lost / Hibernating,1,One-Time Customer
+18175.0,Lost / Hibernating,1,One-Time Customer
+18177.0,Potential Loyalists,3,Repeat Customer
+18178.0,VIP / Champions,7,Repeat Customer
+18179.0,Potential Loyalists,2,Repeat Customer
+18181.0,Loyal Customers,4,Repeat Customer
+18182.0,At Risk,1,One-Time Customer
+18186.0,At Risk,1,One-Time Customer
+18187.0,At Risk,1,One-Time Customer
+18188.0,Loyal Customers,3,Repeat Customer
+18189.0,At Risk,1,One-Time Customer
+18190.0,Potential Loyalists,3,Repeat Customer
+18191.0,At Risk,1,One-Time Customer
+18193.0,Loyal Customers,2,Repeat Customer
+18194.0,Loyal Customers,5,Repeat Customer
+18195.0,Potential Loyalists,1,One-Time Customer
+18196.0,Potential Loyalists,2,Repeat Customer
+18197.0,Lost / Hibernating,1,One-Time Customer
+18199.0,At Risk,1,One-Time Customer
+18201.0,At Risk,1,One-Time Customer
+18203.0,Loyal Customers,3,Repeat Customer
+18206.0,At Risk,1,One-Time Customer
+18207.0,Potential Loyalists,1,One-Time Customer
+18208.0,At Risk,1,One-Time Customer
+18210.0,Potential Loyalists,1,One-Time Customer
+18212.0,At Risk,1,One-Time Customer
+18214.0,Loyal Customers,4,Repeat Customer
+18215.0,Loyal Customers,4,Repeat Customer
+18217.0,Potential Loyalists,2,Repeat Customer
+18218.0,At Risk,2,Repeat Customer
+18219.0,VIP / Champions,8,Repeat Customer
+18220.0,Loyal Customers,5,Repeat Customer
+18221.0,Potential Loyalists,1,One-Time Customer
+18223.0,VIP / Champions,12,Repeat Customer
+18225.0,VIP / Champions,15,Repeat Customer
+18226.0,VIP / Champions,15,Repeat Customer
+18227.0,At Risk,1,One-Time Customer
+18229.0,VIP / Champions,10,Repeat Customer
+18230.0,Loyal Customers,2,Repeat Customer
+18231.0,VIP / Champions,23,Repeat Customer
+18234.0,Lost / Hibernating,1,One-Time Customer
+18236.0,Loyal Customers,6,Repeat Customer
+18238.0,At Risk,1,One-Time Customer
+18239.0,Loyal Customers,2,Repeat Customer
+18241.0,Loyal Customers,4,Repeat Customer
+18242.0,Loyal Customers,4,Repeat Customer
+18243.0,Potential Loyalists,1,One-Time Customer
+18244.0,Potential Loyalists,2,Repeat Customer
+18245.0,VIP / Champions,13,Repeat Customer
+18246.0,Lost / Hibernating,1,One-Time Customer
+18247.0,Loyal Customers,3,Repeat Customer
+18251.0,Loyal Customers,8,Repeat Customer
+18252.0,Potential Loyalists,5,Repeat Customer
+18253.0,At Risk,1,One-Time Customer
+18254.0,At Risk,1,One-Time Customer
+18255.0,At Risk,1,One-Time Customer
+18256.0,Potential Loyalists,1,One-Time Customer
+18257.0,Loyal Customers,4,Repeat Customer
+18258.0,Loyal Customers,6,Repeat Customer
+18259.0,VIP / Champions,5,Repeat Customer
+18260.0,VIP / Champions,17,Repeat Customer
+18262.0,Potential Loyalists,2,Repeat Customer
+18264.0,Potential Loyalists,1,One-Time Customer
+18266.0,Potential Loyalists,1,One-Time Customer
+18267.0,At Risk,1,One-Time Customer
+18268.0,Potential Loyalists,5,Repeat Customer
+18269.0,Potential Loyalists,1,One-Time Customer
+18270.0,At Risk,1,One-Time Customer
+18271.0,Potential Loyalists,2,Repeat Customer
+18272.0,Potential Loyalists,3,Repeat Customer
+18273.0,Lost / Hibernating,1,One-Time Customer
+18275.0,Potential Loyalists,2,Repeat Customer
+18276.0,Loyal Customers,5,Repeat Customer
+18277.0,Loyal Customers,4,Repeat Customer
+18278.0,At Risk,1,One-Time Customer
+18279.0,At Risk,1,One-Time Customer
+18280.0,Potential Loyalists,1,One-Time Customer
+18281.0,Lost / Hibernating,1,One-Time Customer
+18283.0,Loyal Customers,6,Repeat Customer
+18284.0,Potential Loyalists,1,One-Time Customer
+18285.0,At Risk,1,One-Time Customer
+18286.0,Potential Loyalists,2,Repeat Customer
+18287.0,VIP / Champions,4,Repeat Customer

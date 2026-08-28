@@ -1,0 +1,6 @@
+Customer_Segment,Customers,Average_Recency,Average_Frequency,Average_Spending,Average_Order_Value
+At Risk,701,143.86,1.25,326.05,288.39
+Lost / Hibernating,541,247.11,1.01,181.56,180.4
+Loyal Customers,1026,47.79,4.1,1680.13,436.89
+Potential Loyalists,1126,85.0,2.07,708.06,403.78
+VIP / Champions,920,15.72,12.22,6467.78,456.81

@@ -1,0 +1,1697 @@
+======================================================================
+PROJECT 2 - ONLINE RETAIL DATA ANALYSIS
+======================================================================
+
+============================================================
+STEP 1 - LOAD DATASET
+============================================================
+
+Dataset loaded successfully.
+
+============================================================
+STEP 2 - FIRST 5 ROWS
+============================================================
+  Invoice StockCode                          Description  ...  Price Customer ID         Country
+0  489434     85048  15CM CHRISTMAS GLASS BALL 20 LIGHTS  ...   6.95     13085.0  United Kingdom
+1  489434    79323P                   PINK CHERRY LIGHTS  ...   6.75     13085.0  United Kingdom
+2  489434    79323W                  WHITE CHERRY LIGHTS  ...   6.75     13085.0  United Kingdom
+3  489434     22041         RECORD FRAME 7" SINGLE SIZE   ...   2.10     13085.0  United Kingdom
+4  489434     21232       STRAWBERRY CERAMIC TRINKET BOX  ...   1.25     13085.0  United Kingdom
+
+[5 rows x 8 columns]
+
+============================================================
+STEP 3 - DATASET SHAPE
+============================================================
+(525461, 8)
+
+============================================================
+STEP 4 - COLUMN NAMES
+============================================================
+['Invoice', 'StockCode', 'Description', 'Quantity', 'InvoiceDate', 'Price', 'Customer ID', 'Country']
+
+============================================================
+STEP 5 - DATA TYPES
+============================================================
+Invoice                object
+StockCode              object
+Description            object
+Quantity                int64
+InvoiceDate    datetime64[us]
+Price                 float64
+Customer ID           float64
+Country                   str
+dtype: object
+
+============================================================
+STEP 6 - MISSING VALUES
+============================================================
+Invoice             0
+StockCode           0
+Description      2928
+Quantity            0
+InvoiceDate         0
+Price               0
+Customer ID    107927
+Country             0
+dtype: int64
+
+============================================================
+STEP 7 - DUPLICATE ROWS
+============================================================
+Duplicate rows:
+6865
+
+============================================================
+STEP 8 - BASIC STATISTICS
+============================================================
+            Quantity                 InvoiceDate          Price    Customer ID
+count  525461.000000                      525461  525461.000000  417534.000000
+mean       10.337667  2010-06-28 11:37:36.845018       4.688834   15360.645478
+min     -9600.000000         2009-12-01 07:45:00  -53594.360000   12346.000000
+25%         1.000000         2010-03-21 12:20:00       1.250000   13983.000000
+50%         3.000000         2010-07-06 09:51:00       2.100000   15311.000000
+75%        10.000000         2010-10-15 12:45:00       4.210000   16799.000000
+max     19152.000000         2010-12-09 20:01:00   25111.090000   18287.000000
+std       107.424110                         NaN     146.126914    1680.811316
+
+============================================================
+STEP 9 - REMOVE DUPLICATE ROWS
+============================================================
+
+Shape after removing duplicates:
+(518596, 8)
+
+Remaining duplicate rows:
+0
+
+============================================================
+STEP 10 - NEGATIVE QUANTITY ANALYSIS
+============================================================
+
+Negative quantity rows:
+(12302, 8)
+
+First 5 negative quantity rows:
+     Invoice StockCode                    Description  Quantity         InvoiceDate  Price  Customer ID    Country
+178  C489449     22087       PAPER BUNTING WHITE LACE       -12 2009-12-01 10:33:00   2.95      16321.0  Australia
+179  C489449    85206A   CREAM FELT EASTER EGG BASKET        -6 2009-12-01 10:33:00   1.65      16321.0  Australia
+180  C489449     21895  POTTING SHED SOW 'N' GROW SET        -4 2009-12-01 10:33:00   4.25      16321.0  Australia
+181  C489449     21896             POTTING SHED TWINE        -6 2009-12-01 10:33:00   2.10      16321.0  Australia
+182  C489449     22083     PAPER CHAIN KIT RETRO SPOT       -12 2009-12-01 10:33:00   2.95      16321.0  Australia
+
+============================================================
+STEP 11 - ZERO QUANTITY ANALYSIS
+============================================================
+
+Zero quantity rows:
+(0, 8)
+
+Sample zero quantity rows:
+Empty DataFrame
+Columns: [Invoice, StockCode, Description, Quantity, InvoiceDate, Price, Customer ID, Country]
+Index: []
+
+============================================================
+STEP 12 - NEGATIVE PRICE ANALYSIS
+============================================================
+
+Negative price rows:
+(3, 8)
+
+Negative price records:
+        Invoice StockCode      Description  Quantity         InvoiceDate     Price  Customer ID         Country
+179403  A506401         B  Adjust bad debt         1 2010-04-29 13:36:00 -53594.36          NaN  United Kingdom
+276274  A516228         B  Adjust bad debt         1 2010-07-19 11:24:00 -44031.79          NaN  United Kingdom
+403472  A528059         B  Adjust bad debt         1 2010-10-20 12:04:00 -38925.87          NaN  United Kingdom
+
+============================================================
+STEP 13 - ZERO PRICE ANALYSIS
+============================================================
+
+Zero price rows:
+(3681, 8)
+
+Sample zero price rows:
+     Invoice StockCode   Description  Quantity         InvoiceDate  Price  Customer ID         Country
+263   489464     21733  85123a mixed       -96 2009-12-01 10:52:00    0.0          NaN  United Kingdom
+283   489463     71477         short      -240 2009-12-01 10:52:00    0.0          NaN  United Kingdom
+284   489467    85123A   21733 mixed      -192 2009-12-01 10:53:00    0.0          NaN  United Kingdom
+470   489521     21646           NaN       -50 2009-12-01 11:44:00    0.0          NaN  United Kingdom
+3114  489655     20683           NaN       -44 2009-12-01 17:26:00    0.0          NaN  United Kingdom
+
+============================================================
+STEP 14 - CANCELLED INVOICE ANALYSIS
+============================================================
+
+Cancelled transactions:
+(10182, 8)
+
+Sample cancelled transactions:
+     Invoice StockCode                    Description  Quantity         InvoiceDate  Price  Customer ID    Country
+178  C489449     22087       PAPER BUNTING WHITE LACE       -12 2009-12-01 10:33:00   2.95      16321.0  Australia
+179  C489449    85206A   CREAM FELT EASTER EGG BASKET        -6 2009-12-01 10:33:00   1.65      16321.0  Australia
+180  C489449     21895  POTTING SHED SOW 'N' GROW SET        -4 2009-12-01 10:33:00   4.25      16321.0  Australia
+181  C489449     21896             POTTING SHED TWINE        -6 2009-12-01 10:33:00   2.10      16321.0  Australia
+182  C489449     22083     PAPER CHAIN KIT RETRO SPOT       -12 2009-12-01 10:33:00   2.95      16321.0  Australia
+
+============================================================
+STEP 15 - CANCELLED VS NEGATIVE QUANTITY
+============================================================
+
+Cancelled transactions with negative quantity:
+(10181, 8)
+
+Cancelled transactions with positive quantity:
+(1, 8)
+
+============================================================
+STEP 16 - REMOVE CANCELLED TRANSACTIONS
+============================================================
+
+Shape after removing cancelled transactions:
+(508414, 8)
+
+Remaining cancelled transactions:
+0
+
+============================================================
+STEP 17 - CUSTOMER ID ANALYSIS
+============================================================
+
+Missing Customer IDs:
+107467
+
+Available Customer IDs:
+400947
+
+Unique Customer IDs:
+4314
+
+============================================================
+STEP 18 - PRODUCT DESCRIPTION ANALYSIS
+============================================================
+
+Missing descriptions:
+2928
+
+Available descriptions:
+505486
+
+Unique descriptions:
+4666
+
+============================================================
+STEP 19 - STOCK CODE ANALYSIS
+============================================================
+
+Unique Stock Codes:
+4627
+
+Sample Stock Codes:
+[85048 '79323P' '79323W' 22041 21232 22064 21871 21523 22350 22349 22195
+ 22353 '48173C' 21755 21754 84879 22119 22142 22296 22295]
+
+============================================================
+STEP 20 - COUNTRY ANALYSIS
+============================================================
+
+Number of countries:
+40
+
+Countries:
+<StringArray>
+[      'United Kingdom',               'France',                  'USA',
+              'Belgium',            'Australia',                 'EIRE',
+              'Germany',             'Portugal',              'Denmark',
+          'Netherlands',               'Poland',      'Channel Islands',
+                'Spain',               'Cyprus',               'Greece',
+               'Norway',              'Austria',               'Sweden',
+ 'United Arab Emirates',              'Finland',                'Italy',
+          'Switzerland',                'Japan',          'Unspecified',
+              'Nigeria',                'Malta',              'Bahrain',
+                  'RSA',              'Bermuda',            'Hong Kong',
+            'Singapore',             'Thailand',               'Israel',
+            'Lithuania',          'West Indies',              'Lebanon',
+                'Korea',               'Brazil',               'Canada',
+              'Iceland']
+Length: 40, dtype: str
+
+============================================================
+STEP 21 - DATE RANGE ANALYSIS
+============================================================
+
+Earliest Invoice Date:
+2009-12-01 07:45:00
+
+Latest Invoice Date:
+2010-12-09 20:01:00
+
+============================================================
+STEP 22 - INVALID DATE CHECK
+============================================================
+
+Missing Invoice Dates:
+0
+
+InvoiceDate data type:
+datetime64[us]
+
+============================================================
+STEP 23 - QUANTITY DISTRIBUTION
+============================================================
+
+Quantity statistics:
+count    508414.000000
+mean         11.066713
+std         105.046657
+min       -9600.000000
+25%           1.000000
+50%           3.000000
+75%          12.000000
+max       19152.000000
+Name: Quantity, dtype: float64
+
+Minimum Quantity:
+-9600
+
+Maximum Quantity:
+19152
+
+============================================================
+STEP 24 - PRICE DISTRIBUTION
+============================================================
+
+Price statistics:
+count    508414.000000
+mean          3.974406
+std         128.544348
+min      -53594.360000
+25%           1.250000
+50%           2.100000
+75%           4.210000
+max       25111.090000
+Name: Price, dtype: float64
+
+Minimum Price:
+-53594.36
+
+Maximum Price:
+25111.09
+
+============================================================
+STEP 25 - UNUSUAL QUANTITY ANALYSIS
+============================================================
+
+Transactions above 99th percentile quantity:
+(4610, 8)
+
+Sample high quantity transactions:
+    Invoice StockCode                      Description  ...  Price Customer ID         Country
+217  489460     84598    BOYS ALPHABET IRON ON PATCHES  ...   0.21     16167.0  United Kingdom
+223  489460     84568  GIRLS ALPHABET IRON ON PATCHES   ...   0.21     16167.0  United Kingdom
+282  489465     84879    ASSORTED COLOUR BIRD ORNAMENT  ...   1.45     13767.0  United Kingdom
+575  489523     84879    ASSORTED COLOUR BIRD ORNAMENT  ...   1.45     12931.0  United Kingdom
+934  489539     22086  PAPER CHAIN KIT 50'S CHRISTMAS   ...   2.55     15061.0  United Kingdom
+
+[5 rows x 8 columns]
+
+============================================================
+STEP 26 - UNUSUAL PRICE ANALYSIS
+============================================================
+
+Transactions above 99th percentile price:
+(4744, 8)
+
+Sample high price transactions:
+     Invoice StockCode                      Description  ...   Price Customer ID         Country
+126   489444      POST                          POSTAGE  ...  141.00     12636.0             USA
+173   489447      POST                          POSTAGE  ...  130.00     12362.0         Belgium
+1344  489562     84472    PINK AND LILAC QUILTED THROW   ...   45.95     17998.0  United Kingdom
+1402  489567     21761  WOOD AND GLASS MEDICINE CABINET  ...   29.95     15326.0  United Kingdom
+1749  489584     21335                     LIBRARY LAMP  ...   21.95     18037.0  United Kingdom
+
+[5 rows x 8 columns]
+
+============================================================
+STEP 27 - MISSING CUSTOMER ID ANALYSIS
+============================================================
+
+Transactions without Customer ID:
+(107467, 8)
+
+Missing Customer ID by country:
+Country
+United Kingdom          106021
+EIRE                       948
+United Arab Emirates        84
+Portugal                    75
+Hong Kong                   74
+Bahrain                     64
+France                      62
+RSA                         45
+Bermuda                     34
+Unspecified                 29
+Name: count, dtype: int64
+
+============================================================
+STEP 28 - MISSING DESCRIPTION ANALYSIS
+============================================================
+
+Transactions without Description:
+(2928, 8)
+
+Missing descriptions by country:
+Country
+United Kingdom    2928
+Name: count, dtype: int64
+
+============================================================
+STEP 29 - INVOICE ANALYSIS
+============================================================
+
+Unique invoices:
+24224
+
+Total transaction rows:
+508414
+
+============================================================
+STEP 30 - PRODUCT TRANSACTION ANALYSIS
+============================================================
+
+Top 10 Stock Codes by transaction count:
+StockCode
+85123A    3377
+22423     2045
+85099B    2003
+21212     1887
+21232     1679
+20725     1558
+84879     1437
+84991     1372
+21754     1349
+20914     1207
+dtype: int64
+
+============================================================
+STEP 31 - COUNTRY TRANSACTION ANALYSIS
+============================================================
+
+Top 10 countries by transaction count:
+Country
+United Kingdom    470276
+EIRE                9451
+Germany             7652
+France              5514
+Netherlands         2729
+Spain               1228
+Switzerland         1170
+Portugal            1058
+Belgium             1037
+Sweden               886
+dtype: int64
+
+============================================================
+STEP 32 - FINAL PRE-CLEANING VALIDATION
+============================================================
+
+Current dataset shape:
+(508414, 8)
+
+Missing values:
+Invoice             0
+StockCode           0
+Description      2928
+Quantity            0
+InvoiceDate         0
+Price               0
+Customer ID    107467
+Country             0
+dtype: int64
+
+Duplicate rows:
+0
+
+Negative quantities:
+2121
+
+Zero quantities:
+0
+
+Negative prices:
+3
+
+Zero prices:
+3681
+
+Cancelled invoices:
+0
+
+======================================================================
+STEPS 1-32 COMPLETED
+======================================================================
+
+============================================================
+STEP 33 - REMOVE CANCELLED TRANSACTIONS
+============================================================
+
+Shape after removing cancelled transactions:
+(508414, 8)
+
+Remaining cancelled transactions:
+0
+
+============================================================
+STEP 34 - REMAINING NEGATIVE QUANTITIES
+============================================================
+
+Remaining negative quantity rows:
+(2121, 8)
+
+Sample remaining negative quantity rows:
+     Invoice StockCode   Description  Quantity         InvoiceDate  Price  Customer ID         Country
+263   489464     21733  85123a mixed       -96 2009-12-01 10:52:00    0.0          NaN  United Kingdom
+283   489463     71477         short      -240 2009-12-01 10:52:00    0.0          NaN  United Kingdom
+284   489467    85123A   21733 mixed      -192 2009-12-01 10:53:00    0.0          NaN  United Kingdom
+470   489521     21646           NaN       -50 2009-12-01 11:44:00    0.0          NaN  United Kingdom
+3114  489655     20683           NaN       -44 2009-12-01 17:26:00    0.0          NaN  United Kingdom
+
+============================================================
+STEP 35 - NEGATIVE QUANTITY ANALYSIS
+============================================================
+
+Negative quantity transactions by price:
+count    2121.0
+mean        0.0
+std         0.0
+min         0.0
+25%         0.0
+50%         0.0
+75%         0.0
+max         0.0
+Name: Price, dtype: float64
+
+Negative quantity transactions with zero price:
+2121
+
+Negative quantity transactions with missing Customer ID:
+2121
+
+Negative quantity transactions with missing Description:
+1827
+
+============================================================
+STEP 36 - REMOVE INVALID NEGATIVE QUANTITIES
+============================================================
+
+Shape after removing negative quantities:
+(506293, 8)
+
+Remaining negative quantity rows:
+0
+
+============================================================
+STEP 37 - REMAINING NEGATIVE PRICES
+============================================================
+
+Remaining negative price rows:
+(3, 8)
+
+Remaining negative price records:
+        Invoice StockCode      Description  Quantity         InvoiceDate     Price  Customer ID         Country
+179403  A506401         B  Adjust bad debt         1 2010-04-29 13:36:00 -53594.36          NaN  United Kingdom
+276274  A516228         B  Adjust bad debt         1 2010-07-19 11:24:00 -44031.79          NaN  United Kingdom
+403472  A528059         B  Adjust bad debt         1 2010-10-20 12:04:00 -38925.87          NaN  United Kingdom
+
+============================================================
+STEP 38 - REMOVE NEGATIVE PRICE RECORDS
+============================================================
+
+Shape after removing negative-price records:
+(506290, 8)
+
+Remaining negative price rows:
+0
+
+============================================================
+STEP 39 - ZERO-PRICE TRANSACTION ANALYSIS
+============================================================
+
+Zero-price rows:
+(1560, 8)
+
+Zero-price transactions with missing Customer ID:
+1529
+
+Zero-price transactions with missing Description:
+1101
+
+Sample zero-price transactions:
+     Invoice StockCode         Description  Quantity         InvoiceDate  Price  Customer ID         Country
+3161  489659     21350                 NaN       230 2009-12-01 17:39:00    0.0          NaN  United Kingdom
+3731  489781     84292                 NaN        17 2009-12-02 11:45:00    0.0          NaN  United Kingdom
+4674  489825     22076  6 RIBBONS EMPIRE          12 2009-12-02 13:34:00    0.0      16126.0  United Kingdom
+5904  489861       DOT      DOTCOM POSTAGE         1 2009-12-02 14:50:00    0.0          NaN  United Kingdom
+6378  489882    35751C                 NaN        12 2009-12-02 16:22:00    0.0          NaN  United Kingdom
+
+============================================================
+STEP 40 - NEGATIVE QUANTITY & CANCELLATION ANALYSIS
+============================================================
+
+Negative quantity rows:
+(0, 8)
+
+Number of negative quantity transactions:
+0
+
+Cancellation invoices:
+0
+
+Percentage of negative quantity transactions:
+0.0 %
+
+============================================================
+STEP 41 - FINAL DATA QUALITY CHECK
+============================================================
+
+Final dataset shape:
+(506290, 8)
+
+Remaining missing values:
+Invoice             0
+StockCode           0
+Description      1101
+Quantity            0
+InvoiceDate         0
+Price               0
+Customer ID    105343
+Country             0
+dtype: int64
+
+Remaining duplicate rows:
+0
+
+Remaining negative quantities:
+0
+
+Remaining negative prices:
+0
+
+Remaining zero quantities:
+0
+
+Remaining zero-price transactions:
+1560
+
+Sales Amount column created.
+
+Sample Sales Amount:
+  Invoice StockCode  Quantity  Price  Sales Amount
+0  489434     85048        12   6.95          83.4
+1  489434    79323P        12   6.75          81.0
+2  489434    79323W        12   6.75          81.0
+3  489434     22041        48   2.10         100.8
+4  489434     21232        24   1.25          30.0
+
+Sales Amount statistics:
+count    506290.000000
+mean         20.288299
+std          91.375587
+min           0.000000
+25%           4.200000
+50%          10.200000
+75%          17.700000
+max       25111.090000
+Name: Sales Amount, dtype: float64
+
+Total Sales Amount:
+10271762.66
+
+============================================================
+STEP 42 - CUSTOMER & ZERO-PRICE ANALYSIS
+============================================================
+
+Transactions with Customer ID:
+400947
+
+Transactions without Customer ID:
+105343
+
+Percentage without Customer ID:
+20.81 %
+
+Unique customers:
+4314
+
+Zero-price transactions:
+1560
+
+Zero-price Sales Amount:
+0.0
+
+Zero-price transactions with Customer ID:
+31
+
+Zero-price transactions without Customer ID:
+1529
+
+Non-zero-price transactions:
+504730
+
+Non-zero-price total sales:
+10271762.66
+
+Top 10 customers by Sales Amount:
+Customer ID
+18102.0    349164.35
+14646.0    248396.50
+14156.0    196549.74
+14911.0    152121.22
+13694.0    131443.19
+17511.0     84541.17
+15061.0     83284.38
+16684.0     80489.21
+16754.0     65500.07
+17949.0     60117.60
+Name: Sales Amount, dtype: float64
+
+============================================================
+STEP 43 - COUNTRY & MONTHLY SALES ANALYSIS
+============================================================
+
+Top 10 countries by Sales Amount:
+Country
+United Kingdom    8812311.833
+EIRE               380909.570
+Netherlands        268784.350
+Germany            202025.391
+France             147103.140
+Sweden              53501.990
+Denmark             50906.850
+Spain               47568.650
+Switzerland         43921.390
+Australia           31446.800
+Name: Sales Amount, dtype: float64
+
+Sales by Country:
+Country
+United Kingdom          8812311.833
+EIRE                     380909.570
+Netherlands              268784.350
+Germany                  202025.391
+France                   147103.140
+Sweden                    53501.990
+Denmark                   50906.850
+Spain                     47568.650
+Switzerland               43921.390
+Australia                 31446.800
+Channel Islands           24546.320
+Belgium                   24537.580
+Portugal                  24265.000
+Norway                    23944.180
+Italy                     15052.730
+Greece                    14335.670
+Austria                   13414.330
+Cyprus                    11347.100
+Japan                      9722.020
+United Arab Emirates       9195.350
+Hong Kong                  8202.520
+Finland                    7379.460
+Unspecified                6186.220
+Malta                      5373.500
+Lithuania                  4892.680
+USA                        4786.470
+Singapore                  4037.770
+RSA                        3802.010
+Poland                     3567.800
+Israel                     3199.400
+Thailand                   3070.540
+Bahrain                    2355.650
+Iceland                    1323.320
+Bermuda                    1253.140
+Canada                     1216.660
+Korea                      1118.510
+West Indies                 536.410
+Brazil                      268.270
+Lebanon                     211.700
+Nigeria                     140.390
+Name: Sales Amount, dtype: float64
+
+Top 10 countries by number of transactions:
+Country
+United Kingdom    468152
+EIRE                9451
+Germany             7652
+France              5514
+Netherlands         2729
+Spain               1228
+Switzerland         1170
+Portugal            1058
+Belgium             1037
+Sweden               886
+dtype: int64
+
+Monthly Sales:
+YearMonth
+2009-12     822483.950
+2010-01     651155.112
+2010-02     551504.726
+2010-03     830915.261
+2010-04     678875.252
+2010-05     657705.500
+2010-06     749537.310
+2010-07     648810.270
+2010-08     695251.910
+2010-09     921696.991
+2010-10    1161902.220
+2010-11    1464293.142
+2010-12     437631.020
+Freq: M, Name: Sales Amount, dtype: float64
+
+Top 10 months by Sales Amount:
+YearMonth
+2010-11    1464293.142
+2010-10    1161902.220
+2010-09     921696.991
+2010-03     830915.261
+2009-12     822483.950
+2010-06     749537.310
+2010-08     695251.910
+2010-04     678875.252
+2010-05     657705.500
+2010-01     651155.112
+Freq: M, Name: Sales Amount, dtype: float64
+
+Best month:
+2010-11
+
+Best month Sales Amount:
+1464293.14
+
+Lowest month:
+2010-12
+
+Lowest month Sales Amount:
+437631.02
+
+============================================================
+STEP 44 - PRODUCT & CUSTOMER PERFORMANCE
+============================================================
+
+Top 10 products by Sales Amount:
+StockCode  Description                        
+M          Manual                                 262577.36
+22423      REGENCY CAKESTAND 3 TIER               169912.76
+85123A     WHITE HANGING HEART T-LIGHT HOLDER     158305.72
+DOT        DOTCOM POSTAGE                         116408.71
+84879      ASSORTED COLOUR BIRD ORNAMENT           72890.19
+22086      PAPER CHAIN KIT 50'S CHRISTMAS          58127.30
+85099B     JUMBO BAG RED RETROSPOT                 54368.82
+47566      PARTY BUNTING                           49664.12
+POST       POSTAGE                                 49477.54
+84347      ROTATING SILVER ANGELS T-LIGHT HLDR     47954.49
+Name: Sales Amount, dtype: float64
+
+Top 10 products by Quantity Sold:
+StockCode  Description                       
+85123A     WHITE HANGING HEART T-LIGHT HOLDER    58387
+84077      WORLD WAR 2 GLIDERS ASSTD DESIGNS     55058
+17003      BROCADE RING PURSE                    48384
+21212      PACK OF 72 RETRO SPOT CAKE CASES      46728
+84879      ASSORTED COLOUR BIRD ORNAMENT         45236
+84991      60 TEATIME FAIRY CAKE CASES           36348
+21977      PACK OF 60 PINK PAISLEY CAKE CASES    31805
+85099B     JUMBO BAG RED RETROSPOT               30329
+22197      SMALL POPCORN HOLDER                  29809
+21232      STRAWBERRY CERAMIC TRINKET BOX        27060
+Name: Quantity, dtype: int64
+
+Top 10 customers by Sales Amount:
+Customer ID
+18102.0    349164.35
+14646.0    248396.50
+14156.0    196549.74
+14911.0    152121.22
+13694.0    131443.19
+17511.0     84541.17
+15061.0     83284.38
+16684.0     80489.21
+16754.0     65500.07
+17949.0     60117.60
+Name: Sales Amount, dtype: float64
+
+Top 10 customers by number of transactions:
+Customer ID
+14911.0    5568
+17841.0    4944
+14606.0    3802
+14156.0    2646
+12748.0    2532
+17850.0    2499
+16549.0    2168
+15311.0    2038
+14646.0    1774
+14527.0    1725
+dtype: int64
+
+Average transaction value:
+20.29
+
+Total quantity sold:
+5992597
+
+============================================================
+STEP 45 - PRODUCT QUALITY & SALES CONCENTRATION
+============================================================
+
+Unique Stock Codes:
+4316
+
+Missing product descriptions:
+1101
+
+Top 10 actual products by Sales Amount:
+StockCode  Description                        
+22423      REGENCY CAKESTAND 3 TIER               169912.76
+85123A     WHITE HANGING HEART T-LIGHT HOLDER     158305.72
+84879      ASSORTED COLOUR BIRD ORNAMENT           72890.19
+22086      PAPER CHAIN KIT 50'S CHRISTMAS          58127.30
+85099B     JUMBO BAG RED RETROSPOT                 54368.82
+47566      PARTY BUNTING                           49664.12
+84347      ROTATING SILVER ANGELS T-LIGHT HLDR     47954.49
+15056N     EDWARDIAN PARASOL NATURAL               36251.10
+21621      VINTAGE UNION JACK BUNTING              36023.71
+85099F     JUMBO BAG STRAWBERRY                    35887.14
+Name: Sales Amount, dtype: float64
+
+Top 10 actual products by Quantity:
+StockCode  Description                       
+85123A     WHITE HANGING HEART T-LIGHT HOLDER    58387
+84077      WORLD WAR 2 GLIDERS ASSTD DESIGNS     55058
+17003      BROCADE RING PURSE                    48384
+21212      PACK OF 72 RETRO SPOT CAKE CASES      46728
+84879      ASSORTED COLOUR BIRD ORNAMENT         45236
+84991      60 TEATIME FAIRY CAKE CASES           36348
+21977      PACK OF 60 PINK PAISLEY CAKE CASES    31805
+85099B     JUMBO BAG RED RETROSPOT               30329
+22197      SMALL POPCORN HOLDER                  29809
+21232      STRAWBERRY CERAMIC TRINKET BOX        27060
+Name: Quantity, dtype: int64
+
+Top 10 products total sales:
+719385.35
+
+Total actual product sales:
+9843299.05
+
+Top 10 products sales contribution:
+7.31 %
+
+Customers with identified Customer ID:
+4314
+
+============================================================
+STEP 46 - FINAL BUSINESS KPIs
+============================================================
+
+Total Sales:
+10271762.66
+
+Total Quantity Sold:
+5992597
+
+Total Unique Invoices:
+22100
+
+Total Unique Products:
+4316
+
+Total Unique Customers:
+4314
+
+Average Order Value:
+464.79
+
+Best Country:
+United Kingdom
+
+Best Country Sales:
+8812311.83
+
+Best Month:
+2010-11
+
+Best Month Sales:
+1464293.14
+
+Best Product:
+(22423, 'REGENCY CAKESTAND 3 TIER')
+
+Best Product Sales:
+169912.76
+
+Best Customer:
+18102.0
+
+Best Customer Sales:
+349164.35
+
+============================================================
+STEP 47 - CREATE SUMMARY TABLES
+============================================================
+
+Monthly Sales Table:
+   YearMonth  Sales Amount
+0    2009-12    822483.950
+1    2010-01    651155.112
+2    2010-02    551504.726
+3    2010-03    830915.261
+4    2010-04    678875.252
+5    2010-05    657705.500
+6    2010-06    749537.310
+7    2010-07    648810.270
+8    2010-08    695251.910
+9    2010-09    921696.991
+10   2010-10   1161902.220
+11   2010-11   1464293.142
+12   2010-12    437631.020
+
+Top 10 Country Sales Table:
+           Country  Sales Amount
+37  United Kingdom   8812311.833
+10            EIRE    380909.570
+24     Netherlands    268784.350
+13         Germany    202025.391
+12          France    147103.140
+32          Sweden     53501.990
+9          Denmark     50906.850
+31           Spain     47568.650
+33     Switzerland     43921.390
+0        Australia     31446.800
+
+Top 10 Product Sales Table:
+     StockCode                          Description  Sales Amount
+1746     22423             REGENCY CAKESTAND 3 TIER     169912.76
+4311    85123A   WHITE HANGING HEART T-LIGHT HOLDER     158305.72
+2921     84879        ASSORTED COLOUR BIRD ORNAMENT      72890.19
+1339     22086      PAPER CHAIN KIT 50'S CHRISTMAS       58127.30
+4294    85099B              JUMBO BAG RED RETROSPOT      54368.82
+2584     47566                        PARTY BUNTING      49664.12
+2767     84347  ROTATING SILVER ANGELS T-LIGHT HLDR      47954.49
+3199    15056N            EDWARDIAN PARASOL NATURAL      36251.10
+925      21621           VINTAGE UNION JACK BUNTING      36023.71
+4298    85099F                 JUMBO BAG STRAWBERRY      35887.14
+
+Top 10 Customer Sales Table:
+      Customer ID  Sales Amount
+4185      18102.0     349164.35
+1638      14646.0     248396.50
+1270      14156.0     196549.74
+1842      14911.0     152121.22
+939       13694.0     131443.19
+3746      17511.0      84541.17
+1953      15061.0      83284.38
+3130      16684.0      80489.21
+3179      16754.0      65500.07
+4067      17949.0      60117.60
+
+Summary tables saved successfully.
+
+============================================================
+STEP 48 - CREATE BUSINESS CHARTS
+============================================================
+
+All 4 charts created successfully.
+
+============================================================
+STEP 49 - RFM CUSTOMER ANALYSIS
+============================================================
+
+RFM table:
+             Recency  Frequency  Monetary
+Customer ID                              
+12346.0          165         11    372.86
+12347.0            3          2   1323.32
+12348.0           74          1    222.16
+12349.0           43          3   2671.14
+12351.0           11          1    300.93
+
+RFM shape:
+(4314, 3)
+
+RFM statistics:
+           Recency    Frequency       Monetary
+count  4314.000000  4314.000000    4314.000000
+mean     91.269124     4.454103    2039.460766
+std      96.943482     8.168658    8909.797773
+min       1.000000     1.000000       0.000000
+25%      18.000000     1.000000     307.105000
+50%      53.000000     2.000000     700.405000
+75%     136.000000     5.000000    1713.297500
+max     374.000000   205.000000  349164.350000
+
+Top 10 customers by Monetary Value:
+             Recency  Frequency   Monetary
+Customer ID                               
+18102.0            1         89  349164.35
+14646.0           10         78  248396.50
+14156.0            7        102  196549.74
+14911.0            1        205  152121.22
+13694.0            9         94  131443.19
+17511.0            3         31   84541.17
+15061.0            3         86   83284.38
+16684.0           15         27   80489.21
+16754.0            8         29   65500.07
+17949.0            7         74   60117.60
+
+Top 10 customers by Frequency:
+             Recency  Frequency   Monetary
+Customer ID                               
+14911.0            1        205  152121.22
+17850.0            8        155   51208.87
+12748.0            1        144   22457.90
+15311.0            1        121   55942.74
+13089.0            4        109   57885.45
+14606.0            2        102   18482.10
+14156.0            7        102  196549.74
+13694.0            9         94  131443.19
+17841.0            1         91   29562.02
+18102.0            1         89  349164.35
+
+Top 10 most recent customers:
+             Recency  Frequency  Monetary
+Customer ID                              
+17530.0            1          3    725.21
+15596.0            1          5   1723.45
+17526.0            1          9   2970.14
+15555.0            1         22   7267.83
+12481.0            1          6   6765.07
+17456.0            1          2    975.56
+17576.0            1         23   5266.77
+12494.0            1          3    626.77
+15513.0            1         18  12992.33
+15660.0            1          7   1212.13
+
+RFM analysis saved successfully.
+
+============================================================
+STEP 50 - RFM CUSTOMER SEGMENTATION
+============================================================
+
+RFM segmentation sample:
+             Recency  Frequency  Monetary  R_Score  F_Score  M_Score  RFM_Score     Customer_Segment
+Customer ID                                                                                         
+12346.0          165         11    372.86        2        5        2          9  Potential Loyalists
+12347.0            3          2   1323.32        5        2        4         11      Loyal Customers
+12348.0           74          1    222.16        2        1        1          4   Lost / Hibernating
+12349.0           43          3   2671.14        3        3        5         11      Loyal Customers
+12351.0           11          1    300.93        5        1        2          8  Potential Loyalists
+12352.0           11          2    343.80        5        2        2          9  Potential Loyalists
+12353.0           44          1    317.76        3        1        2          6              At Risk
+12355.0          203          1    488.21        1        1        2          4   Lost / Hibernating
+12356.0           16          3   3560.30        4        3        5         12      Loyal Customers
+12357.0           24          2  12079.99        4        2        5         11      Loyal Customers
+
+Customer segment counts:
+Customer_Segment
+Potential Loyalists    1126
+Loyal Customers        1026
+VIP / Champions         920
+At Risk                 701
+Lost / Hibernating      541
+Name: count, dtype: int64
+
+Customer segment percentages:
+Customer_Segment
+Potential Loyalists    26.10
+Loyal Customers        23.78
+VIP / Champions        21.33
+At Risk                16.25
+Lost / Hibernating     12.54
+Name: proportion, dtype: float64
+
+Customer segment summary:
+                     Customers  Avg_Recency  Avg_Frequency  Avg_Monetary
+Customer_Segment                                                        
+At Risk                    701       143.86           1.25        326.05
+Lost / Hibernating         541       247.11           1.01        181.56
+Loyal Customers           1026        47.79           4.10       1680.13
+Potential Loyalists       1126        85.00           2.07        708.06
+VIP / Champions            920        15.72          12.22       6467.78
+
+RFM customer segmentation completed successfully.
+
+============================================================
+STEP 51 - CUSTOMER SEGMENT PERFORMANCE ANALYSIS
+============================================================
+
+Customer Segment Performance:
+                     Customers  Total_Revenue  Average_Revenue  Average_Frequency  Average_Recency
+Customer_Segment                                                                                  
+VIP / Champions            920     5950360.09          6467.78              12.22            15.72
+Loyal Customers           1026     1723810.70          1680.13               4.10            47.79
+Potential Loyalists       1126      797276.74           708.06               2.07            85.00
+At Risk                    701      228560.28           326.05               1.25           143.86
+Lost / Hibernating         541       98225.93           181.56               1.01           247.11
+
+Revenue contribution by segment:
+                     Customers  Total_Revenue  Revenue_Percentage
+Customer_Segment                                                 
+VIP / Champions            920     5950360.09               67.63
+Loyal Customers           1026     1723810.70               19.59
+Potential Loyalists       1126      797276.74                9.06
+At Risk                    701      228560.28                2.60
+Lost / Hibernating         541       98225.93                1.12
+
+Customer distribution by segment:
+                     Customers  Customer_Percentage
+Customer_Segment                                   
+VIP / Champions            920                21.33
+Loyal Customers           1026                23.78
+Potential Loyalists       1126                26.10
+At Risk                    701                16.25
+Lost / Hibernating         541                12.54
+
+Highest revenue segment: VIP / Champions
+Largest customer segment: Potential Loyalists
+
+Customer segment performance analysis completed successfully.
+
+============================================================
+STEP 52 - CUSTOMER SEGMENT VISUALIZATION
+============================================================
+
+Customer segment visualizations created successfully.
+
+============================================================
+STEP 53 - PRODUCT PERFORMANCE ANALYSIS
+============================================================
+
+Top 10 products by Revenue:
+     StockCode                          Description  Total_Quantity  Total_Revenue  Average_Price  Transactions
+4759         M                               Manual            2765      262577.36     472.791760           513
+1746     22423             REGENCY CAKESTAND 3 TIER           13691      169912.76      14.364833          2020
+4311    85123A   WHITE HANGING HEART T-LIGHT HOLDER           58387      158305.72       3.047589          3282
+4758       DOT                       DOTCOM POSTAGE             733      116408.71     158.811337           733
+2921     84879        ASSORTED COLOUR BIRD ORNAMENT           45236       72890.19       1.994429          1413
+1339     22086      PAPER CHAIN KIT 50'S CHRISTMAS            17205       58127.30       3.367165           957
+4294    85099B              JUMBO BAG RED RETROSPOT           30329       54368.82       2.168194          1223
+2584     47566                        PARTY BUNTING           10092       49664.12       5.604830          1014
+4761      POST                              POSTAGE            2310       49477.54      26.655191           759
+2767     84347  ROTATING SILVER ANGELS T-LIGHT HLDR           23037       47954.49       3.267682           347
+
+Top 10 products by Quantity Sold:
+     StockCode                         Description  Total_Quantity  Total_Revenue  Average_Price  Transactions
+4311    85123A  WHITE HANGING HEART T-LIGHT HOLDER           58387      158305.72       3.047589          3282
+2751     84077   WORLD WAR 2 GLIDERS ASSTD DESIGNS           55058       11383.97       0.243050           503
+52       17003                 BROCADE RING PURSE            48384        8922.80       0.239489           231
+536      21212    PACK OF 72 RETRO SPOT CAKE CASES           46728       24054.43       0.665916          1410
+2921     84879       ASSORTED COLOUR BIRD ORNAMENT           45236       72890.19       1.994429          1413
+2968     84991         60 TEATIME FAIRY CAKE CASES           36348       18151.40       0.651815          1336
+1245     21977  PACK OF 60 PINK PAISLEY CAKE CASES           31805       16187.31       0.690638          1155
+4294    85099B             JUMBO BAG RED RETROSPOT           30329       54368.82       2.168194          1223
+1465     22197                SMALL POPCORN HOLDER           29809       27022.23       1.013521           887
+557      21232      STRAWBERRY CERAMIC TRINKET BOX           27060       34411.68       1.465080          1640
+
+Top 10 products by Transactions:
+     StockCode                         Description  Total_Quantity  Total_Revenue  Average_Price  Transactions
+4311    85123A  WHITE HANGING HEART T-LIGHT HOLDER           58387      158305.72       3.047589          3282
+1746     22423            REGENCY CAKESTAND 3 TIER           13691      169912.76      14.364833          2020
+557      21232      STRAWBERRY CERAMIC TRINKET BOX           27060       34411.68       1.465080          1640
+2921     84879       ASSORTED COLOUR BIRD ORNAMENT           45236       72890.19       1.994429          1413
+536      21212    PACK OF 72 RETRO SPOT CAKE CASES           46728       24054.43       0.665916          1410
+2968     84991         60 TEATIME FAIRY CAKE CASES           36348       18151.40       0.651815          1336
+1061     21754            HOME BUILDING BLOCK WORD            5037       30851.27       6.577502          1331
+4294    85099B             JUMBO BAG RED RETROSPOT           30329       54368.82       2.168194          1223
+151      20725                LUNCH BAG RED SPOTTY           17885       29773.27       1.961779          1218
+1218     21931              JUMBO STORAGE BAG SUKI           15839       31493.71       2.319121          1180
+
+Product analysis statistics:
+       Total_Quantity  Total_Revenue  Average_Price  Transactions
+count     4774.000000    4774.000000    4774.000000   4774.000000
+mean      1223.816297    2151.605083       6.903879    104.483243
+std       3101.329194    6831.672236     147.101859    169.469336
+min          1.000000       0.000000       0.000000      1.000000
+25%         47.000000     115.077500       1.427047     11.000000
+50%        292.500000     551.910000       2.583836     42.000000
+75%       1083.000000    1852.620000       4.988992    125.000000
+max      58387.000000  262577.360000   10124.020000   3282.000000
+
+Product performance analysis completed successfully.
+
+============================================================
+STEP 54 - PRODUCT PERFORMANCE VISUALIZATION
+============================================================
+
+Product performance visualizations created successfully.
+
+============================================================
+STEP 55 - COUNTRY-WISE SALES ANALYSIS
+============================================================
+
+Top 10 Countries by Revenue:
+           Country  Customers  Orders  Quantity_Sold  Total_Revenue
+37  United Kingdom       3971   20439        4881837    8812311.833
+10            EIRE          5     348         193048     380909.570
+24     Netherlands         22     135         183679     268784.350
+13         Germany         67     347         108633     202025.391
+12          France         47     241         163029     147103.140
+32          Sweden         16      69          52555      53501.990
+9          Denmark          9      26         229690      50906.850
+31           Spain         25      66          22841      47568.650
+33     Switzerland         14      40          22255      43921.390
+0        Australia         15      40          20189      31446.800
+
+Top 10 Countries by Number of Customers:
+           Country  Customers  Orders  Quantity_Sold  Total_Revenue
+37  United Kingdom       3971   20439        4881837    8812311.833
+13         Germany         67     347         108633     202025.391
+12          France         47     241         163029     147103.140
+31           Spain         25      66          22841      47568.650
+24     Netherlands         22     135         183679     268784.350
+28        Portugal         18      41          12148      24265.000
+3          Belgium         17      52          12069      24537.580
+32          Sweden         16      69          52555      53501.990
+0        Australia         15      40          20189      31446.800
+33     Switzerland         14      40          22255      43921.390
+
+Revenue contribution of top 10 countries:
+           Country  Total_Revenue  Revenue_Percentage
+37  United Kingdom    8812311.833               85.79
+10            EIRE     380909.570                3.71
+24     Netherlands     268784.350                2.62
+13         Germany     202025.391                1.97
+12          France     147103.140                1.43
+32          Sweden      53501.990                0.52
+9          Denmark      50906.850                0.50
+31           Spain      47568.650                0.46
+33     Switzerland      43921.390                0.43
+0        Australia      31446.800                0.31
+
+Country-wise sales analysis completed successfully.
+
+============================================================
+STEP 56 - COUNTRY-WISE SALES VISUALIZATION
+============================================================
+
+Country-wise sales visualizations created successfully.
+
+============================================================
+STEP 57 - MONTHLY SALES TREND
+============================================================
+
+Monthly Sales:
+   YearMonth  Orders  Customers  Quantity_Sold  Total_Revenue
+0    2009-12    1839        955         444341     822483.950
+1    2010-01    1205        720         395234     651155.112
+2    2010-02    1281        774         391860     551504.726
+3    2010-03    1770       1057         530314     830915.261
+4    2010-04    1512        942         385747     678875.252
+5    2010-05    1642        966         424009     657705.500
+6    2010-06    1719       1041         413723     749537.310
+7    2010-07    1584        928         358590     648810.270
+8    2010-08    1511        911         521762     695251.910
+9    2010-09    1911       1145         592615     921696.991
+10   2010-10    2370       1497         622277    1161902.220
+11   2010-11    2868       1607         730417    1464293.142
+12   2010-12     888        573         181708     437631.020
+
+Top 10 Months by Revenue:
+   YearMonth  Orders  Customers  Quantity_Sold  Total_Revenue
+11   2010-11    2868       1607         730417    1464293.142
+10   2010-10    2370       1497         622277    1161902.220
+9    2010-09    1911       1145         592615     921696.991
+3    2010-03    1770       1057         530314     830915.261
+0    2009-12    1839        955         444341     822483.950
+6    2010-06    1719       1041         413723     749537.310
+8    2010-08    1511        911         521762     695251.910
+4    2010-04    1512        942         385747     678875.252
+5    2010-05    1642        966         424009     657705.500
+1    2010-01    1205        720         395234     651155.112
+
+Monthly sales trend analysis completed successfully.
+
+============================================================
+STEP 58 - MONTHLY SALES VISUALIZATION
+============================================================
+
+Monthly sales visualizations created successfully.
+
+============================================================
+STEP 59 - SALES GROWTH ANALYSIS
+============================================================
+
+Overall Sales Metrics:
+Total Revenue: £10,271,762.66
+Total Orders: 22,100
+Total Customers: 4,314
+Average Monthly Revenue: £790,135.59
+
+Monthly Revenue Growth:
+   YearMonth  Total_Revenue  Revenue_Growth_%
+0    2009-12     822483.950               NaN
+1    2010-01     651155.112            -20.83
+2    2010-02     551504.726            -15.30
+3    2010-03     830915.261             50.66
+4    2010-04     678875.252            -18.30
+5    2010-05     657705.500             -3.12
+6    2010-06     749537.310             13.96
+7    2010-07     648810.270            -13.44
+8    2010-08     695251.910              7.16
+9    2010-09     921696.991             32.57
+10   2010-10    1161902.220             26.06
+11   2010-11    1464293.142             26.03
+12   2010-12     437631.020            -70.11
+
+Best Month:
+YearMonth               2010-11
+Orders                     2868
+Customers                  1607
+Quantity_Sold            730417
+Total_Revenue       1464293.142
+Revenue_Growth_%          26.03
+Name: 11, dtype: object
+
+Worst Month:
+YearMonth             2010-12
+Orders                    888
+Customers                 573
+Quantity_Sold          181708
+Total_Revenue       437631.02
+Revenue_Growth_%       -70.11
+Name: 12, dtype: object
+
+Highest Month-over-Month Growth:
+YearMonth              2010-03
+Orders                    1770
+Customers                 1057
+Quantity_Sold           530314
+Total_Revenue       830915.261
+Revenue_Growth_%         50.66
+Name: 3, dtype: object
+
+Sales growth analysis completed successfully.
+
+============================================================
+STEP 60 - AVERAGE ORDER VALUE & CUSTOMER SPENDING
+============================================================
+
+Order-level analysis:
+   Invoice  Order_Revenue  Items  Customer
+0   489434         505.30    166   13085.0
+1   489435         145.80     60   13085.0
+2   489436         630.33    193   13078.0
+3   489437         310.75    145   15362.0
+4   489438        2286.24    826   18102.0
+
+Average Order Value:
+£464.79
+
+Median Order Value:
+£282.48
+
+Maximum Order Value:
+£49,844.99
+
+Minimum Order Value:
+£0.00
+
+Top 10 Orders by Revenue:
+       Invoice  Order_Revenue  Items  Customer
+19713   533027       49844.99  13387       NaN
+19025   531516       45332.97  12410       NaN
+1967    493819       44051.60  25018   14156.0
+15633   524181       33167.80   8820   17450.0
+16984   526934       26007.08   5079   18102.0
+10313   512771       25111.09      1       NaN
+11734   515944       22863.36   4992   18102.0
+5946    503061       22853.77   5924       NaN
+12573   517731       21984.00   4800   18102.0
+2700    495591       18570.88  12832   14646.0
+
+Top 10 Customers by Average Order Value:
+             Recency  Frequency  Monetary  Average_Order_Value
+Customer ID                                                   
+13687.0           74          1  11880.84         11880.840000
+12918.0          262          1  10953.50         10953.500000
+18052.0          200          1  10877.18         10877.180000
+17450.0            3          7  52422.30          7488.900000
+15760.0          266          2  13916.34          6958.170000
+13902.0          268          5  34095.26          6819.052000
+12357.0           24          2  12079.99          6039.995000
+14091.0          290          2   9530.08          4765.040000
+14088.0           42          3  13544.99          4514.996667
+17940.0           81          6  26286.75          4381.125000
+
+Customer Spending Statistics:
+            Monetary    Frequency  Average_Order_Value
+count    4314.000000  4314.000000          4314.000000
+mean     2039.460766     4.454103           376.198874
+std      8909.797773     8.168658           492.309973
+min         0.000000     1.000000             0.000000
+25%       307.105000     1.000000           179.400000
+50%       700.405000     2.000000           284.855000
+75%      1713.297500     5.000000           421.450000
+max    349164.350000   205.000000         11880.840000
+
+Order analysis saved successfully.
+Customer spending analysis saved successfully.
+
+Average order value and customer spending analysis completed successfully.
+
+============================================================
+STEP 61 - CUSTOMER PURCHASE BEHAVIOR ANALYSIS
+============================================================
+
+Customer purchase behavior sample:
+             Recency  Frequency  Monetary     Customer_Segment  Average_Order_Value
+Customer ID                                                                        
+12346.0          165         11    372.86  Potential Loyalists            33.896364
+12347.0            3          2   1323.32      Loyal Customers           661.660000
+12348.0           74          1    222.16   Lost / Hibernating           222.160000
+12349.0           43          3   2671.14      Loyal Customers           890.380000
+12351.0           11          1    300.93  Potential Loyalists           300.930000
+12352.0           11          2    343.80  Potential Loyalists           171.900000
+12353.0           44          1    317.76              At Risk           317.760000
+12355.0          203          1    488.21   Lost / Hibernating           488.210000
+12356.0           16          3   3560.30      Loyal Customers          1186.766667
+12357.0           24          2  12079.99      Loyal Customers          6039.995000
+
+Top 10 Most Frequent Customers:
+             Recency  Frequency   Monetary Customer_Segment  Average_Order_Value
+Customer ID                                                                     
+14911.0            1        205  152121.22  VIP / Champions           742.054732
+17850.0            8        155   51208.87  VIP / Champions           330.379806
+12748.0            1        144   22457.90  VIP / Champions           155.957639
+15311.0            1        121   55942.74  VIP / Champions           462.336694
+13089.0            4        109   57885.45  VIP / Champions           531.059174
+14606.0            2        102   18482.10  VIP / Champions           181.197059
+14156.0            7        102  196549.74  VIP / Champions          1926.958235
+13694.0            9         94  131443.19  VIP / Champions          1398.331809
+17841.0            1         91   29562.02  VIP / Champions           324.857363
+18102.0            1         89  349164.35  VIP / Champions          3923.194944
+
+Top 10 Highest Spending Customers:
+             Recency  Frequency   Monetary Customer_Segment  Average_Order_Value
+Customer ID                                                                     
+18102.0            1         89  349164.35  VIP / Champions          3923.194944
+14646.0           10         78  248396.50  VIP / Champions          3184.570513
+14156.0            7        102  196549.74  VIP / Champions          1926.958235
+14911.0            1        205  152121.22  VIP / Champions           742.054732
+13694.0            9         94  131443.19  VIP / Champions          1398.331809
+17511.0            3         31   84541.17  VIP / Champions          2727.134516
+15061.0            3         86   83284.38  VIP / Champions           968.423023
+16684.0           15         27   80489.21  VIP / Champions          2981.081852
+16754.0            8         29   65500.07  VIP / Champions          2258.623103
+17949.0            7         74   60117.60  VIP / Champions           812.400000
+
+Top 10 Most Recent Customers:
+             Recency  Frequency  Monetary Customer_Segment  Average_Order_Value
+Customer ID                                                                    
+17530.0            1          3    725.21  Loyal Customers           241.736667
+15596.0            1          5   1723.45  VIP / Champions           344.690000
+17526.0            1          9   2970.14  VIP / Champions           330.015556
+15555.0            1         22   7267.83  VIP / Champions           330.355909
+12481.0            1          6   6765.07  VIP / Champions          1127.511667
+17456.0            1          2    975.56  Loyal Customers           487.780000
+17576.0            1         23   5266.77  VIP / Champions           228.990000
+12494.0            1          3    626.77  Loyal Customers           208.923333
+15513.0            1         18  12992.33  VIP / Champions           721.796111
+15660.0            1          7   1212.13  VIP / Champions           173.161429
+
+Customer Purchase Behavior Statistics:
+           Recency    Frequency       Monetary  Average_Order_Value
+count  4314.000000  4314.000000    4314.000000          4314.000000
+mean     91.269124     4.454103    2039.460766           376.198874
+std      96.943482     8.168658    8909.797773           492.309973
+min       1.000000     1.000000       0.000000             0.000000
+25%      18.000000     1.000000     307.105000           179.400000
+50%      53.000000     2.000000     700.405000           284.855000
+75%     136.000000     5.000000    1713.297500           421.450000
+max     374.000000   205.000000  349164.350000         11880.840000
+
+Purchase Behavior by Customer Segment:
+                     Customers  Average_Recency  Average_Frequency  Average_Spending  Average_Order_Value
+Customer_Segment                                                                                         
+At Risk                    701           143.86               1.25            326.05               288.39
+Lost / Hibernating         541           247.11               1.01            181.56               180.40
+Loyal Customers           1026            47.79               4.10           1680.13               436.89
+Potential Loyalists       1126            85.00               2.07            708.06               403.78
+VIP / Champions            920            15.72              12.22           6467.78               456.81
+
+Customer purchase behavior analysis completed successfully.
+
+============================================================
+STEP 62 - CUSTOMER RETENTION & REPEAT PURCHASE ANALYSIS
+============================================================
+
+Customer Retention Summary:
+Total Identified Customers: 4,314
+Repeat Customers: 2,893
+One-Time Customers: 1,421
+
+Repeat Customer Percentage:
+67.06%
+
+One-Time Customer Percentage:
+32.94%
+
+Customer Order Frequency Distribution:
+Invoice
+1     1421
+2      810
+3      525
+4      378
+5      238
+6      192
+7      157
+8      109
+9       80
+10      69
+11      50
+12      43
+13      38
+14      27
+15      18
+16      14
+17      15
+18      19
+19      11
+20       7
+Name: count, dtype: int64
+
+Average Orders per Customer:
+4.45
+
+Maximum Orders by One Customer:
+205
+
+Top 10 Customers by Number of Orders:
+Customer ID
+14911.0    205
+17850.0    155
+12748.0    144
+15311.0    121
+13089.0    109
+14606.0    102
+14156.0    102
+13694.0     94
+17841.0     91
+18102.0     89
+Name: Invoice, dtype: int64
+
+Customer retention analysis saved successfully.
+
+Customer retention and repeat purchase analysis completed successfully.
+
+============================================================
+STEP 63 - CUSTOMER RETENTION BY SEGMENT
+============================================================
+
+Retention by Customer Segment:
+                     Total_Customers  Repeat_Customers  ...  Average_Orders  Repeat_Customer_Percentage
+Customer_Segment                                        ...                                            
+At Risk                          701               160  ...            1.25                       22.82
+Lost / Hibernating               541                 8  ...            1.01                        1.48
+Loyal Customers                 1026              1016  ...            4.10                       99.03
+Potential Loyalists             1126               789  ...            2.07                       70.07
+VIP / Champions                  920               920  ...           12.22                      100.00
+
+[5 rows x 5 columns]
+
+Highest Repeat Customer Segment:
+VIP / Champions
+
+Highest Repeat Customer Percentage:
+100.0 %
+
+Customer retention by segment analysis completed successfully.
+
+============================================================
+STEP 64 - CUSTOMER RETENTION VISUALIZATION
+============================================================
+
+Retention visualizations created successfully.
+Charts saved in the data folder.
+
+======================================================================
+STEP 65 - FINAL PROJECT SUMMARY & BUSINESS INSIGHTS
+======================================================================
+
+FINAL BUSINESS KPIs
+--------------------------------------------------
+Total Revenue: £10,271,762.66
+Total Orders: 22,100
+Total Customers: 4,314
+Total Products: 4,316
+Total Quantity Sold: 5,992,597
+Average Order Value: £464.79
+
+Repeat Customers: 2,893
+One-Time Customers: 1,421
+Repeat Customer Percentage: 67.06%
+
+======================================================================
+KEY BUSINESS INSIGHTS
+======================================================================
+
+1. BEST COUNTRY
+Country: United Kingdom
+Revenue: £8,812,311.83
+
+2. BEST PRODUCT
+Product: Manual
+Revenue: £262,577.36
+
+3. TOP CUSTOMER
+Customer ID: 18102.0
+Customer Spending: £349,164.35
+Customer Frequency: 89
+
+4. BEST MONTH
+Month: 2010-11
+Revenue: £1,464,293.14
+
+5. BEST CUSTOMER SEGMENT
+Segment: VIP / Champions
+Customers: 920.0
+Revenue: £5,950,360.09
+Revenue Contribution: 67.63%
+
+6. CUSTOMER RETENTION
+Repeat Customer Rate: 67.06%
+
+7. MAIN BUSINESS OBSERVATION
+VIP / Champions generate the largest share of customer revenue, making customer retention and VIP engagement important business priorities.
+
+======================================================================
+PROJECT 2 COMPLETED SUCCESSFULLY!
+======================================================================
+
+Online Retail Data Analysis Project
+All 65 steps completed successfully.
+
+======================================================================
+COMPLETE PROJECT OUTPUT SAVED SUCCESSFULLY
+======================================================================

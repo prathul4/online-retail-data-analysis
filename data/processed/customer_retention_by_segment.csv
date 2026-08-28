@@ -1,0 +1,6 @@
+Customer_Segment,Total_Customers,Repeat_Customers,One_Time_Customers,Average_Orders,Repeat_Customer_Percentage
+Lost / Hibernating,541,8,533,1.01,1.48
+At Risk,701,160,541,1.25,22.82
+Potential Loyalists,1126,789,337,2.07,70.07
+Loyal Customers,1026,1016,10,4.1,99.03
+VIP / Champions,920,920,0,12.22,100.0
