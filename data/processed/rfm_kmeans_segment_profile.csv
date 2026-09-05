@@ -1,0 +1,5 @@
+KMeans_Segment,Customers,Avg_Recency,Avg_Frequency,Avg_Monetary,Total_Revenue
+At Risk,3204,43.03,4.46,1710.65,5480922.7
+Loyal Customers,56,14.91,47.02,28896.42,1618199.33
+Champions,5,5.6,113.6,215535.0,1077675.0
+Lost,1049,243.09,1.66,592.41,621436.71
